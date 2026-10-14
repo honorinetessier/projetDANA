@@ -1,0 +1,957 @@
+geonameid ,name,asciiname,alternatenames,latitude,longitude,feature_class,feature_code,country_code,cc2,admin1_code,admin2_code,admin3_code,admin4_code,population,elevation,dem_gtopo30,timezone,modification_date
+2967549,Vue,Vue,"Gwagenez,Ile-Tortue,Vue",47.19865,-1.88108,P,PPL,FR,,52,44,442,44220,1324,,1,Europe/Paris,2020-09-10
+2969111,Vigneux-de-Bretagne,Vigneux-de-Bretagne,"Gwinieg-Breizh,Vigneux,Vigneux-de-Bretagne,Vin'e-de-Bretan',wei gai yu de bu lei ta ni,Віньє-де-Бретань,维盖于德布雷塔尼",47.32545,-1.73732,P,PPL,FR,,52,44,445,44217,5095,,64,Europe/Paris,2020-09-10
+2969316,Vieillevigne,Vieillevigne,"Henwinieg,Vieillevigne",46.97152,-1.43446,P,PPL,FR,,52,44,442,44216,3529,,40,Europe/Paris,2020-09-10
+2969612,Vertou,Vertou,"Gwerzhav,Vertou,Vertu,beleutu,vuerutou,wei er tu,wrtw,Верту,ورتو,ヴェルトゥ,韦尔图,베르투",47.16878,-1.4729,P,PPL,FR,,52,44,442,44215,22921,,35,Europe/Paris,2026-08-30
+2969717,Ruisseau Verret,Ruisseau Verret,"Le Verret Riviere,Le Verret Rivière,Ruisseau Verret",47.13503,-1.23758,H,STM,FR,,52,44,,,0,,37,Europe/Paris,2016-02-18
+2970382,Vaux,Vaux,,47.46536,-1.48083,P,PPL,FR,,52,44,445,44110,0,,8,Europe/Paris,2019-03-26
+2970808,Vandel,Vandel,,47.33083,-1.32714,P,PPL,FR,,52,44,445,44028,0,,60,Europe/Paris,2019-03-26
+2970923,Vallet,Vallet,"Gwaled,Vallet",47.16133,-1.26715,P,PPL,FR,,52,44,442,44212,7483,,55,Europe/Paris,2020-09-10
+2971815,Trentemoult,Trentemoult,Trentemoux,47.1945,-1.57722,P,PPL,FR,,52,44,442,44143,0,,5,Europe/Paris,2016-02-18
+2971908,Treillières,Treillieres,"Treillieres,Treillières,Trejer,Trelier,Treliera,te lei li ai,Трейєр,特雷利埃",47.33117,-1.62684,P,PPL,FR,,52,44,445,44209,6572,,57,Europe/Paris,2020-09-10
+2972243,Tournebride,Tournebride,,47.17703,-1.40989,P,PPL,FR,,52,44,442,44070,0,,27,Europe/Paris,2016-02-18
+2972364,Forêt de Touffou,Foret de Touffou,,47.12709,-1.48773,V,FRST,FR,,52,44,,,0,,50,Europe/Paris,2016-02-18
+2972696,Thouaré-sur-Loire,Thouare-sur-Loire,"Tarvieg,Tauriacus,Thouare,Thouare-sur-Loire,Thouaré,Thouaré-sur-Loire,Tuare-Sjur-Luar,Tuare-sjur-Luar,lu wa er he pan tu a lei,Туаре-Сюр-Луар,Туаре-сюр-Луар,卢瓦尔河畔图阿雷",47.26957,-1.44354,P,PPL,FR,,52,44,442,44204,7172,,20,Europe/Paris,2026-08-30
+2973162,Tenu,Tenu,"Le Tenu Riviere,Le Tenu Rivière,Tenu",47.12598,-1.72568,H,STM,FR,,52,44,,,0,,5,Europe/Paris,2016-02-18
+2973748,Sucé-sur-Erdre,Suce-sur-Erdre,"Sjuse-Sjur-Erdr,Sjuse-sjur-Erdr,Sucerum,Sulieg,ai er de er he pan xu sai,Сюсе-Сюр-Ердр,Сюсе-сюр-Ердр,埃尔德尔河畔叙塞",47.33333,-1.53333,P,PPL,FR,,52,44,445,44201,6335,,22,Europe/Paris,2026-08-30
+2974539,Sillon de Bretagne,Sillon de Bretagne,,47.36667,-1.86667,L,RGN,FR,,52,44,,,0,,74,Europe/Paris,2016-02-18
+2974680,Sèvre Nantaise,Sevre Nantaise,"Afon Sevre Nantaise,Afon Sèvre Nantaise,La Sevre Nantaise Riviere,La Sevre Riviere,La Sèvre Nantaise Rivière,La Sèvre Rivière,Rio Sevre Nantaise,Rio Sèvre Nantaise,Separa  (a. 1189),Sevr,Sevr Nantaiz,Sevr-Nantez,Sevre,Sevre Nantaise,Sevre Nantaise River,Sevre nantaise,Sevria  (a. 1085),Sèvre,Sèvre Nantaise,Sèvre Nantaise River,Sèvre nantaise,sai fu er nan te he,Σεβρ Νανταίζ,Севр-Нантез,塞夫爾楠特河",47.19655,-1.54679,H,STM,FR,,52,44,,,0,,5,Europe/Paris,2021-03-10
+2975702,Sautron,Sautron,"Salterona,Saotron,Sautron,Sotron,suo te long,Сотрон,索特龙",47.26345,-1.67222,P,PPL,FR,,52,44,442,44194,7405,,67,Europe/Paris,2026-08-30
+2976984,Saint-Sébastien-sur-Loire,Saint-Sebastien-sur-Loire,"Engnia,Saint-Sebastien,Saint-Sebastien-sur-Loire,Saint-Sébastien,Saint-Sébastien-sur-Loire,San Sebastian sobre Loira,San Sebastián sobre Loira,Sankt-Sebast'jan-sjur-Luar,Sant-Sebastian-an-Enk,Sen Sebastjan suer Luar,Sen Sebastjan sür Luar,Sen Sebastjen sir Loar,Sen-Sebast'jan-sjur-Luar,lu wa er he pan sheng sai ba si di an,saengsebaseutiangswileulualeu,san=sebasutian=shuru=rowaru,sn sbastyn swr lwar,syn-sbastyn-swr-lwyr,Санкт-Себастьян-сюр-Луар,Сен Себастјен сир Лоар,Сен-Себастьян-сюр-Луар,سن سباستین سور لوآر,سین-سباستین-سور-لوئر,サン＝セバスティアン＝シュル＝ロワール,卢瓦尔河畔圣塞巴斯蒂安,생세바스티앙쉬르루아르",47.20768,-1.50332,P,PPL,FR,,52,44,442,44190,29238,,17,Europe/Paris,2016-02-18
+2977052,Saint-Sauveur-de-Landemont,Saint-Sauveur-de-Landemont,"Saint-Sauveur,Sen-Sover-de-Landmon,sheng suo fu de lang dai meng,Сен-Совер-де-Ландмон,سین-سویر-دے-لنڈےمونٹ,圣索弗德朗代蒙",47.28333,-1.25,P,PPL,FR,,52,49,492,49069,0,,73,Europe/Paris,2016-12-10
+2977602,Saint-Philbert-de-Grand-Lieu,Saint-Philbert-de-Grand-Lieu,"Saint Philbert de Grand-Lieu,Saint-Philbert,Saint-Philbert-de-Grand-Lieu,Sanctus Philibertus de Grandi Lacu,Sant-Filberzh-Deaz,Sen-Fil'ber-de-Gran-L'e,san=firuberu=do=guran=ryu,sheng fei er bei er de ge lang de-li e,Сен-Фільбер-де-Гран-Льє,سین-فلبرٹ-دے-گرینڈ-لیو,サン＝フィルベール＝ド＝グラン＝リュー,圣菲尔贝尔德格朗德-利厄",47.03573,-1.64088,P,PPL,FR,,52,44,442,44188,6757,,7,Europe/Paris,2020-09-10
+2977603,Saint-Philbert-de-Bouaine,Saint-Philbert-de-Bouaine,"Saint-Philbert,Saint-Philbert-de-Bouaine",46.98748,-1.51961,P,PPL,FR,,52,85,852,85262,2413,,25,Europe/Paris,2020-10-14
+2978057,Saint-Même-le-Tenu,Saint-Meme-le-Tenu,"Saint-Meme,Saint-Meme-le-Tenu,Saint-Même,Saint-Même-le-Tenu,Sant-Masen-ar-Porzh,Sen-Mem-Le-Tenju,Sen-Mem-le-Tenju,sheng mei mu lai te ni,Сен-Мем-Ле-Теню,Сен-Мем-ле-Теню,سینٹ-ممے-لے-تنوع,圣梅姆莱特尼",47.02089,-1.79409,P,PPL,FR,,52,44,442,44087,1138,,7,Europe/Paris,2026-08-30
+2978524,Saint-Mars-du-Désert,Saint-Mars-du-Desert,"Saint-Mars,Saint-Mars-du-Desert,Saint-Mars-du-Désert,Sant-Marzh-an-Dezerzh",47.3645,-1.4101,P,PPL,FR,,52,44,445,44179,4002,,66,Europe/Paris,2020-09-10
+2978529,Saint-Mars-de-Coutais,Saint-Mars-de-Coutais,"Saint-Mars,Saint-Mars-de-Coutais,Sant-Marzh-ar-C'hoad,Sant-Marzh-ar-Choad,Sen-Mars-de-Kute,san=marusu=do=kute,sheng ma er de ku tai,Сен-Марс-де-Куте,سینٹ-مارس-دے-کوتیس,サン＝マルス＝ド＝クテ,圣马尔德库泰",47.11266,-1.73552,P,PPL,FR,,52,44,442,44178,2360,,6,Europe/Paris,2020-09-10
+2978669,Saint-Lumine-de-Coutais,Saint-Lumine-de-Coutais,"Saint-Lumine,Saint-Lumine-de-Coutais,Sant-Leven-ar-C'hoad,Sant-Leven-ar-Choad,Sen-Ljumin-de-Kute,sheng lu man de ku tai,Сен-Люмін-де-Куте,سینٹ-لمینے-دے-کوتیس,圣吕曼德库泰",47.05471,-1.7269,P,PPL,FR,,52,44,442,44174,1770,,25,Europe/Paris,2020-09-10
+2978670,Saint-Lumine-de-Clisson,Saint-Lumine-de-Clisson,"Saint-Lumine,Saint-Lumine-de-Clisson,Sant-Leven-Klison,Sen-Ljumin-de-Klisson,sheng lu man de ke li song,Сен-Люмін-де-Кліссон,سینٹ-لمینے-دے-کلاسوں,圣吕曼德克利松",47.08284,-1.33716,P,PPL,FR,,52,44,442,44173,1451,,32,Europe/Paris,2020-09-10
+2978814,Saint-Léger-les-Vignes,Saint-Leger-les-Vignes,"Saint-Leger,Saint-Leger-les-Vignes,Saint-Léger-les-Vignes,Sant-Lezer-ar-Gwiniegi",47.13576,-1.73166,P,PPL,FR,,52,44,442,44171,1245,,13,Europe/Paris,2020-09-10
+2978917,Saint-Laurent-des-Autels,Saint-Laurent-des-Autels,"Saint-Laurent,Saint-Laurent-des-Autels,Sen-Loran-dez-Otel',san=roran=dezoteru,sheng luo lang dai ao tai er,Сен-Лоран-дез-Отель,سینٹ-لارنٹ-دس-اٹلس,サン＝ローラン＝デゾテル,圣洛朗代奥泰尔",47.28524,-1.18881,P,PPL,FR,,52,49,492,49069,1590,,93,Europe/Paris,2016-12-10
+2979109,Saint-Julien-de-Concelles,Saint-Julien-de-Concelles,"Saint-Julien,Saint-Julien-de-Concelles,Sanctus Iulianus de Concellis,Sant-Juluan-Kankell,Sen-Zhul'en-de-Konsel',sheng rui li an de kong se lai,Сен-Жульєн-де-Консель,سینٹ-جلیں -دے-کونکلیس,圣瑞利安德孔瑟莱",47.2536,-1.38568,P,PPL,FR,,52,44,442,44169,6758,,12,Europe/Paris,2020-09-10
+2979166,Saint-Joseph,Saint-Joseph,,47.23333,-1.55,S,RSTN,FR,,52,44,442,44109,0,,13,Europe/Paris,2016-02-18
+2979169,Saint-Joseph,Saint-Joseph,,47.26854,-1.5197,P,PPL,FR,,52,44,442,44109,0,,22,Europe/Paris,2016-02-18
+2979336,Saint-Jean,Saint-Jean,"Saint-Jean,Saint-Jean-de-Corcoue,Saint-Jean-de-Corcoué",46.96473,-1.58326,P,PPLX,FR,,52,44,442,44156,0,,43,Europe/Paris,2020-09-10
+2979344,Saint-Jean-de-Boiseau,Saint-Jean-de-Boiseau,"Saint-Jean,Saint-Jean-de-Boiseau,Sant-Yann-ar-Granneg,Sen-Zhan-de-Buazo,sheng rang de bu wa suo,Сен-Жан-де-Буазо,سینٹ-ژاں -دے-بوسو,圣让德布瓦索",47.19424,-1.72485,P,PPL,FR,,52,44,442,44166,4906,,21,Europe/Paris,2020-09-10
+2979545,Saint-Hilaire-de-Loulay,Saint-Hilaire-de-Loulay,"Saint-Hilaire,Saint-Hilaire-de-Loulay,Sen-Iler-de-Lule,sheng yi lai lei de lu lai,Сен-Ілер-де-Луле,سینٹ-ہلیری-دے-لولے,圣伊莱勒德卢莱",47.0019,-1.33079,P,PPL,FR,,52,85,852,85146,3840,,39,Europe/Paris,2019-03-28
+2979551,Saint-Hilaire-de-Clisson,Saint-Hilaire-de-Clisson,"Saint-Hilaire,Saint-Hilaire-de-Clisson,Saint-Hilaire-du-Bois,Sant-Eler-Neved,Sen-Iler-de-Klisson,sheng yi lai er de ke li song,Сен-Ілер-де-Кліссон,سینٹ-ہلیری-دے-کلاسوں,圣伊莱尔德克利松",47.06197,-1.30946,P,PPL,FR,,52,44,442,44165,1754,,38,Europe/Paris,2020-09-10
+2979552,Saint-Hilaire-de-Chaléons,Saint-Hilaire-de-Chaleons,"Saint Helaire-de-Chaleons,Saint-Hilaire,Saint-Hilaire-de-Chaleons,Saint-Hilaire-de-Chaléons,Sant-Eler-Kaleon,Sen-Iler-de-Shaleon,sheng yi lai er de sha lai weng,Сен-Ілер-де-Шалеон,سینٹ-ہلیری-دے-چلونس,圣伊莱尔德沙莱翁",47.10328,-1.86577,P,PPL,FR,,52,44,443,44164,1760,,14,Europe/Paris,2020-09-10
+2979590,Saint-Herblain,Saint-Herblain,"Saint-Herblain,Sant-Ervlan,Sen-Erblen,Sent Erblen,saengteleubeullaeng,san=teruburan,sheng ai er bu lan,snt arbln,Сен-Ерблен,Сент Ерблен,سنت اربلن,سینٹ-ہربلیں,サン＝テルブラン,聖埃爾布蘭,생테르블랭",47.21154,-1.651,P,PPL,FR,,52,44,442,44162,46898,,23,Europe/Paris,2020-09-10
+2980127,Saint-Fiacre-sur-Maine,Saint-Fiacre-sur-Maine,"Saint-Fiacre,Saint-Fiacre-sur-Maine,Sant-Fieg-ar-Mewan,Sen-Fiakr-sjur-Men,man en he pan sheng fei a ke er,san=fiakuru=shuru=menu,Сен-Фіакр-сюр-Мен,سینٹ-فیکڑے-سر-مہینے,サン＝フィアクル＝シュル＝メーヌ,曼恩河畔圣菲阿克尔",47.14245,-1.41675,P,PPL,FR,,52,44,442,44159,1071,,44,Europe/Paris,2020-09-10
+2980259,Saint-Étienne-de-Montluc,Saint-Etienne-de-Montluc,"Messidor,Saint-Etienne,Saint-Etienne-de-Montluc,Saint-Étienne,Saint-Étienne-de-Montluc,Sanctus Stephanus de Monteluci,Sant-Stefan-Brengolou,Sant-Stefan-Brengoloù,Sent-Et'enn-de-Monljuk,sheng ai di an de meng te lu ke,Сент-Етьєнн-де-Монлюк,سینٹ-ایٹیینے-دے-مونتلک,圣埃蒂安德蒙特吕克",47.27622,-1.78013,P,PPL,FR,,52,44,442,44158,6809,,24,Europe/Paris,2020-09-10
+2980271,Corcoué-sur-Logne,Corcoue-sur-Logne,"Kerchaoueg,Korkue sir Lon,Korkue-Sjur-Lon',Korkue-sjur-Lon',Saint-Etienne-de-Corcoue,Saint-Étienne-de-Corcoué,luo ni he pan ke er ku ai,Коркуе сир Лоњ,Коркуе-Сюр-Лонь,Коркуе-сюр-Лонь,洛尼河畔科尔库埃",46.96667,-1.58333,P,PPL,FR,,52,44,442,44156,2480,,41,Europe/Paris,2026-08-30
+2980372,Sainte-Pazanne,Sainte-Pazanne,"Franchere,Franchère,Sainte-Pazanne,Sancta Pisenia,Santez-Pezhenn,Sent-Pazann,sheng pa cang,Сент-Пазанн,سین-پزانے,圣帕藏",47.10355,-1.81045,P,PPL,FR,,52,44,442,44186,3734,,18,Europe/Paris,2026-08-30
+2980393,Saint-Emilien,Saint-Emilien,,47.43369,-1.71036,P,PPL,FR,,52,44,445,44015,0,,30,Europe/Paris,2019-03-26
+2980488,Sainte-Luce-sur-Loire,Sainte-Luce-sur-Loire,"Sainte-Luce,Sainte-Luce-sur-Loire,Santez-Lusenn,Sent-Ljus-sjur-Luar,lu wa er he pan sheng lu ke,santo=ryusu=shuru=rowaru,Сент-Люс-сюр-Луар,سین-لکے-سر-لڑے,サント＝リュース＝シュル＝ロワール,卢瓦尔河畔圣吕克",47.25508,-1.48269,P,PPL,FR,,52,44,442,44172,13056,,18,Europe/Paris,2020-09-10
+2981033,Saint-Colomban,Saint-Colomban,"Saint-Colomban,Saint-Colombin",47.0093,-1.58377,P,PPL,FR,,52,44,442,44155,0,,16,Europe/Paris,2020-09-10
+2981137,Saint-Christophe-la-Couperie,Saint-Christophe-la-Couperie,"Saint-Christophe,Saint-Christophe-la-Couperie,Sen-Kristof-la-Kuperi,sheng ke li si tuo fu la ku po li ye,Сен-Кристоф-ла-Купері,سینٹ-کروسٹوفے-لا-کوپیرے,圣克里斯托夫拉库珀里耶",47.25309,-1.18108,P,PPL,FR,,52,49,492,49069,482,,89,Europe/Paris,2016-12-10
+2981888,Saint-Aignan-Grandlieu,Saint-Aignan-Grandlieu,"Saint-Aignan,Saint-Aignan-Grand-Lieu,Saint-Aignan-Grandlieu,Sant-Enion-al-Lenn-Veur,Sent-En'jan-Granl'e,santenyan=guranryu,sheng ai ni ang ge lang de li e,Сент-Еньян-Гранльє,سینٹ-ایگنان-گراندلیو,サンテニャン＝グランリュー,圣艾尼昂格朗德利厄",47.12374,-1.6308,P,PPL,FR,,52,44,442,44150,0,,6,Europe/Paris,2024-08-12
+2982682,Rouans,Rouans,"Barra-les-Marais,Rodent,Rouans,Ruans,lu ang,Руанс,鲁昂",47.1854,-1.86022,P,PPL,FR,,52,44,442,44145,2283,,18,Europe/Paris,2026-08-30
+2983103,Rohars,Rohars,,47.29488,-1.92036,P,PPL,FR,,52,44,443,44019,0,,3,Europe/Paris,2016-02-18
+2983245,Roche-Maurice,Roche-Maurice,"Roche-Maurice,Roches Maurice",47.2,-1.61667,P,PPL,FR,,52,44,442,44162,0,,21,Europe/Paris,2019-03-28
+2983770,Rezé,Reze,"Ratiatum,Reudied,Reza,Reze,Rezé,lei ze,leuje,ruze,rwzh  fransh,Реза,Резе,روزه، فرانسه,ルゼ,雷泽,르제",47.19058,-1.56885,P,PPL,FR,,52,44,442,44143,39248,,15,Europe/Paris,2020-09-10
+2984038,Remouillé,Remouille,"Remouille,Remouillé,Remue,Romuliacum,Ruvelieg,lei mu yi lai,Ремує,雷穆伊莱",47.05589,-1.37729,P,PPL,FR,,52,44,442,44142,1558,,36,Europe/Paris,2020-09-10
+2984381,Ruisseau du Rateau,Ruisseau du Rateau,"Le Rateau Ruisseau,Ruisseau du Rateau",47.41667,-1.48655,H,STM,FR,,52,44,,,0,,4,Europe/Paris,2016-02-18
+2984566,Ragon,Ragon,,47.28179,-1.5981,P,PPL,FR,,52,44,445,44209,0,,51,Europe/Paris,2019-03-26
+2985309,Forêt de Princé,Foret de Prince,,47.15596,-1.89191,V,FRST,FR,,52,44,,,0,,42,Europe/Paris,2016-02-18
+2985488,Préfoure,Prefoure,,47.41584,-1.41441,P,PPL,FR,,52,44,445,44082,0,,16,Europe/Paris,2019-03-26
+2985932,Port-Saint-Père,Port-Saint-Pere,"Por-Sen-Per,Port-Boulay,Port-Saint-Pere,Port-Saint-Père,Portus Sancti Petri,Porzh-Per,Porzh-Pêr,poru=san=peru,sheng pei er gang,Пор-Сен-Пер,ポール＝サン＝ペール,圣佩尔港",47.13354,-1.74911,P,PPL,FR,,52,44,442,44133,2306,,15,Europe/Paris,2026-08-30
+2986106,Pont-Saint-Martin,Pont-Saint-Martin,Pont-Saint-Martin,47.12421,-1.58476,P,PPL,FR,,52,44,442,44130,5114,,12,Europe/Paris,2020-09-10
+2986118,Gare de Pont-Rousseau,Gare de Pont-Rousseau,"87481036,Gare de Pont-Rousseau,PTR",47.2,-1.55,S,RSTN,FR,,52,44,442,44109,0,,5,Europe/Paris,2016-02-18
+2986119,Pont-Rousseau,Pont-Rousseau,"Pont-Rousseau,Pont-Rousseau-Reze,Pont-Rousseau-Rezé",47.19261,-1.54691,P,PPL,FR,,52,44,442,44143,0,,9,Europe/Paris,2016-02-18
+2986195,Pont Esnaut,Pont Esnaut,,47.41667,-1.3,P,PPL,FR,,52,44,445,44107,0,,13,Europe/Paris,2019-03-28
+2986955,Plaine de Mazerolles,Plaine de Mazerolles,,47.3619,-1.50135,H,LK,FR,,52,44,,,0,,3,Europe/Paris,2016-02-18
+2986956,Plaine de la Poupinière,Plaine de la Poupiniere,,47.39179,-1.49476,H,LK,FR,,52,44,,,0,,3,Europe/Paris,2016-02-18
+2987041,Bras de Pirmil,Bras de Pirmil,,47.1981,-1.57297,H,STMA,FR,,52,44,,,0,,0,Europe/Paris,2016-02-18
+2987658,Petit-Mars,Petit-Mars,"Kervarc'h,Kervarch,Parvus Marcius,Peti-Mars,Petit-Mars,pei di ma er,Петі-Марс,佩蒂马尔",47.39439,-1.45492,P,PPL,FR,,52,44,445,44122,2629,,19,Europe/Paris,2020-09-10
+2988522,Paribou,Paribou,,47.4,-1.81667,P,PPL,FR,,52,44,445,44056,0,,45,Europe/Paris,2019-03-26
+2988583,Forêt du Parc,Foret du Parc,,47.30286,-1.22214,V,FRST,FR,,52,49,,,0,,84,Europe/Paris,2016-02-18
+2989058,Oudon,Oudon,"Oudon,Udon,Uldo,wu dong,Удон,乌东",47.34692,-1.28659,P,PPL,FR,,52,44,445,44115,2845,,14,Europe/Paris,2026-08-30
+2989170,Orvault,Orvault,"Orsvaldum,Orvault,Orvez,Orvo,ao er wo,awrww,oleubo,oruvuo,Орво,اوروو,オルヴォー,奧爾沃,오르보",47.27117,-1.62361,P,PPL,FR,,52,44,442,44114,25338,,44,Europe/Paris,2020-09-10
+2989310,Gare de Nantes,Gare de Nantes,"87481002,Estacion de Nantes,Estación de Nantes,NS,Nantes Orleans,Nantes Orléans,QJZ,Station Nantes,Stazione di Nantes",47.21756,-1.54183,S,RSTN,FR,,52,44,442,44109,0,,13,Europe/Paris,2016-02-18
+2989696,Ognon,Ognon,"L'Ognon Riviere,L'Ognon Rivière,Ognon",47.10295,-1.648,H,STM,FR,,52,44,,,0,,-1,Europe/Paris,2019-12-03
+2990039,Notre-Dame-des-Landes,Notre-Dame-des-Landes,"Kernitron-al-Lann,Notr-Dam-De-Land,Notr-Dam-de-Land,Notre-Dame,Notre-Dame-des-Landes,nuo te er da mei-dai lang dai,Нотр-Дам-Де-Ланд,Нотр-Дам-де-Ланд,诺特尔达梅-代朗代",47.38113,-1.70949,P,PPL,FR,,52,44,445,44111,1773,,58,Europe/Paris,2026-08-30
+2990085,Nort-sur-Erdre,Nort-sur-Erdre,"Enorzh,Nor-Sjur-Erdr,Nor-sjur-Erdr,Nort,Nort-sur-Erdre,Nortum,ai er de er he pan nuo er,noru=shuru=erudoru,Нор-Сюр-Ердр,Нор-сюр-Ердр,ノール＝シュル＝エルドル,埃尔德尔河畔诺尔",47.4399,-1.49909,P,PPL,FR,,52,44,445,44110,6461,,12,Europe/Paris,2026-08-30
+2990968,Arrondissement de Nantes,Arrondissement de Nantes,"Arrondissement de Nantes,Arrondissement of Nantes,Nantes",47.13934,-1.56967,A,ADM3,FR,,52,44,442,,888845,,13,Europe/Paris,2025-12-08
+2990969,Nantes,Nantes,"NTE,Nant,Nante,Nantes,Nanti,Nanto,Naoned,Portus Namnetus,nan te,nant,nanta,nanto,Νάντη,Нант,נאנט,نانت,नांत,ナント,南特",47.21725,-1.55336,P,PPLA,FR,,52,44,442,44109,325070,,19,Europe/Paris,2025-12-09
+2991285,Mouzillon,Mouzillon,"Maodilon,Mouzillon",47.14149,-1.28388,P,PPL,FR,,52,44,442,44108,2385,,28,Europe/Paris,2020-09-10
+2991292,Mouzeil,Mouzeil,"Mouzeil,Mouzel,Muzej,mu ze,Музей,穆泽",47.44835,-1.34819,P,PPL,FR,,52,44,445,44107,1306,,42,Europe/Paris,2026-08-30
+2991495,Mouline,Mouline,,47.32178,-1.54952,P,PPL,FR,,52,44,442,44035,0,,24,Europe/Paris,2016-02-18
+2991782,Morisseau,Morisseau,"Moriceau,Morisseau",47.15763,-1.38179,P,PPL,FR,,52,44,442,44070,0,,34,Europe/Paris,2016-02-18
+2992925,Montbert,Montbert,"Monber,Montbert,Monteverzh,meng te bei er,Монбер,蒙特贝尔",47.05778,-1.48873,P,PPL,FR,,52,44,442,44102,2481,,19,Europe/Paris,2026-08-30
+2993245,Monnières,Monnieres,"Meliner,Monnieres,Monnières",47.1319,-1.35648,P,PPL,FR,,52,44,442,44100,1659,,28,Europe/Paris,2020-09-10
+2993619,Moine,Moine,"Le Moine Riviere,Le Moine Rivière,Moine",47.08666,-1.2775,H,STM,FR,,52,85,,,0,,17,Europe/Paris,2016-02-18
+2994981,Mauves-sur-Loire,Mauves-sur-Loire,"Malva,Malvid,Mauve-sur-Loire,Mauves,Mauves-sur-Loire,Mov-sjur-Luar,lu wa er he pan mo wei,Мов-сюр-Луар,卢瓦尔河畔莫韦",47.29671,-1.39138,P,PPL,FR,,52,44,442,44094,2579,,39,Europe/Paris,2020-09-10
+2996306,Malville,Malville,"Kerwall,Malville",47.35996,-1.86321,P,PPL,FR,,52,44,443,44089,3271,,76,Europe/Paris,2020-09-10
+2996628,Maisdon-sur-Sèvre,Maisdon-sur-Sevre,"Maezon-ar-Gwini,Maisdon,Maisdon-sur-Sevre,Maisdon-sur-Sèvre,Medon-Sjur-Sevr,Medon-sjur-Sevr,mesudon=shuru=sevuru,sai fu er he pan mai si dong,Медон-Сюр-Севр,Медон-сюр-Севр,メスドン＝シュル＝セーヴル,塞夫尔河畔迈斯东",47.09765,-1.38482,P,PPL,FR,,52,44,442,44088,2218,,59,Europe/Paris,2026-08-30
+2996668,Maine,Maine,"La Maine Riviere,La Maine Rivière,Maine",47.15217,-1.44455,H,STM,FR,,52,44,,,0,,6,Europe/Paris,2016-02-18
+2996861,Bras de la Madeleine,Bras de la Madeleine,"Bras de la Madeleine,Madeleine Branch",47.20069,-1.57476,H,STMA,FR,,52,44,,,0,,0,Europe/Paris,2021-03-06
+2996904,Forêt de Machecoul,Foret de Machecoul,,47.01775,-1.74029,V,FRST,FR,,52,44,,,0,,26,Europe/Paris,2016-02-18
+2997692,Longrais,Longrais,,47.34215,-1.43595,P,PPL,FR,,52,44,445,44179,0,,61,Europe/Paris,2019-03-26
+2997861,Loire-Atlantique,Loire-Atlantique,"Atlanticheskaja Luara,Atlantichna Luara,Atlantijas Luara,Atlantijas Luāra,Atlantika enchi Luara,Atlantikon Luarae,Atlantikon' Luara,Atlanto Luara,Atlantska Loara,Atlantyan Luar,Atlantyn Luar,Departamenti Luara Atlanticheskaja,Departement Loire-Atlantique,Departement de la Loire-Atlantique,Departimento Loire-Atlantique,Dipartiment ed la Loira atlantica,Dipartiment ëd la Lòira atlàntica,Département de la Loire-Atlantique,Leger Atlantic,Lere-Atlantica,Liger Atlanticus,Liger-Atlantel,Loar Atlantik,Loara Atlantycka,Loira Atlantega,Loira Atlantic,Loira Atlantica,Loira Atlantico,Loira Atlanticu,Loira Atlantikoa,Loira Atlàntic,Loira Atlántico,Loira Atlánticu,Loire-Atlantique,Loire-Atlantique-sen,Loire-Atlantique-sén,Loire-Inferieure,Loire-Inférieure,Louar-Atlantik,Luar-Atlantik,Léger Atlantic,Lêre-Atlantica,Lòira Atlàntega,cang hwad law rat l xng tik,da xi yang lu wa er sheng,dehpartament Atlantychnaja Luara,la'ire-atalantika,lavara-atalantika,lo'ara-etalantika,lo'ira-atalantika,loyar-atlantik,loyir-atlantik,loyire-Atlantique,lu hua er-da xi yang,lualeuateullangtikeuju,lwar alatlsyt,lwar-atlantyk,rowaru=atorantikku xian,Λουάρ-Ατλαντίκ,Атлантика енчи Луара,Атлантикалық Луара,Атлантикин ЛуагӀа,Атлантикон Луарæ,Атлантиконь Луара,Атлантическая Луара,Атлантична Луара,Атлантска Лоара,Атлантын Луар,Департаменти Луара Атлантическая,Лоар Атлантик,дэпартамент Атлантычная Луара,Ատլանտյան Լուար,הלואר האטלנטי,ضلع لوار اٹلانٹک,لوآر-آتلانتیک,لوار الأطلسية,لوار-اتلانتیک,लावार-अतलांतिक,लोइर-अटलांटिक,লইরে-আটলান্তিক,લોઅર-એટલાન્ટિક,லொயிரே-Atlantique,లోయర్-అట్లాంటిక్,ಲೊಯಿರ್-ಅಟ್ಲಾಂಟಿಕ್,ලොයිරේ-අත්ලාන්තික්,จังหวัดลัวรัตล็องติก,ატლანტიკის ლუარა,ロワール＝アトランティック県,大西洋卢瓦尔省,大西洋盧瓦爾省,盧華爾-大西洋,루아르아틀랑티크주",47.32863,-1.65764,A,ADM2,FR,,52,44,,,1473156,,44,Europe/Paris,2025-12-02
+2998404,Ligné,Ligne,"Legneg,Ligne,Ligné",47.41148,-1.37796,P,PPL,FR,,52,44,445,44082,3222,,38,Europe/Paris,2020-09-10
+2998593,L'Hommetière,L'Hommetiere,,46.96821,-1.42238,P,PPL,FR,,52,44,442,44216,0,,41,Europe/Paris,2019-12-03
+2998826,Le Vieux Bourg,Le Vieux Bourg,,47.39393,-1.46976,P,PPL,FR,,52,44,445,44122,0,,9,Europe/Paris,2019-03-26
+2999190,Le Thiémay,Le Thiemay,,47.35083,-1.80083,S,HSEC,FR,,52,44,445,44056,0,,78,Europe/Paris,2019-03-26
+2999231,Le Tertre,Le Tertre,,47.28619,-1.85916,P,PPL,FR,,52,44,442,44045,0,,6,Europe/Paris,2016-02-18
+2999236,Le Temple-de-Bretagne,Le Temple-de-Bretagne,"Le Temple,Le Temple-Maupertuis,Le Temple-de-Bretagne,Le-Tampl'-De-Bretan',Le-Tampl'-de-Bretan',Templ-Breizh,lei tang pu er de bu lei ta ni,Ле-Тампль-Де-Бретань,Ле-Тампль-де-Бретань,ル・タンプル＝ド＝ブルターニュ,勒唐普尔德布雷塔尼",47.32868,-1.79143,P,PPL,FR,,52,44,442,44203,1665,,86,Europe/Paris,2026-08-30
+2999485,Les Touches,Les Touches,"An Dosenneg,Le-Tush,Les Touches,Tuschiis,lai si tu xie,Ле-Туш,レ・トゥーシュ,莱斯图谢",47.44249,-1.43097,P,PPL,FR,,52,44,445,44205,2111,,27,Europe/Paris,2019-03-26
+2999572,Les Sorinières,Les Sorinieres,"Kersoren,Le-Sorin'er,Les Sorinieres,Les Sorinières,lai suo li ni ai,Ле-Сориньєр,莱索里尼埃",47.14744,-1.53004,P,PPL,FR,,52,44,442,44198,6698,,32,Europe/Paris,2020-09-10
+2999828,Les Raillères,Les Railleres,,47.18631,-1.31179,P,PPL,FR,,52,44,442,44212,0,,25,Europe/Paris,2016-02-18
+2999937,Les Planches,Les Planches,,47.24917,-1.40285,P,PPL,FR,,52,44,442,44169,0,,10,Europe/Paris,2016-02-18
+3000050,Les Pelis,Les Pelis,,47.42917,-1.66928,P,PPL,FR,,52,44,445,44073,0,,23,Europe/Paris,2019-03-26
+3000355,Les Masures,Les Masures,"Les Masures,Les Mazures",47.43357,-1.41857,P,PPL,FR,,52,44,445,44205,0,,19,Europe/Paris,2019-03-26
+3000394,Les Mares,Les Mares,,47.32667,-1.20761,P,PPL,FR,,52,49,492,49069,0,,90,Europe/Paris,2016-12-10
+3000745,Les Grisons,Les Grisons,,47.45715,-1.69321,P,PPL,FR,,52,44,445,44073,0,,22,Europe/Paris,2019-03-28
+3000834,Les Grandes Landes,Les Grandes Landes,,47.4656,-1.5725,P,PPL,FR,,52,44,445,44149,0,,36,Europe/Paris,2019-03-26
+3001308,Les Couêts,Les Couets,"Les Couets,Les Couêts",47.18512,-1.59119,P,PPL,FR,,52,44,442,44020,0,,16,Europe/Paris,2016-02-18
+3001581,Les Chabossières,Les Chabossieres,,47.17321,-1.22155,P,PPL,FR,,52,44,442,44212,0,,82,Europe/Paris,2016-02-18
+3002082,Le Sausais,Le Sausais,,47.10349,-1.25159,P,PPL,FR,,52,44,442,44043,0,,46,Europe/Paris,2016-02-18
+3002608,Le Pommain,Le Pommain,,47.45773,-1.63428,P,PPL,FR,,52,44,445,44149,0,,22,Europe/Paris,2019-03-26
+3002625,Le Point du Jour,Le Point du Jour,,47.35488,-1.88678,P,PPL,FR,,52,44,443,44195,0,,85,Europe/Paris,2016-02-18
+3002655,Le Plessis-Pas Brunet,Le Plessis-Pas Brunet,,47.42667,-1.52452,P,PPL,FR,,52,44,445,44110,0,,9,Europe/Paris,2019-03-26
+3002701,Le Plessis,Le Plessis,,47.35381,-1.30024,P,PPL,FR,,52,44,445,44115,0,,64,Europe/Paris,2019-03-26
+3002783,L'Épine de Fay,L'Epine de Fay,"L'Epine,L'Epine de Fay,L'Épine,L'Épine de Fay",47.37048,-1.70369,P,PPL,FR,,52,44,445,44111,0,,55,Europe/Paris,2019-12-03
+3002981,Le Pellerin,Le Pellerin,"Le Pellerin,Le-Pel'ren,Pentellou,Pentelloù,Pontellus,Port-Brutus,lei pei lei lan,Ле-Пельрен,ル・ペルラン,勒佩勒兰",47.19863,-1.75466,P,PPL,FR,,52,44,442,44120,4147,,21,Europe/Paris,2026-08-30
+3003012,Le Pâtis,Le Patis,,46.99857,-1.37445,P,PPL,FR,,52,44,442,44216,0,,47,Europe/Paris,2016-02-18
+3003022,Le Pas Chevalier,Le Pas Chevalier,,47.40179,-1.53619,P,PPL,FR,,52,44,445,44027,0,,10,Europe/Paris,2019-03-28
+3003042,Le Pallet,Le Pallet,"Ar Palez,Le Pallet,Le-Palle,Palacium,l barkf,lei pa lai,Ле-Палле,ل بارکف,勒帕莱",47.13842,-1.33609,P,PPL,FR,,52,44,442,44117,2574,,30,Europe/Paris,2026-08-30
+3003661,Le Loroux-Bottereau,Le Loroux-Bottereau,"Al Lavreer-Botorel,Lavreer-Botorel,Le Loroux-Bottereau,Le Louroux-Bottereau,Le-Loru-Bottero,Oratorium Boterelli,lei luo lu bo te luo,Ле-Лору-Боттеро,勒洛鲁博特罗",47.23797,-1.34963,P,PPL,FR,,52,44,442,44084,5326,,51,Europe/Paris,2026-08-30
+3003710,Le Lavoir,Le Lavoir,,47.37584,-1.50599,P,PPL,FR,,52,44,445,44201,0,,7,Europe/Paris,2019-03-26
+3003730,Le Landreau,Le Landreau,"Lannerell,Le Landreau,Le-Landro,lei lang de luo,Ле-Ландро,勒朗德罗",47.20443,-1.30546,P,PPL,FR,,52,44,442,44079,2674,,64,Europe/Paris,2026-08-30
+3003912,L'Égrenière,L'Egreniere,,47.00921,-1.42634,P,PPL,FR,,52,44,442,44127,0,,22,Europe/Paris,2019-12-03
+3003964,Le Grand Pâtis,Le Grand Patis,,47.37417,-1.45107,P,PPL,FR,,52,44,445,44179,0,,9,Europe/Paris,2019-03-26
+3003977,Le Grand Merimont,Le Grand Merimont,,47.36239,-1.79154,P,PPL,FR,,52,44,445,44056,0,,77,Europe/Paris,2019-03-26
+3004329,Le Doucet,Le Doucet,,47.2775,-1.63345,P,PPL,FR,,52,44,442,44114,0,,62,Europe/Paris,2016-02-18
+3004572,Le Cleray,Le Cleray,,47.26863,-1.32386,P,PPL,FR,,52,44,442,44029,0,,68,Europe/Paris,2016-02-18
+3004597,Le Chiron,Le Chiron,,47.23333,-1.41667,P,PPL,FR,,52,44,442,44169,0,,14,Europe/Paris,2016-02-18
+3004640,Le Chêne des Perrières,Le Chene des Perrieres,,47.35861,-1.7637,S,HSEC,FR,,52,44,445,44111,0,,79,Europe/Paris,2019-03-26
+3004654,Le Chemin-Nantais,Le Chemin-Nantais,,47.28845,-1.43417,P,PPL,FR,,52,44,442,44204,0,,41,Europe/Paris,2016-02-18
+3004813,Le Cellier,Le Cellier,"Cellarium,Cellier,Keller,Le Cellier,Le-Sel'e,Selije,lei se li ye,Ле-Сельє,Селије,勒瑟利耶",47.31964,-1.34716,P,PPL,FR,,52,44,445,44028,3596,,63,Europe/Paris,2020-09-10
+3005031,Le Breil,Le Breil,,47.41667,-1.8,P,PPL,FR,,52,44,445,44056,0,,45,Europe/Paris,2019-03-26
+3005032,Le Breil,Le Breil,,47.28714,-1.67678,P,PPL,FR,,52,44,442,44194,0,,59,Europe/Paris,2016-02-18
+3005035,Le Bredeloup,Le Bredeloup,,47.39964,-1.72881,P,PPL,FR,,52,44,445,44111,0,,43,Europe/Paris,2019-03-26
+3005132,Le Boulay,Le Boulay,,47.43159,-1.33258,P,PPL,FR,,52,44,445,44107,0,,48,Europe/Paris,2019-03-26
+3005282,Le Bignon,Le Bignon,"Bignon,Binon,Bugnonium,Le Bignon,Le-Bin'on,lei bi ni weng,Бињон,Ле-Біньон,勒比尼翁",47.09854,-1.49103,P,PPL,FR,,52,44,442,44014,2793,,23,Europe/Paris,2020-09-10
+3005424,La Vrière,La Vriere,,47.28202,-1.55595,P,PPL,FR,,52,44,442,44035,0,,39,Europe/Paris,2016-02-18
+3005684,La Verdinière,La Verdiniere,,47.41096,-1.60845,P,PPL,FR,,52,44,445,44073,0,,38,Europe/Paris,2019-03-26
+3005763,La Varenne,La Varenne,"La Varenne,La-Varenn,la wa lei ne,Ла-Варенн,لا وارین، مینے-اے-لوئر,ラ・ヴァレンヌ,拉瓦雷讷",47.31107,-1.31976,P,PPL,FR,,52,49,492,49069,1451,,62,Europe/Paris,2026-08-30
+3006029,Launay,Launay,,47.33226,-1.37857,P,PPL,FR,,52,44,445,44028,0,,75,Europe/Paris,2019-03-26
+3006303,La Télindière,La Telindiere,"La Telindiene,La Telindiere,La Telindiéne,La Télindière",47.19853,-1.7359,P,PPL,FR,,52,44,442,44166,0,,24,Europe/Paris,2016-02-18
+3006326,La Tacherie,La Tacherie,,47.43084,-1.74357,P,PPL,FR,,52,44,445,44015,0,,30,Europe/Paris,2019-03-26
+3006446,La Seilleraye,La Seilleraye,"La Seilleraie,La Seilleraye",47.29917,-1.43273,S,HSEC,FR,,52,44,442,44026,0,,69,Europe/Paris,2016-02-18
+3006522,La Sanglaire,La Sanglaire,,47.22158,-1.3705,P,PPL,FR,,52,44,442,44084,0,,11,Europe/Paris,2016-02-18
+3006786,La Rochelle,La Rochelle,,47.2675,-1.38631,P,PPL,FR,,52,44,442,44169,0,,8,Europe/Paris,2016-02-18
+3006820,La Roche,La Roche,,47.30059,-1.7244,P,PPL,FR,,52,44,445,44217,0,,70,Europe/Paris,2019-03-26
+3006852,La Robinière,La Robiniere,,47.3325,-1.36464,P,PPL,FR,,52,44,445,44028,0,,76,Europe/Paris,2019-03-26
+3006858,La Robertière,La Robertiere,,47.01048,-1.43555,P,PPL,FR,,52,44,442,44127,0,,22,Europe/Paris,2016-02-18
+3006895,La Rivière,La Riviere,,47.35763,-1.45976,P,PPL,FR,,52,44,445,44179,0,,8,Europe/Paris,2019-03-26
+3006983,La Renouère,La Renouere,,47.19584,-1.29048,P,PPL,FR,,52,44,442,44079,0,,59,Europe/Paris,2016-02-18
+3006999,La Remaudière,La Remaudiere,"Kerravaot,La Remaudiere,La Remaudière,La-Remod'er,Ramauderia,la lei mo di ai,Ла-Ремодьєр,لا ریموڈیری,拉雷莫迪埃",47.23774,-1.24367,P,PPL,FR,,52,44,442,44141,1068,,78,Europe/Paris,2020-09-10
+3007004,La Regrippière,La Regrippiere,"La Regrippiere,La Regrippière,Skouvlant",47.1815,-1.17636,P,PPL,FR,,52,44,442,44140,1167,,77,Europe/Paris,2020-09-10
+3007163,La Poupinière,La Poupiniere,,47.40202,-1.49703,P,PPL,FR,,52,44,445,44110,0,,5,Europe/Paris,2019-03-26
+3007217,La Pommeraie,La Pommeraie,,47.18583,-1.26953,P,PPL,FR,,52,44,442,44212,0,,75,Europe/Paris,2016-02-18
+3007231,La Poivetière,La Poivetiere,"La Poivetiere,La Poivetière,La Pouivetiere,La Pouivetière",47.21215,-1.35381,P,PPL,FR,,52,44,442,44084,0,,9,Europe/Paris,2016-02-18
+3007259,La Planche,La Planche,"Ar Plank,La Planche,La-Plansh,la pu lang ke,Ла-Планш,لا پلانچے,拉普朗克",47.01675,-1.43533,P,PPL,FR,,52,44,442,44127,2239,,25,Europe/Paris,2026-08-30
+3007288,La Piquelotais,La Piquelotais,,47.37821,-1.74346,P,PPL,FR,,52,44,445,44111,0,,56,Europe/Paris,2019-03-26
+3007397,La Pepière,La Pepiere,,47.10492,-1.41254,P,PPL,FR,,52,44,442,44088,0,,37,Europe/Paris,2016-02-18
+3007436,La Paquelais,La Paquelais,La Paquelais,47.33238,-1.69607,P,PPL,FR,,52,44,445,44217,0,,65,Europe/Paris,2019-03-26
+3007568,La Noue Peguille,La Noue Peguille,,47.47857,-1.6194,P,PPL,FR,,52,44,445,44149,0,,25,Europe/Paris,2019-03-26
+3007577,La Noüe,La Noue,,47.10953,-1.19381,S,FRM,FR,,52,49,492,49301,0,,73,Europe/Paris,2016-12-10
+3007587,La Noe Guy,La Noe Guy,,47.41726,-1.49441,P,PPL,FR,,52,44,445,44110,0,,10,Europe/Paris,2019-03-26
+3007661,Languin,Languin,,47.45726,-1.53988,P,PPL,FR,,52,44,445,44110,0,,65,Europe/Paris,2019-03-26
+3007700,L'Anglesort,L'Anglesort,,47.22024,-1.40071,P,PPL,FR,,52,44,442,44169,0,,12,Europe/Paris,2019-12-03
+3007706,L'Angle,L'Angle,,47.27154,-1.83964,P,PPL,FR,,52,44,442,44158,0,,9,Europe/Paris,2019-12-03
+3007878,Landemont,Landemont,Landemont,47.26536,-1.23989,P,PPL,FR,,52,49,492,49069,1568,,90,Europe/Paris,2016-12-10
+3007991,La Moucletière,La Moucletiere,,47.16929,-1.29119,P,PPL,FR,,52,44,442,44212,0,,45,Europe/Paris,2016-02-18
+3008096,La Montagne,La Montagne,"Ar Menez,La Montagne",47.18987,-1.68395,P,PPL,FR,,52,44,442,44101,6012,,39,Europe/Paris,2020-09-10
+3008117,La Moissonnaie,La Moissonnaie,,47.31667,-1.81667,P,PPL,FR,,52,44,442,44045,0,,77,Europe/Paris,2016-02-18
+3008172,La Menardais,La Menardais,,47.30786,-1.61821,P,PPL,FR,,52,44,445,44209,0,,64,Europe/Paris,2019-03-26
+3008188,La Meignelais,La Meignelais,,47.39239,-1.80869,P,PPL,FR,,52,44,445,44056,0,,60,Europe/Paris,2019-03-26
+3008281,La Marne,La Marne,,47,-1.73333,P,PPL,FR,,52,44,442,44090,0,,22,Europe/Paris,2016-02-18
+3008294,Île de la Maréchale,Ile de la Marechale,"Ile de la Marechale,La Marechale,La Maréchale,Île de la Maréchale",47.27262,-1.92108,T,ISL,FR,,52,,,,0,,1,Europe/Paris,2016-02-18
+3008470,La Limouzinière,La Limouziniere,"Kerlouevig,La Limouziniere,La Limouzinière,La-Limuzin'er,la li mu qi ni ai,la lymwzynyry,Ла-Лімузіньєр,لا لیموزینیری,拉利穆齐尼埃",46.99346,-1.59726,P,PPL,FR,,52,44,442,44083,1518,,25,Europe/Paris,2020-09-10
+3008534,La Landelle,La Landelle,,47.23655,-1.36631,P,PPL,FR,,52,44,442,44084,0,,11,Europe/Paris,2016-02-18
+3008597,La Jaunais,La Jaunais,,47.38333,-1.66667,P,PPL,FR,,52,44,445,44073,0,,40,Europe/Paris,2019-03-26
+3008615,La Jametrie,La Jametrie,,47.31047,-1.70119,P,PPL,FR,,52,44,445,44217,0,,66,Europe/Paris,2019-03-26
+3008671,L'Aiguillette,L'Aiguillette,,47.12857,-1.29369,P,PPL,FR,,52,44,442,44108,0,,34,Europe/Paris,2019-12-03
+3008803,La Haie-Trois-Sous,La Haie-Trois-Sous,,47.12286,-1.40381,P,PPL,FR,,52,44,442,44088,0,,59,Europe/Paris,2016-02-18
+3008809,La Haie-Fouassière,La Haie-Fouassiere,"An Hae-Foazer,Haya,La Haie-Fouassiere,La Haie-Fouassière,La-E-Fuas'er,la ai ai fu a xi ai,Ла-Е-Фуасьєр,لا ہائے-فواسیری,拉艾埃富阿西埃",47.15546,-1.39927,P,PPL,FR,,52,44,442,44070,4047,,32,Europe/Paris,2020-09-10
+3008811,La Haie de Ligné,La Haie de Ligne,"La Haie,La Haie de Ligne,La Haie de Ligné",47.39845,-1.40476,P,PPL,FR,,52,44,445,44082,0,,38,Europe/Paris,2020-06-10
+3008817,La Haie,La Haie,,47.28976,-1.54524,P,PPL,FR,,52,44,442,44035,0,,16,Europe/Paris,2016-02-18
+3008829,La Guiltière,La Guiltiere,,47.13286,-1.22657,P,PPL,FR,,52,49,492,49301,0,,52,Europe/Paris,2016-12-10
+3008866,La Guay,La Guay,,47.32476,-1.83547,P,PPL,FR,,52,44,443,44089,0,,76,Europe/Paris,2016-02-18
+3008985,La Grande Maison,La Grande Maison,,47.43595,-1.60833,P,PPL,FR,,52,44,445,44073,0,,35,Europe/Paris,2019-03-26
+3008994,La Grande Haie,La Grande Haie,,47.37416,-1.63345,P,PPL,FR,,52,44,445,44066,0,,45,Europe/Paris,2019-03-26
+3009045,La Gouachère,La Gouachere,,47.325,-1.43726,P,PPL,FR,,52,44,442,44026,0,,65,Europe/Paris,2016-02-18
+3009231,La Gandinière,La Gandiniere,,47.30119,-1.71095,P,PPL,FR,,52,44,445,44217,0,,76,Europe/Paris,2019-03-26
+3009246,La Furetière,La Furetiere,"La Furetiere,La Furetière,La Furtiere,La Furtière",47.40703,-1.45965,P,PPL,FR,,52,44,445,44122,0,,25,Europe/Paris,2019-03-26
+3009255,La Freusière,La Freusiere,,47.32047,-1.76702,P,PPL,FR,,52,44,445,44217,0,,81,Europe/Paris,2019-03-26
+3009272,La Fremière,La Fremiere,,47.34047,-1.7594,P,PPL,FR,,52,44,445,44217,0,,63,Europe/Paris,2019-03-26
+3009548,La Favrière,La Favriere,,47.35547,-1.57476,P,PPL,FR,,52,44,445,44066,0,,26,Europe/Paris,2019-03-26
+3009626,La Dourie,La Dourie,,47.10872,-1.24429,P,PPL,FR,,52,44,442,44043,0,,62,Europe/Paris,2016-02-18
+3009672,La Dechausserie,La Dechausserie,,47.38285,-1.45274,P,PPL,FR,,52,44,445,44179,0,,9,Europe/Paris,2019-03-26
+3009930,La Contrie,La Contrie,,47.21667,-1.6,P,PPLX,FR,,52,44,442,44109,0,,48,Europe/Paris,2016-02-18
+3009987,La Coindassière,La Coindassiere,,47.32786,-1.28893,P,PPL,FR,,52,49,492,49069,0,,64,Europe/Paris,2016-12-10
+3010040,La Chevrolière,La Chevroliere,"Caprioleria,Chevroliere,Chevrolière,Kerc'hevrel,Kerchevrel,La Chevroliere,La Chevrolière,La-Shevrol'er,Shevrolijer,la shywrwlyry,la xie fu luo li ai,Ла-Шеврольєр,Шевролијер,لا شیورولیری,拉谢夫罗利埃",47.09105,-1.61119,P,PPL,FR,,52,44,442,44041,5220,,11,Europe/Paris,2020-09-10
+3010044,La Chevallerais,La Chevallerais,"Chevallerais,Kergaval,La Chevalerais,La Chevallerais,La-Sheval're,Shevalere,la shywalyrays,la xie wa lei lai,Ла-Шевальре,Шевалере,لا شیوالیرایس,拉谢瓦勒赖",47.46798,-1.6716,P,PPL,FR,,52,44,445,44221,704,,25,Europe/Paris,2020-09-10
+3010062,La Chebuette,La Chebuette,,47.26726,-1.40751,P,PPL,FR,,52,44,442,44169,0,,4,Europe/Paris,2016-02-18
+3010089,La Chauvais,La Chauvais,,47.33559,-1.57095,P,PPL,FR,,52,44,442,44035,0,,36,Europe/Paris,2016-02-18
+3010109,La Chaussée,La Chaussee,,47.0927,-1.41508,P,PPL,FR,,52,44,442,44002,0,,41,Europe/Paris,2016-02-18
+3010237,La Chapelle-sur-Erdre,La Chapelle-sur-Erdre,"Chapel-Erzh,Chapelle-sur-Erdre,La Chapelle-sur-Erdre,La-Shapel'-sjur-Erdr,Shapel sir Erdr,ai er de er he pan la sha pei lei,Ла-Шапель-сюр-Ердр,Шапел сир Ердр,لا شاپیل-سور-یرڈری,ラ・シャペル＝シュル＝エルドル,埃尔德尔河畔拉沙佩勒",47.29964,-1.55239,P,PPL,FR,,52,44,442,44035,18481,,28,Europe/Paris,2020-09-10
+3010321,La Chapelle-Heulin,La Chapelle-Heulin,"Chapel-Huelin,Chapelle-Heulin,La Chapelle-Heulin,La-Shapel'-Elen,Shapel Elen,la sha pei lei e lan,Ла-Шапель-Елен,Шапел Елен,لا شاپیل-ہیولین,ラ・シャペル＝ウラン,拉沙佩勒厄兰",47.1768,-1.3407,P,PPL,FR,,52,44,442,44032,1997,,15,Europe/Paris,2020-09-10
+3010396,La Chapelle-Basse-Mer,La Chapelle-Basse-Mer,"Capella Bassameri,Chapel-Baz-Meur,La Chapelle,La Chapelle-Basse-Mer,La-Shapel'-Bass-Mer,la sha pei lei ba si mei,la shapyl-basy-myr,Ла-Шапель-Басс-Мер,لا شاپیل-باسی-میر,ラ・シャペル＝バス＝メール,拉沙佩勒巴斯梅",47.27203,-1.3384,P,PPL,FR,,52,44,442,44029,4595,,53,Europe/Paris,2026-08-30
+3010459,La Chambre,La Chambre,,47.30845,-1.5194,P,PPL,FR,,52,44,442,44026,0,,14,Europe/Paris,2016-02-18
+3010466,La Chambaudière,La Chambaudiere,,47.08635,-1.39651,P,PPL,FR,,52,44,442,44173,0,,43,Europe/Paris,2016-02-18
+3010793,La Bricaudière,La Bricaudiere,,47.43821,-1.52881,P,PPL,FR,,52,44,445,44110,0,,11,Europe/Paris,2019-03-26
+3010794,La Briantière,La Briantiere,,47.37107,-1.35226,P,PPL,FR,,52,44,445,44082,0,,52,Europe/Paris,2019-03-26
+3010842,La Bouvardière,La Bouvardiere,,47.32119,-1.6944,P,PPL,FR,,52,44,445,44217,0,,75,Europe/Paris,2019-03-26
+3010915,La Boucherie,La Boucherie,,47.41869,-1.56203,P,PPL,FR,,52,44,445,44110,0,,33,Europe/Paris,2019-03-26
+3011001,La Boissière-du-Doré,La Boissiere-du-Dore,"Beuzid-an-Doured,Boasjer di Dore,Boissiere-du-Dore,Boissière-du-Doré,La-Buasser-dju-Dore,la bu wa xi ai di duo lei,Боасјер ди Доре,Ла-Буассєр-дю-Доре,لا بویسییری-ڈو-ڈوری,拉布瓦西埃迪多雷",47.23333,-1.21667,P,PPL,FR,,52,44,442,44016,0,,85,Europe/Paris,2016-02-18
+3011038,La Bignanais,La Bignanais,,47.3,-1.9,P,PPL,FR,,52,44,443,44019,0,,13,Europe/Paris,2016-02-18
+3011092,La Bernardière,La Bernardiere,,47.17,-1.3694,P,PPL,FR,,52,44,442,44032,0,,9,Europe/Paris,2016-02-18
+3011093,La Bernardière,La Bernardiere,"Bernardiere,Bernardière,Bernardjer,Kervernarzh,La Bernardiere,La Bernardière,La-Bernard'er,la bei er na er di ai,Бернардјер,Ла-Бернардьєр,لا بیرنارڈییری,拉贝尔纳尔迪埃",47.04937,-1.26648,P,PPL,FR,,52,85,852,85076,1252,,48,Europe/Paris,2025-02-10
+3011134,Belle-Île,Belle-Ile,"Belle-Ile,Belle-Île,La Belle Ile,La Belle Île",47.2606,-1.87882,T,ISL,FR,,52,44,,,0,,3,Europe/Paris,2016-02-18
+3011143,La Belerie,La Belerie,,47.42428,-1.53833,P,PPL,FR,,52,44,445,44110,0,,12,Europe/Paris,2019-03-26
+3011329,La Barre-Peinte,La Barre-Peinte,,47.3425,-1.34618,P,PPL,FR,,52,44,445,44028,0,,81,Europe/Paris,2019-03-26
+3012662,Issoire,Issoire,,47.00289,-1.54184,H,STM,FR,,52,44,,,0,,10,Europe/Paris,2016-02-18
+3012727,Isac,Isac,,47.45977,-1.63012,H,STM,FR,,52,44,,,0,,20,Europe/Paris,2016-02-18
+3012803,Indret,Indret,Indret,47.1967,-1.68214,P,PPL,FR,,52,44,442,44074,0,,11,Europe/Paris,2016-02-18
+3013246,Ruisseau Hocmard,Ruisseau Hocmard,"Le Hochard Ruisseau,Ruisseau Hocmard",47.31215,-1.53345,H,STM,FR,,52,44,,,0,,13,Europe/Paris,2016-02-18
+3013457,Héric,Heric,"Erik,Heric,Hierig,Héric,Ерик",47.41299,-1.65234,P,PPL,FR,,52,44,445,44073,4286,,37,Europe/Paris,2026-08-30
+3013634,Hâvre,Havre,"Havre,Hâvre,Le Havre Riviere,Le Hâvre Rivière",47.34238,-1.28774,H,STM,FR,,52,49,,,0,,10,Europe/Paris,2016-02-18
+3013764,Haute Indre,Haute Indre,"Haute Indre,Haute-Indre",47.19652,-1.65078,P,PPL,FR,,52,44,442,44074,0,,21,Europe/Paris,2020-09-10
+3013766,Haute-Goulaine,Haute-Goulaine,"Gorre-Goulen,Haute-Goulaine,Ot Gulen,Ot-Gulen,Sancta Radegundis de Golena,ao te gu lan,oto=gurenu,От Гулен,От-Гулен,オート＝グレーヌ,奥特古兰",47.19904,-1.43012,P,PPL,FR,,52,44,442,44071,5290,,20,Europe/Paris,2020-09-10
+3014396,Gueny,Gueny,,47.44429,-1.7087,P,PPL,FR,,52,44,445,44015,0,,25,Europe/Paris,2019-03-26
+3014496,Forêt de la Groulais,Foret de la Groulais,"Foret de la Croulais,Foret de la Groulais,Forêt de la Croulais,Forêt de la Groulais",47.45333,-1.73952,V,FRST,FR,,52,44,,,0,,30,Europe/Paris,2016-02-18
+3015078,Lac de Grand-Lieu,Lac de Grand-Lieu,"Grand-Lieuko aintzira,Lac de Grand-Lieu,Lenn Veur",47.09537,-1.67209,H,LK,FR,,52,44,,,0,,-1,Europe/Paris,2016-02-18
+3015241,Grande Brosse,Grande Brosse,,46.99154,-1.41691,P,PPL,FR,,52,44,442,44216,0,,32,Europe/Paris,2016-02-18
+3015298,Grandchamps-des-Fontaines,Grandchamps-des-Fontaines,"Grandchamp,Grandchamp-des-Fontaines,Grandchamps-des-Fontaines",47.36512,-1.60589,P,PPL,FR,,52,44,445,44066,0,,33,Europe/Paris,2020-09-10
+3015658,Gorges,Gorges,"Gored,Gorge,Gorges",47.10112,-1.30267,P,PPL,FR,,52,44,442,44064,3087,,37,Europe/Paris,2020-09-10
+3016162,Gétigné,Getigne,"Gestiniacum,Getigne,Gétigné,Yestinieg,Zhetin'e,Zhetine,re di nie,Жетиње,Жетіньє,热蒂涅",47.07584,-1.24978,P,PPL,FR,,52,44,442,44063,3326,,30,Europe/Paris,2020-09-10
+3016692,Garambeau,Garambeau,,47.31262,-1.63262,P,PPL,FR,,52,44,445,44209,0,,58,Europe/Paris,2019-03-26
+3016947,Frossay,Frossay,"Frossay,Frosse,Frozieg,Fruzaium,Mont-Vineux,fu luo sai,Фроссе,弗罗赛",47.24451,-1.93557,P,PPL,FR,,52,44,443,44061,2463,,27,Europe/Paris,2026-08-30
+3018859,Fay-de-Bretagne,Fay-de-Bretagne,"Faouell,Fay,Fay-de-Bretagne",47.41515,-1.79196,P,PPL,FR,,52,44,445,44056,2687,,47,Europe/Paris,2020-09-10
+3019439,Gare de l'État,Gare de l'Etat,"NET,Nantes Etat",47.20283,-1.56384,S,RSTN,FR,,52,44,442,44109,0,,5,Europe/Paris,2016-02-18
+3019929,Erdre,Erdre,"Erda,Erdre,Erdre River,Erntr,Erzh,L'Erdre Riviere,L'Erdre Rivière,Rio Erdre,Río Erdre,ai de er he,Ερντρ,埃德爾河",47.21223,-1.53984,H,STM,FR,,52,44,,,0,,9,Europe/Paris,2021-03-03
+3020823,Dreneuf,Dreneuf,,47.44774,-1.66393,P,PPL,FR,,52,44,445,44073,0,,21,Europe/Paris,2019-03-26
+3020847,Drain,Drain,Drain,47.33655,-1.20773,P,PPL,FR,,52,49,492,49069,1757,,79,Europe/Paris,2016-12-10
+3021084,Donneau,Donneau,"Donneau,Le Donneau Riviere,Le Donneau Rivière",47.37107,-1.29488,H,STM,FR,,52,44,,,0,,21,Europe/Paris,2016-02-18
+3021310,Divatte,Divatte,,47.30095,-1.34476,H,STM,FR,,52,44,,,0,,5,Europe/Paris,2016-02-18
+3022041,Curette,Curette,"Curete,Curette,Curète",47.3606,-1.63155,P,PPL,FR,,52,44,445,44066,0,,53,Europe/Paris,2019-03-26
+3022153,Cugand,Cugand,"Cugand,Kigan,Kjugan,Kugant,qu gang,Киган,Кюган,屈冈",47.06353,-1.25463,P,PPL,FR,,52,85,852,85076,3189,,45,Europe/Paris,2020-10-14
+3023315,Couffé,Couffe,"Couffe,Couffé,Koufeg,Kuffe,kufe,Куффе,クフェ",47.39191,-1.29151,P,PPL,FR,,52,44,445,44048,1936,,27,Europe/Paris,2026-08-30
+3023324,Couëron,Coueron,"Coueron,Couëron,Koeron,Kueron,ku e long,kueron,Куерон,クエロン,库厄龙",47.21473,-1.72452,P,PPL,FR,,52,44,442,44047,19466,,23,Europe/Paris,2026-08-30
+3023696,Étier de Cordemais,Etier de Cordemais,,47.28417,-1.89107,H,STM,FR,,52,44,,,0,,-2,Europe/Paris,2016-02-18
+3023697,Cordemais,Cordemais,"Cordemais,Kordevez,Kordme,ke er dai mai,korudome,Кордме,コルドメ,科尔代迈",47.2914,-1.87887,P,PPL,FR,,52,44,442,44045,2747,,17,Europe/Paris,2020-09-10
+3024578,Clisson,Clisson,"Clisson,Clissonium,Klison,Klisson,ke li song,kurison,Клисон,Кліссон,クリソン,克利松",47.0871,-1.28297,P,PPL,FR,,52,44,442,44043,6480,,39,Europe/Paris,2020-09-10
+3024648,Clermont,Clermont,,47.32621,-1.33422,S,HSEC,FR,,52,44,445,44028,0,,75,Europe/Paris,2019-03-26
+3024773,Clanet,Clanet,,47.45179,-1.63369,P,PPL,FR,,52,44,445,44073,0,,22,Europe/Paris,2019-03-26
+3025311,Île Cheviré,Ile Chevire,"Ile Chevire,Île Cheviré",47.18333,-1.8,T,ISL,FR,,52,44,,,0,,17,Europe/Paris,2018-12-05
+3025581,Île la Chenaie,Ile la Chenaie,"Ile la Chenaie,Île la Chenaie",47.25274,-1.43785,T,ISL,FR,,52,44,,,0,,5,Europe/Paris,2018-12-05
+3025609,Chéméré,Chemere,"Camariacus,Chemere,Chéméré,Keverieg,Shemere,xie mei lei,Шемере,谢梅雷",47.11667,-1.91667,P,PPL,FR,,52,44,443,44005,1707,,12,Europe/Paris,2026-08-30
+3025627,Cheix-en-Retz,Cheix-en-Retz,"Cheix,Cheix-en-Retz,Keiz-Raez",47.18197,-1.8139,P,PPL,FR,,52,44,442,44039,573,,15,Europe/Paris,2020-09-10
+3026195,Château-Thébaud,Chateau-Thebaud,"Castrum Theobaldi,Chateau-Thebaud,Chateauthebaud,Château-Thébaud,Châteauthébaud,Kastell-Tepaod,Shato Tebo,Shato-Tebo,sha tuo tai bo,shato=tebo,Шато Тебо,Шато-Тебо,シャトー＝テボー,沙托泰博",47.12511,-1.42153,P,PPL,FR,,52,44,442,44037,0,,55,Europe/Paris,2020-09-10
+3026308,Château-Bougon,Chateau-Bougon,"Bougon,Chateau-Bougon,Château-Bougon",47.16667,-1.58333,P,PPL,FR,,52,44,442,44020,0,,31,Europe/Paris,2020-06-10
+3026845,Chantenay-sur-Loire,Chantenay-sur-Loire,"Chantenay,Chantenay-sur-Loire",47.20464,-1.60226,P,PPL,FR,,52,44,442,44109,0,,45,Europe/Paris,2016-02-18
+3026847,Gare de Chantenay,Gare de Chantenay,"87481051,CHA,Gare de Chantenay",47.2,-1.61667,S,RSTN,FR,,52,44,442,44162,0,,21,Europe/Paris,2019-03-28
+3026985,Chanais,Chanais,,47.35941,-1.66191,P,PPL,FR,,52,44,445,44066,0,,57,Europe/Paris,2019-03-26
+3027008,Champtoceaux,Champtoceaux,"Champtoceaux,Shamtoso,Shantoso,shang pu tuo suo,shantoso,Шамтосо,Шантосо,シャントソー,尚普托索",47.33665,-1.26602,P,PPL,FR,,52,49,492,49069,1840,,71,Europe/Paris,2020-10-14
+3028428,Casson,Casson,"Casson,Kazon",47.38647,-1.55809,P,PPL,FR,,52,44,445,44027,1432,,34,Europe/Paris,2020-09-10
+3028535,Carquefou,Carquefou,"Carcafagus,Carquefou,Kark'ofu,Karkfu,Kerc'hfaou,Kerchfaou,ka er qu ai fu,Каркфу,Каркьофу,卡尔屈埃富",47.29722,-1.4921,P,PPL,FR,,52,44,442,44026,18056,,34,Europe/Paris,2020-09-10
+3030603,Brains,Brains,"Brains,Brenn",47.16915,-1.72283,P,PPL,FR,,52,44,442,44024,2325,,23,Europe/Paris,2020-09-10
+3031140,Boulogne,Boulogne,"Boulogne,Boulogne  River,Bulɔɲ,La Boulogne Riviere,La Boulogne Rivière",47.06795,-1.67511,H,STM,FR,,52,44,,,0,,-1,Europe/Paris,2021-06-06
+3031268,Bouguenais,Bouguenais,"Bougenais,Bouguenais,Bugene,Castrum Bogenis,Kervegon,bu gai nai,bugene,Бугене,ブゲネ,布盖奈",47.17941,-1.62468,P,PPL,FR,,52,44,442,44020,16824,,26,Europe/Paris,2020-09-10
+3031313,Bouée,Bouee,"Bouee,Bouée,Bozeg",47.32023,-1.91014,P,PPL,FR,,52,44,443,44019,713,,19,Europe/Paris,2020-09-10
+3031370,Bouché,Bouche,,47.35595,-1.58821,P,PPL,FR,,52,44,445,44066,0,,31,Europe/Paris,2019-03-26
+3031403,Bouaye,Bouaye,"Bouaye,Bouez,Bue,bu ai ai,Буе,布艾埃",47.14343,-1.68902,P,PPL,FR,,52,44,442,44018,5673,,17,Europe/Paris,2026-08-30
+3031754,Bonne Fontaine,Bonne Fontaine,,47.16047,-1.30393,P,PPL,FR,,52,44,442,44212,0,,28,Europe/Paris,2016-02-18
+3031808,Bon Garand,Bon Garand,,47.2806,-1.6956,P,PPL,FR,,52,44,442,44194,0,,63,Europe/Paris,2016-02-18
+3031890,Boistuaud,Boistuaud,"Boisthuaud,Boistuaud",47.33916,-1.86845,P,PPL,FR,,52,44,443,44089,0,,82,Europe/Paris,2016-02-18
+3032380,Blanche-Lande,Blanche-Lande,,47.35369,-1.2569,P,PPL,FR,,52,44,445,44115,0,,64,Europe/Paris,2019-03-26
+3034249,Île Beaulieu,Ile Beaulieu,"Ile Beaulieu,Île Beaulieu",47.20452,-1.54381,T,ISL,FR,,52,44,,,0,,10,Europe/Paris,2018-12-05
+3034697,Indre,Indre,"Antr,Basse-Indre,Ehndr,Indre,La Basse-Indre,Эндр",47.2,-1.66667,P,PPL,FR,,52,44,442,44074,3897,,4,Europe/Paris,2016-02-18
+3034699,Basse-Goulaine,Basse-Goulaine,"Bas Gulen,Bass-Gulen,Basse-Goulaine,Goueled-Goulen,Sanctus Bricius de Golena,ba si gu lan,Бас Гулен,Басс-Гулен,巴斯古兰",47.2151,-1.46598,P,PPL,FR,,52,44,442,44009,8160,,15,Europe/Paris,2020-09-10
+3035040,Barbechat,Barbechat,"Barbechat,Barbesha,Barbsha,Bargazh,ba er bei sha,barubusha,Барбеша,Барбша,バルブシャ,巴尔贝沙",47.2775,-1.28524,P,PPL,FR,,52,44,442,44029,1140,,72,Europe/Paris,2016-12-10
+3036826,Île d'Arouix,Ile d'Arouix,,47.27441,-1.40654,T,ISL,FR,,52,44,,,0,,6,Europe/Paris,2019-12-03
+3038520,Aigrefeuille-sur-Maine,Aigrefeuille-sur-Maine,"Acrifolium,Aigrefeuille,Aigrefeuille-sur-Maine,Egrefej-sjur-Men,Egrfej sir Men,Kelenneg-ar-Mewan,aygrfwyl-sw-mayn,man en he pan ai ge er fu ye,Егрефей-сюр-Мен,Егрфеј сир Мен,ایگرفویل-سو-ماین,曼恩河畔艾格尔弗耶",47.08008,-1.40419,P,PPL,FR,,52,44,442,44002,2355,,43,Europe/Paris,2020-09-10
+3038716,Acheneau,Acheneau,"Achenau,Acheneau,L'Acheneau Riviere,L'Acheneau Rivière,L'Acheneau Ruisseau",47.19394,-1.85367,H,STM,FR,,52,44,,,0,,4,Europe/Paris,2019-12-03
+3233452,La Martinière,La Martiniere,,47.20486,-1.77737,P,PPL,FR,,52,44,442,44120,0,,20,Europe/Paris,2016-02-18
+3233453,La Bourdinière,La Bourdiniere,,47.2276,-1.75617,P,PPL,FR,,52,44,442,44047,0,,7,Europe/Paris,2016-02-18
+3233454,Le Pé de Buzay,Le Pe de Buzay,,47.20365,-1.81682,P,PPL,FR,,52,44,442,44120,0,,13,Europe/Paris,2016-02-18
+3233455,Buzay,Buzay,,47.20726,-1.82631,P,PPL,FR,,52,44,442,44145,0,,5,Europe/Paris,2016-02-18
+3233457,La Peille,La Peille,,47.27683,-1.85929,P,PPL,FR,,52,44,442,44045,0,,4,Europe/Paris,2016-02-18
+3233458,Le Migron,Le Migron,,47.25536,-1.91599,P,PPL,FR,,52,44,443,44061,0,,8,Europe/Paris,2016-02-18
+3233461,La Cheminandais,La Cheminandais,,47.25833,-1.92849,P,PPL,FR,,52,44,443,44061,0,,18,Europe/Paris,2016-02-18
+3233462,La Roche,La Roche,,47.25957,-1.91829,P,PPL,FR,,52,44,443,44061,0,,3,Europe/Paris,2016-02-18
+3233463,Le Pontreau,Le Pontreau,,47.3031,-1.85234,P,PPL,FR,,52,44,442,44045,0,,6,Europe/Paris,2016-02-18
+3233464,Merlet,Merlet,,47.31258,-1.86563,P,PPL,FR,,52,44,443,44089,0,,4,Europe/Paris,2016-02-18
+3233465,Bellevue,Bellevue,,47.25377,-1.94702,P,PPL,FR,,52,44,443,44061,0,,30,Europe/Paris,2016-02-18
+3233675,La Babinais,La Babinais,,47.30861,-1.90393,P,PPLL,FR,,52,44,443,44019,0,,5,Europe/Paris,2016-02-18
+3233925,La Basse Bignonnais,La Basse Bignonnais,,47.2983,-1.8995,P,PPLL,FR,,52,44,443,44019,0,,8,Europe/Paris,2016-02-18
+3233926,La Bazillais,La Bazillais,,47.29655,-1.8902,P,PPLL,FR,,52,44,443,44019,0,,7,Europe/Paris,2016-02-18
+3233927,Canal du Marais de la Roche,Canal du Marais de la Roche,,47.2952,-1.88012,H,CNL,FR,,52,44,,,0,,6,Europe/Paris,2016-02-18
+3233928,Étier de la Coquerais,Etier de la Coquerais,,47.28417,-1.90587,H,DTCHD,FR,,52,44,,,0,,0,Europe/Paris,2016-02-18
+3233929,Bras de Cordemais,Bras de Cordemais,,47.28306,-1.89667,H,STMA,FR,,52,44,,,0,,1,Europe/Paris,2016-02-18
+3233930,Île Sardine,Ile Sardine,,47.23333,-1.58333,T,ISLX,FR,,52,44,,,0,,46,Europe/Paris,2016-02-18
+3233931,Île Nouvelle,Ile Nouvelle,,47.25,-1.6,T,ISLX,FR,,52,44,,,0,,52,Europe/Paris,2016-02-18
+3233932,Gabon de la Maréchale,Gabon de la Marechale,,47.27845,-1.92103,H,DTCHD,FR,,52,,,,0,,0,Europe/Paris,2016-02-18
+3233937,Île de Bois,Ile de Bois,"Ile de Bois,Île de Bois",47.21036,-1.80532,T,ISL,FR,,52,44,,,0,,2,Europe/Paris,2018-12-05
+3233941,Canal de Buzay,Canal de Buzay,,47.19441,-1.85288,H,CNL,FR,,52,44,,,0,,5,Europe/Paris,2016-02-18
+3233944,Le Grand Chemin,Le Grand Chemin,,47.19659,-1.78258,P,PPL,FR,,52,44,442,44120,0,,16,Europe/Paris,2016-02-18
+3233967,Le Port-Launay,Le Port-Launay,,47.21218,-1.74386,P,PPL,FR,,52,44,442,44047,0,,11,Europe/Paris,2016-02-18
+3233971,La Petite Rivière,La Petite Riviere,,47.20291,-1.74427,H,STMA,FR,,52,44,,,0,,1,Europe/Paris,2016-02-18
+3233974,Île Pivin,Ile Pivin,"Ile Pivin,Île Pivin",47.20367,-1.70969,T,ISL,FR,,52,44,,,0,,1,Europe/Paris,2018-12-05
+3233979,La Chabossière,La Chabossiere,"La Chabossiere,La Chabossière",47.21557,-1.68323,P,PPL,FR,,52,44,442,44047,0,,29,Europe/Paris,2016-02-18
+3233986,Bras de la Madeleine,Bras de la Madeleine,,47.2,-1.56667,H,STMA,FR,,52,44,,,0,,9,Europe/Paris,2016-02-18
+3233987,Saint-Jacques,Saint-Jacques,,47.19404,-1.53619,P,PPLX,FR,,52,44,442,44109,0,,18,Europe/Paris,2016-02-18
+6299461,Nantes Atlantique Airport,Nantes Atlantique Airport,"Aehroport Nant,Aeroport Nantes Atlantique,Aeroporto di Nantes-Atlantique,Aeropuerto de Nantes Atlantique,Aéroport Nantes Atlantique,Bandar Udara Nantes-Atlantique,Flughafen Nantes,LFRS,Luchthaven Nantes Atlantique,NTE,Nantes Atlantique Airport,Nantes-Atlantique,Port lotniczy Nantes,Аэропорт Нант",47.15319,-1.61072,S,AIRP,FR,,52,44,442,44020,0,27,22,Europe/Paris,2016-02-18
+6434476,Monnières,Monnieres,"44100,Meliner,Monn'er,Monnieres,Monnières,mo ni ai,Монньєр,莫尼埃",47.13167,-1.35583,A,ADM4,FR,,52,44,442,44100,2179,,31,Europe/Paris,2019-03-29
+6434481,Mouzeil,Mouzeil,"44107,Mouzeil",47.44806,-1.34806,A,ADM4,FR,,52,44,445,44107,1874,,42,Europe/Paris,2019-03-29
+6434482,Mouzillon,Mouzillon,"44108,Maodilon,Mouzillon,Muzijon,mu qi long,Музійон,穆齐隆",47.14139,-1.28222,A,ADM4,FR,,52,44,442,44108,2810,,31,Europe/Paris,2019-03-29
+6434483,Nantes,Nantes,"44109,Gorad Nant,Nant,Nantas,Nante,Nantes,Nanti,Nanto,Naoned,Portus Namnetum,n xngt,namta,nan te,nangteu,nant,nanta,nanto,nantu,nantyz,naunta,Νάντη,Горад Нант,Нант,Նանտ,נאנט,نانت,نانتیز,नाँत,नांत,ਨੌਂਤ,நாந்து,น็องต์,ნანტი,ナント,南特,낭트",47.21722,-1.55389,A,ADM4,FR,,52,44,442,44109,306694,,15,Europe/Paris,2019-10-09
+6434484,Nort-sur-Erdre,Nort-sur-Erdre,"44110,Nort-sur-Erdre",47.43944,-1.49833,A,ADM4,FR,,52,44,445,44110,8651,,8,Europe/Paris,2019-03-29
+6434485,Notre-Dame-des-Landes,Notre-Dame-des-Landes,"44111,Notre-Dame-des-Landes",47.38083,-1.71,A,ADM4,FR,,52,44,445,44111,2144,,59,Europe/Paris,2019-03-29
+6434487,Orvault,Orvault,44114,47.27083,-1.62361,A,ADM4,FR,,52,44,442,44114,25931,,44,Europe/Paris,2019-03-23
+6434491,Petit-Mars,Petit-Mars,"44122,Petit-Mars",47.39417,-1.455,A,ADM4,FR,,52,44,445,44122,3605,,19,Europe/Paris,2019-03-29
+6434495,Pont-Saint-Martin,Pont-Saint-Martin,"44130,Pon-Sen-Marten,Pont-Marzhin,peng sheng ma er tan,pon=san=marutan,Пон-Сен-Мартен,ポン＝サン＝マルタン,蓬圣马尔坦",47.12361,-1.58444,A,ADM4,FR,,52,44,442,44130,5877,,8,Europe/Paris,2019-03-23
+6434497,Port-Saint-Père,Port-Saint-Pere,"44133,Port-Saint-Pere,Port-Saint-Père",47.13306,-1.74833,A,ADM4,FR,,52,44,442,44133,2910,,16,Europe/Paris,2019-03-29
+6434505,Rouans,Rouans,"44145,Rouans",47.18528,-1.85972,A,ADM4,FR,,52,44,442,44145,2913,,18,Europe/Paris,2019-03-29
+6434511,Saint-Étienne-de-Montluc,Saint-Etienne-de-Montluc,"44158,Saint-Etienne-de-Montluc,Saint-Étienne-de-Montluc",47.27639,-1.78028,A,ADM4,FR,,52,44,442,44158,6952,,24,Europe/Paris,2019-03-29
+6434512,Saint-Fiacre-sur-Maine,Saint-Fiacre-sur-Maine,"44159,Saint-Fiacre-sur-Maine",47.14333,-1.41667,A,ADM4,FR,,52,44,442,44159,1186,,45,Europe/Paris,2019-03-29
+6434515,Saint-Herblain,Saint-Herblain,"44162,Saint-Herblain",47.21139,-1.65111,A,ADM4,FR,,52,44,442,44162,46603,,23,Europe/Paris,2019-03-29
+6434517,Saint-Hilaire-de-Chaléons,Saint-Hilaire-de-Chaleons,"44164,Saint-Hilaire-de-Chaleons,Saint-Hilaire-de-Chaléons",47.10306,-1.865,A,ADM4,FR,,52,44,443,44164,2265,,15,Europe/Paris,2019-03-29
+6434519,Saint-Jean-de-Boiseau,Saint-Jean-de-Boiseau,"44166,Saint-Jean-de-Boiseau",47.19417,-1.72472,A,ADM4,FR,,52,44,442,44166,5692,,21,Europe/Paris,2019-03-29
+6434521,Saint-Julien-de-Concelles,Saint-Julien-de-Concelles,"44169,Saint-Julien-de-Concelles",47.25333,-1.38556,A,ADM4,FR,,52,44,442,44169,6888,,12,Europe/Paris,2019-03-29
+6434523,Saint-Léger-les-Vignes,Saint-Leger-les-Vignes,"44171,Saint-Leger-les-Vignes,Saint-Léger-les-Vignes",47.13611,-1.73222,A,ADM4,FR,,52,44,442,44171,1776,,13,Europe/Paris,2019-03-29
+6434524,Sainte-Luce-sur-Loire,Sainte-Luce-sur-Loire,"44172,Sainte-Luce-sur-Loire",47.24944,-1.48667,A,ADM4,FR,,52,44,442,44172,15247,,15,Europe/Paris,2019-03-29
+6434525,Saint-Lumine-de-Clisson,Saint-Lumine-de-Clisson,44173,47.08361,-1.33694,A,ADM4,FR,,52,44,442,44173,2109,,32,Europe/Paris,2019-03-23
+6434526,Saint-Lumine-de-Coutais,Saint-Lumine-de-Coutais,"44174,Saint-Lumine-de-Coutais",47.05444,-1.72639,A,ADM4,FR,,52,44,442,44174,2128,,26,Europe/Paris,2019-03-29
+6434529,Saint-Mars-de-Coutais,Saint-Mars-de-Coutais,"44178,Saint-Mars-de-Coutais",47.1125,-1.73583,A,ADM4,FR,,52,44,442,44178,2630,,6,Europe/Paris,2019-03-29
+6434531,Saint-Même-le-Tenu,Saint-Meme-le-Tenu,,47.02056,-1.795,A,ADM4H,FR,,52,44,442,44181,1138,,8,Europe/Paris,2016-07-15
+6434536,Sainte-Pazanne,Sainte-Pazanne,"44186,Sainte-Pazanne",47.10306,-1.81083,A,ADM4,FR,,52,44,442,44186,6659,,18,Europe/Paris,2019-03-29
+6434538,Saint-Philbert-de-Grand-Lieu,Saint-Philbert-de-Grand-Lieu,"44188,Saint-Philbert-de-Grand-Lieu",47.035,-1.64,A,ADM4,FR,,52,44,442,44188,8851,,4,Europe/Paris,2019-03-29
+6434540,Saint-Sébastien-sur-Loire,Saint-Sebastien-sur-Loire,"44190,Saint-Sebastien-sur-Loire,Saint-Sébastien-sur-Loire",47.20766,-1.50337,A,ADM4,FR,,52,44,442,44190,26872,,17,Europe/Paris,2019-03-29
+6434543,Sautron,Sautron,"44194,Sautron",47.26361,-1.66833,A,ADM4,FR,,52,44,442,44194,7915,,61,Europe/Paris,2019-03-29
+6434549,Thouaré-sur-Loire,Thouare-sur-Loire,44204,47.2675,-1.44056,A,ADM4,FR,,52,44,442,44204,9778,,12,Europe/Paris,2019-03-23
+6434553,Treillières,Treillieres,"44209,Treillieres,Treillières",47.33083,-1.62667,A,ADM4,FR,,52,44,445,44209,8978,,57,Europe/Paris,2019-03-29
+6434555,Vallet,Vallet,"44212,Gwaled,Valle,wa lai,Валле,瓦莱",47.16167,-1.26694,A,ADM4,FR,,52,44,442,44212,8953,,55,Europe/Paris,2019-03-23
+6434558,Vertou,Vertou,"44215,Vertou",47.16806,-1.47139,A,ADM4,FR,,52,44,442,44215,23581,,33,Europe/Paris,2019-03-29
+6434559,Vieillevigne,Vieillevigne,"44216,Henwinieg,Vejvin',Vieillevigne,vuieiyuvuinyu,wei ye yi lei wei ni,Вєйвінь,ヴィエイユヴィーニュ,维耶伊勒维尼",46.97111,-1.43333,A,ADM4,FR,,52,44,442,44216,3961,,41,Europe/Paris,2019-03-29
+6434560,Vigneux-de-Bretagne,Vigneux-de-Bretagne,44217,47.32611,-1.73833,A,ADM4,FR,,52,44,445,44217,5923,,67,Europe/Paris,2019-03-26
+6434563,Vue,Vue,"44220,Gwagenez,Vju,Vue,wei ai,Вю,维埃",47.19861,-1.88111,A,ADM4,FR,,52,44,442,44220,1648,,1,Europe/Paris,2019-03-29
+6435204,Drain,Drain,"Dren,de lan,Дрен,德兰",47.3391,-1.2061,A,ADM4H,FR,,52,49,492,49126,1877,,64,Europe/Paris,2016-07-15
+6435296,Saint-Laurent-des-Autels,Saint-Laurent-des-Autels,,47.28694,-1.19083,A,ADM4H,FR,,52,49,492,49296,2111,,92,Europe/Paris,2016-07-15
+6445198,Saint-Hilaire-de-Loulay,Saint-Hilaire-de-Loulay,,47.00306,-1.33083,A,ADM4H,FR,,52,85,852,85224,4164,,43,Europe/Paris,2019-03-27
+6445224,Saint-Philbert-de-Bouaine,Saint-Philbert-de-Bouaine,"85262,Saint-Philbert-de-Bouaine,Sen-Fil'ber-de-Buen,sheng fei er bei er de bu ai na,Сен-Фільбер-де-Буен,سین-فلبرٹ-دے-بوہینے,圣菲尔贝尔德布艾纳",46.98528,-1.52083,A,ADM4,FR,,52,85,852,85262,3375,,17,Europe/Paris,2019-03-29
+6449073,Bouaye,Bouaye,"44018,Bouaye",47.14361,-1.68889,A,ADM4,FR,,52,44,442,44018,7620,,17,Europe/Paris,2019-03-29
+6449074,Bouée,Bouee,"44019,Bouee,Bouée,Bozeg,Bue,Buj,bu ai ai,Буе,Буй,布埃埃",47.32083,-1.91,A,ADM4,FR,,52,44,443,44019,956,,19,Europe/Paris,2019-03-29
+6449075,Bouguenais,Bouguenais,"44020,Bouguenais",47.17917,-1.62472,A,ADM4,FR,,52,44,442,44020,19049,,26,Europe/Paris,2019-03-29
+6449079,Carquefou,Carquefou,"44026,Carquefou",47.29694,-1.49278,A,ADM4,FR,,52,44,442,44026,19384,,34,Europe/Paris,2019-03-29
+6449080,Casson,Casson,"44027,Casson,Kason,Kasson,Kazon,kason,Касон,Кассон,カソン",47.38583,-1.55944,A,ADM4,FR,,52,44,445,44027,2217,,36,Europe/Paris,2019-03-29
+6449083,Cheix-en-Retz,Cheix-en-Retz,"44039,Cheix-en-Retz,Keiz-Raez,Sheks an Rec,Sheks-an-Re,lei te de qu xie,Шекс ан Рец,Шекс-ан-Ре,雷特地区谢",47.18167,-1.81556,A,ADM4,FR,,52,44,442,44039,1047,,14,Europe/Paris,2019-03-29
+6449085,Cordemais,Cordemais,44045,47.29028,-1.87889,A,ADM4,FR,,52,44,442,44045,3692,,17,Europe/Paris,2019-03-23
+6449087,Couëron,Coueron,"44047,Coueron,Couëron",47.21472,-1.72389,A,ADM4,FR,,52,44,442,44047,20900,,23,Europe/Paris,2019-03-29
+6449088,Couffé,Couffe,"44048,Couffe,Couffé",47.39139,-1.29278,A,ADM4,FR,,52,44,445,44048,2543,,26,Europe/Paris,2019-03-29
+6449094,Fay-de-Bretagne,Fay-de-Bretagne,"44056,Faouell,Fe-de-Bretan',fei de bu lei ta ni,Фе-де-Бретань,费德布雷塔尼",47.415,-1.79139,A,ADM4,FR,,52,44,445,44056,3601,,47,Europe/Paris,2019-03-26
+6449097,Frossay,Frossay,44061,47.24389,-1.93417,A,ADM4,FR,,52,44,443,44061,3227,,32,Europe/Paris,2019-03-23
+6449099,Gorges,Gorges,"44064,Gored,Gorges,Gorgium,Gorzh,ge er re,Горж,戈尔热",47.10167,-1.30389,A,ADM4,FR,,52,44,442,44064,4543,,33,Europe/Paris,2019-03-29
+6449103,Haute-Goulaine,Haute-Goulaine,"44071,Haute-Goulaine",47.19889,-1.42861,A,ADM4,FR,,52,44,442,44071,5755,,28,Europe/Paris,2019-03-29
+6449105,Héric,Heric,"44073,Heric,Héric",47.4125,-1.65167,A,ADM4,FR,,52,44,445,44073,5930,,34,Europe/Paris,2019-03-29
+6449114,Maisdon-sur-Sèvre,Maisdon-sur-Sevre,"44088,Maisdon-sur-Sevre,Maisdon-sur-Sèvre",47.09722,-1.385,A,ADM4,FR,,52,44,442,44088,2908,,59,Europe/Paris,2019-03-29
+6449115,Malville,Malville,"44089,Kerwall,Mal'vil',Mallavilla,Malville,ma er wei er,Мальвіль,马尔维尔",47.36111,-1.86389,A,ADM4,FR,,52,44,443,44089,3429,,71,Europe/Paris,2019-03-29
+6449119,Mauves-sur-Loire,Mauves-sur-Loire,"44094,Mauves-sur-Loire",47.29611,-1.39333,A,ADM4,FR,,52,44,442,44094,3208,,33,Europe/Paris,2019-03-29
+6449428,Orée d'Anjou,Oree d'Anjou,"49069,Oree d'Anjou,Orée d'Anjou",47.33694,-1.26667,A,ADM4,FR,,52,49,492,49069,16324,,71,Europe/Paris,2019-03-29
+6451619,Cugand-la-Bernardière,Cugand-la-Bernardiere,"85076,Cugand,Cugand-la-Bernardiere,Cugand-la-Bernardière",47.0625,-1.25444,A,ADM4,FR,,52,85,852,85076,3466,,43,Europe/Paris,2025-02-10
+6452325,Aigrefeuille-sur-Maine,Aigrefeuille-sur-Maine,"44002,Aigrefeuille-sur-Maine",47.07667,-1.40056,A,ADM4,FR,,52,44,442,44002,3763,,46,Europe/Paris,2019-03-29
+6452331,Barbechat,Barbechat,,47.2775,-1.28639,A,ADM4H,FR,,52,44,442,44008,1275,,76,Europe/Paris,2016-07-15
+6454153,Rezé,Reze,"44143,Reudied,Reze,Rezé,Резе",47.19056,-1.56917,A,ADM4,FR,,52,44,442,44143,40368,,15,Europe/Paris,2019-03-29
+6455116,Brains,Brains,"44024,Brains,Bren,Brenn,bu lan,buran,Брен,ブラン,布兰",47.16917,-1.72167,A,ADM4,FR,,52,44,442,44024,2790,,25,Europe/Paris,2019-03-29
+6455120,Ligné,Ligne,"44082,Legneg,Lin'e,Lingiacum,li nie,Ліньє,利涅",47.41167,-1.37722,A,ADM4,FR,,52,44,445,44082,5143,,38,Europe/Paris,2019-03-26
+6456021,La Montagne,La Montagne,"44101,Ar Menez,La-Montan',la meng ta ni,Ла-Монтань,لا مونٹاگنی، لوئیر-اتلانتیک,拉蒙塔尼",47.19,-1.68389,A,ADM4,FR,,52,44,442,44101,6215,,39,Europe/Paris,2019-03-23
+6456022,Le Pallet,Le Pallet,"44117,Le Pallet",47.13833,-1.33583,A,ADM4,FR,,52,44,442,44117,3236,,30,Europe/Paris,2019-03-29
+6456023,Le Pellerin,Le Pellerin,"44120,Le Pellerin",47.19833,-1.75389,A,ADM4,FR,,52,44,442,44120,5050,,20,Europe/Paris,2019-03-29
+6456025,La Planche,La Planche,"44127,La Planche",47.01639,-1.43528,A,ADM4,FR,,52,44,442,44127,2610,,25,Europe/Paris,2019-03-29
+6456027,La Regrippière,La Regrippiere,"44140,La Regrippiere,La Regrippière,La-Regripper,Skouvlant,la lei ge li pi ai,la rygrypyry,Ла-Регриппєр,لا ریگریپیری,拉雷格里皮埃",47.18167,-1.17611,A,ADM4,FR,,52,44,442,44140,1525,,76,Europe/Paris,2019-03-29
+6456028,La Remaudière,La Remaudiere,"44141,La Remaudiere,La Remaudière",47.2375,-1.24333,A,ADM4,FR,,52,44,442,44141,1284,,78,Europe/Paris,2019-03-29
+6456030,Les Sorinières,Les Sorinieres,"44198,Les Sorinieres,Les Sorinières",47.14639,-1.53,A,ADM4,FR,,52,44,442,44198,8216,,32,Europe/Paris,2019-03-29
+6456031,Le Temple-de-Bretagne,Le Temple-de-Bretagne,"44203,Le Temple-de-Bretagne",47.3283,-1.7893,A,ADM4,FR,,52,44,442,44203,2006,,85,Europe/Paris,2022-03-09
+6456032,La Chevallerais,La Chevallerais,"44221,La Chevallerais",47.4675,-1.67139,A,ADM4,FR,,52,44,445,44221,1556,,24,Europe/Paris,2019-03-29
+6456908,Divatte-sur-Loire,Divatte-sur-Loire,"44029,Divatte-sur-Loire",47.27167,-1.33806,A,ADM4,FR,,52,44,442,44029,6713,,53,Europe/Paris,2019-03-29
+6456911,La Chapelle-Heulin,La Chapelle-Heulin,44032,47.17639,-1.34056,A,ADM4,FR,,52,44,442,44032,3265,,15,Europe/Paris,2019-03-23
+6456914,La Chapelle-sur-Erdre,La Chapelle-sur-Erdre,"44035,La Chapelle-sur-Erdre",47.29889,-1.55278,A,ADM4,FR,,52,44,442,44035,19348,,26,Europe/Paris,2019-03-29
+6456915,La Chevrolière,La Chevroliere,"44041,La Chevroliere,La Chevrolière",47.09083,-1.61194,A,ADM4,FR,,52,44,442,44041,5490,,11,Europe/Paris,2019-03-29
+6456918,La Haie-Fouassière,La Haie-Fouassiere,"44070,La Haie-Fouassiere,La Haie-Fouassière",47.15556,-1.39917,A,ADM4,FR,,52,44,442,44070,4648,,32,Europe/Paris,2019-03-29
+6456919,Le Landreau,Le Landreau,"44079,Le Landreau",47.205,-1.30556,A,ADM4,FR,,52,44,442,44079,2977,,66,Europe/Paris,2019-03-29
+6456920,Le Loroux-Bottereau,Le Loroux-Bottereau,44084,47.2383,-1.3483,A,ADM4,FR,,52,44,442,44084,8126,,49,Europe/Paris,2019-03-23
+6458641,Saint-Sauveur-de-Landemont,Saint-Sauveur-de-Landemont,,47.2842,-1.25578,A,ADM4H,FR,,52,49,492,49320,854,,69,Europe/Paris,2016-07-15
+6458672,La Varenne,La Varenne,,47.31278,-1.32194,A,ADM4H,FR,,52,49,492,49360,1719,,62,Europe/Paris,2016-07-15
+6458673,Saint-Christophe-la-Couperie,Saint-Christophe-la-Couperie,,47.25429,-1.18042,A,ADM4H,FR,,52,49,492,49270,757,,91,Europe/Paris,2016-07-15
+6464553,Hotel Stars Nantes,Hotel Stars Nantes,,47.2473,-1.5039,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+6473350,Mercure Ile de Nantes,Mercure Ile de Nantes,,47.2062,-1.5285,S,HTL,FR,,52,44,442,44109,0,,6,Europe/Paris,2016-02-18
+6473356,Kyriad,Kyriad,,47.2177,-1.5444,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+6473718,Grand Hotel Mercure Nantes Central,Grand Hotel Mercure Nantes Central,,47.2139,-1.5568,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+6474158,Mascotte Nantes,Mascotte Nantes,,47.1584,-1.60035,S,HTL,FR,,52,44,442,44020,0,,25,Europe/Paris,2016-02-18
+6474236,Amiral,Amiral,,47.21404,-1.56259,S,HTL,FR,,52,44,442,44109,0,,37,Europe/Paris,2016-02-18
+6475376,Holiday Inn Garden Court Nantes,Holiday Inn Garden Court Nantes,,47.2069,-1.5481,S,HTL,FR,,52,44,442,44109,0,,10,Europe/Paris,2016-02-18
+6476171,Mercure Gd Htl Nantes Ctre 4,Mercure Gd Htl Nantes Ctre 4,,47.214,-1.557,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+6489822,Hotel Beautour,Hotel Beautour,,47.18202,-1.51408,S,HTL,FR,,52,44,442,44215,0,,11,Europe/Paris,2016-02-18
+6490216,Grand Hotel de Nantes,Grand Hotel de Nantes,,47.21288,-1.56002,S,HTL,FR,,52,44,442,44109,0,,20,Europe/Paris,2016-02-18
+6490226,WESTOTEL Nantes-Atlantique,WESTOTEL Nantes-Atlantique,,47.2829,-1.55085,S,HTL,FR,,52,44,442,44035,0,,33,Europe/Paris,2016-02-18
+6490782,Premiere Classe Nantes est - Saint Sebastien sur Loire,Premiere Classe Nantes est - Saint Sebastien sur Loire,,47.2116,-1.4871,S,HTL,FR,,52,44,442,44190,0,,7,Europe/Paris,2016-02-18
+6491374,Campanile Nantes St Sebastien,Campanile Nantes St Sebastien,,47.2107,-1.4866,S,HTL,FR,,52,44,442,44190,0,,11,Europe/Paris,2016-02-18
+6491386,Campanile Nantes St Herblain,Campanile Nantes St Herblain,,47.2274,-1.6349,S,HTL,FR,,52,44,442,44162,0,,48,Europe/Paris,2016-02-18
+6492231,Oceania Nantes,Oceania Nantes,,47.1789,-1.6189,S,HTL,FR,,52,44,442,44020,0,,18,Europe/Paris,2016-02-18
+6492472,Citea Nantes Aubiniere,Citea Nantes Aubiniere,,47.2604,-1.4966,S,HTL,FR,,52,44,442,44109,0,,25,Europe/Paris,2016-12-10
+6493474,Appart'city Nantes Château des Ducs,Appart'city Nantes Chateau des Ducs,,47.2144,-1.546,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+6496933,Brit'Hotel Le Kerann,Brit'Hotel Le Kerann,,47.2336,-1.6525,S,HTL,FR,,52,44,442,44162,0,,55,Europe/Paris,2016-02-18
+6497876,Hotel des Colonies,Hotel des Colonies,,47.215,-1.5603,S,HTL,FR,,52,44,442,44109,0,,27,Europe/Paris,2016-02-18
+6498280,Appart'City Sanitat,Appart'City Sanitat,,47.2097,-1.5672,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+6498332,Hotel de Bourgogne,Hotel de Bourgogne,,47.2175,-1.5443,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+6498553,Escale Oceania Nantes,Escale Oceania Nantes,,47.1592,-1.5971,S,HTL,FR,,52,44,442,44020,0,,26,Europe/Paris,2016-02-18
+6498801,Citea Nantes,Citea Nantes,,47.2067,-1.5792,S,HTL,FR,,52,44,442,44109,0,,23,Europe/Paris,2016-02-18
+6499277,Campanile Nantes Sainte Luce,Campanile Nantes Sainte Luce,,47.2622,-1.4936,S,HTL,FR,,52,44,442,44172,0,,20,Europe/Paris,2016-12-10
+6499327,Kyriad - Nantes Centre,Kyriad - Nantes Centre,,47.2175,-1.5443,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+6501003,Hotel De France Nantes,Hotel De France Nantes,,47.2133,-1.5615,S,HTL,FR,,52,44,442,44109,0,,31,Europe/Paris,2016-02-18
+6502875,Brit'Hotel Amandine,Brit'Hotel Amandine,,47.2546,-1.5296,S,HTL,FR,,52,44,442,44109,0,,21,Europe/Paris,2016-02-18
+6505258,Hotel Akena Sainte Luce,Hotel Akena Sainte Luce,,47.2538,-1.4758,S,HTL,FR,,52,44,442,44172,0,,13,Europe/Paris,2016-02-18
+6506044,Mercure Nantes Gare Sud 3,Mercure Nantes Gare Sud 3,,47.21572,-1.54284,S,HTL,FR,,52,44,442,44109,0,,9,Europe/Paris,2016-02-18
+6508831,Ibis Nantes Treillieres,Ibis Nantes Treillieres,,47.3303,-1.6256,S,HTL,FR,,52,44,445,44209,0,,54,Europe/Paris,2019-03-26
+6508918,Relais Mercure Nantes Ouest,Relais Mercure Nantes Ouest,,47.2617,-1.6717,S,HTL,FR,,52,44,442,44194,0,,67,Europe/Paris,2016-02-18
+6509061,Novotel Nantes Carquefou,Novotel Nantes Carquefou,,47.2829,-1.4539,S,HTL,FR,,52,44,442,44026,0,,25,Europe/Paris,2016-12-10
+6510142,Atel Grand Hotel De Nantes,Atel Grand Hotel De Nantes,,47.2124,-1.5602,S,HTL,FR,,52,44,442,44109,0,,20,Europe/Paris,2016-02-18
+6513382,Ibis Nantes Centre,Ibis Nantes Centre,,47.2189,-1.5609,S,HTL,FR,,52,44,442,44109,0,,29,Europe/Paris,2016-02-18
+6514270,L Hotel,L Hotel,,47.2173,-1.5476,S,HTL,FR,,52,44,442,44109,0,,19,Europe/Paris,2016-02-18
+6515115,Ibis Nantes Centre Gare Sud,Ibis Nantes Centre Gare Sud,,47.2152,-1.547,S,HTL,FR,,52,44,442,44109,0,,11,Europe/Paris,2016-02-18
+6515341,Ibis Nantes La Beaujoire,Ibis Nantes La Beaujoire,,47.2566,-1.5157,S,HTL,FR,,52,44,442,44109,0,,33,Europe/Paris,2016-02-18
+6516654,Novotel Nantes Cite Congres,Novotel Nantes Cite Congres,,47.21353,-1.54402,S,HTL,FR,,52,44,442,44109,0,,7,Europe/Paris,2016-02-18
+6519216,Appart City Nantes Chateau Des,Appart City Nantes Chateau Des,,47.2102,-1.5471,S,HTL,FR,,52,44,442,44109,0,,9,Europe/Paris,2016-02-18
+6520008,Le Domaine D Orvault,Le Domaine D Orvault,,47.265,-1.6288,S,HTL,FR,,52,44,442,44114,0,,45,Europe/Paris,2016-02-18
+6520562,Citea Residentiel Nantes Aubini,Citea Residentiel Nantes Aubini,,47.2456,-1.5693,S,HTL,FR,,52,44,442,44109,0,,26,Europe/Paris,2016-02-18
+6523836,Appart City Nantes Viarme,Appart City Nantes Viarme,,47.2213,-1.5615,S,HTL,FR,,52,44,442,44109,0,,31,Europe/Paris,2016-02-18
+6525608,Chateau De La Colaissiere,Chateau De La Colaissiere,,47.287,-1.256,S,HTL,FR,,52,49,492,49069,0,,74,Europe/Paris,2016-12-10
+6526211,Mercure Nantes Nord 2m,Mercure Nantes Nord 2m,,47.3303,-1.6256,S,HTL,FR,,52,44,445,44209,0,,54,Europe/Paris,2019-03-26
+6531363,Arcantis Hotel Jules Verne,Arcantis Hotel Jules Verne,,47.21383,-1.5569,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+6532063,Residhome Res Ducs De Bretange,Residhome Res Ducs De Bretange,,47.2138,-1.5452,S,HTL,FR,,52,44,442,44109,0,,14,Europe/Paris,2016-02-18
+6612545,Montbert,Montbert,"44102,Montbert",47.05778,-1.48889,A,ADM4,FR,,52,44,442,44102,3097,,20,Europe/Paris,2019-03-29
+6612547,Oudon,Oudon,"44115,Oudon,Udon,Uldo,wu dong,Удон,乌东",47.34639,-1.28694,A,ADM4,FR,,52,44,445,44115,3763,,14,Europe/Paris,2019-03-29
+6612548,Remouillé,Remouille,"44142,Remouille,Remouillé",47.05556,-1.37694,A,ADM4,FR,,52,44,442,44142,1899,,36,Europe/Paris,2019-03-29
+6612551,Saint-Hilaire-de-Clisson,Saint-Hilaire-de-Clisson,"44165,Saint-Hilaire-de-Clisson,Saint-Hilaire-du-Bois",47.06222,-1.30944,A,ADM4,FR,,52,44,442,44165,2268,,41,Europe/Paris,2019-03-29
+6613024,Clisson,Clisson,"44043,Clisson",47.08694,-1.28361,A,ADM4,FR,,52,44,442,44043,7035,,39,Europe/Paris,2019-03-29
+6613025,Gétigné,Getigne,"44063,Getigne,Gétigné",47.07556,-1.24944,A,ADM4,FR,,52,44,442,44063,3621,,33,Europe/Paris,2019-03-29
+6613858,Landemont,Landemont,"Landmon,lang dai meng,Ландмон,لانڈیمونٹ,朗代蒙",47.265,-1.24222,A,ADM4H,FR,,52,49,492,49172,1619,,91,Europe/Paris,2016-07-15
+6613984,Saint-Mars-du-Désert,Saint-Mars-du-Desert,"44179,Sanctus Medardus de Deserto,Sant-Marzh-an-Dezerzh,Sen-Mars-dju-Dezer,sheng ma er di dai sai er,Сен-Марс-дю-Дезер,سینٹ-مارس-دو-ڈیزرٹ، لڑے-اٹلانتقوے,圣马尔迪代塞尔",47.36639,-1.40583,A,ADM4,FR,,52,44,445,44179,4787,,59,Europe/Paris,2019-03-26
+6614104,Basse-Goulaine,Basse-Goulaine,"44009,Basse-Goulaine",47.21528,-1.46556,A,ADM4,FR,,52,44,442,44009,8867,,15,Europe/Paris,2019-03-29
+6614150,Chéméré,Chemere,,47.12194,-1.91472,A,ADM4H,FR,,52,44,443,44040,2171,,12,Europe/Paris,2016-07-15
+6614417,Le Cellier,Le Cellier,"44028,Le Cellier",47.31944,-1.34639,A,ADM4,FR,,52,44,445,44028,3698,,58,Europe/Paris,2019-03-29
+6614498,Les Touches,Les Touches,"44205,Les Touches",47.44132,-1.4296,A,ADM4,FR,,52,44,445,44205,2488,,22,Europe/Paris,2019-03-29
+6614540,La Limouzinière,La Limouziniere,"44083,La Limouziniere,La Limouzinière",46.9935,-1.5958,A,ADM4,FR,,52,44,442,44083,2401,,26,Europe/Paris,2019-03-29
+6615072,La Bernardière,La Bernardiere,"85021,La Bernardiere,La Bernardière",47.05,-1.26667,A,ADM4H,FR,,52,85,852,85021,1796,,47,Europe/Paris,2025-02-10
+6615510,Geneston,Geneston,"Banaleg-ar-Gevred,Genestonium,Zheneston,re nei si tong,Женестон,热内斯通",47.05639,-1.51139,P,PPL,FR,,52,44,442,44223,2217,14,28,Europe/Paris,2026-08-30
+6616805,Le Bignon,Le Bignon,"44014,Le Bignon",47.0988,-1.4896,A,ADM4,FR,,52,44,442,44014,3718,,22,Europe/Paris,2019-03-29
+6616806,La Boissière-du-Doré,La Boissiere-du-Dore,44016,47.232,-1.2196,A,ADM4,FR,,52,44,442,44016,1106,,83,Europe/Paris,2026-07-23
+6616807,Château-Thébaud,Chateau-Thebaud,44037,47.1249,-1.4185,A,ADM4,FR,,52,44,442,44037,3007,,45,Europe/Paris,2019-03-23
+6616809,Grandchamp-des-Fontaines,Grandchamp-des-Fontaines,"44066,Grandchamp-des-Fontaines,Grandchamps-des-Fontaines,Grandis Campus,Gransham-de-Fonten,Gregamp-ar-Feunteuniou,Gregamp-ar-Feunteunioù,ge lang de shang pu dai feng tai nei,guranshan=de=fontenu,Граншам-де-Фонтен,グランシャン＝デ＝フォンテーヌ,格朗德尚普代丰泰内",47.3652,-1.6048,A,ADM4,FR,,52,44,445,44066,5841,,36,Europe/Paris,2024-05-29
+6616810,Indre,Indre,"44074,Antr,Antrum,Endr,Indre,an de er,andoru,Ендр,アンドル,安德尔",47.1987,-1.6705,A,ADM4,FR,,52,44,442,44074,3915,,13,Europe/Paris,2019-03-29
+6616812,Saint-Aignan-Grandlieu,Saint-Aignan-Grandlieu,"44150,Saint-Aignan-Grandlieu",47.124,-1.63,A,ADM4,FR,,52,44,442,44150,3912,,6,Europe/Paris,2019-03-29
+6616814,Saint-Colomban,Saint-Colomban,"44155,Sant-Koulman,Sen-Kolomban,sheng ke long bang,sn-kwlwmban,Сен-Коломбан,سن-کولومبان,سینٹ-کولومبان,圣科隆邦",47.0088,-1.5823,A,ADM4,FR,,52,44,442,44155,3333,,19,Europe/Paris,2019-03-23
+6616815,Corcoué-sur-Logne,Corcoue-sur-Logne,"44156,Corcoue-sur-Logne,Corcoué-sur-Logne",46.9656,-1.576,A,ADM4,FR,,52,44,442,44156,2873,,29,Europe/Paris,2019-03-29
+6616817,Sucé-sur-Erdre,Suce-sur-Erdre,"44201,Suce-sur-Erdre,Sucé-sur-Erdre",47.3445,-1.5283,A,ADM4,FR,,52,44,445,44201,6958,,20,Europe/Paris,2019-03-29
+6616819,Geneston,Geneston,"44223,Geneston",47.0556,-1.5121,A,ADM4,FR,,52,44,442,44223,3638,,30,Europe/Paris,2019-03-29
+6618280,La Marne,La Marne,"44090,La Marne,La-Marn,Maeron,la ma er en,la marny,la mrn,Ла-Марн,لا مارنی,لا مرن,拉马尔恩",46.99556,-1.74111,A,ADM4,FR,,52,44,442,44090,1479,,14,Europe/Paris,2019-03-29
+6620269,Stade de La Beaujoire,Stade de La Beaujoire,Louis Fonteneau,47.25605,-1.52472,S,STDM,FR,,52,44,442,44109,0,,26,Europe/Paris,2016-02-18
+6620270,Stade Marcel-Saupin,Stade Marcel-Saupin,Stade Malakoff,47.21281,-1.5385,S,STDM,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+6941453,Rue du Bois Praud,Rue du Bois Praud,,47.19885,-1.52554,R,ST,FR,,52,44,442,44190,0,,20,Europe/Paris,2016-12-10
+7116362,Polytech'Nantes,Polytech'Nantes,,47.28265,-1.51663,S,SCH,FR,,52,44,442,44109,0,,25,Europe/Paris,2016-02-18
+7116363,Ecole des mines de Nantes,Ecole des mines de Nantes,,47.28223,-1.52081,S,SCH,FR,,52,44,442,44109,0,,25,Europe/Paris,2016-02-18
+7116364,Ecole de design,Ecole de design,,47.28325,-1.51762,S,SCH,FR,,52,44,442,44109,0,,24,Europe/Paris,2016-02-18
+7116365,Ecole Supérieure du Bois,Ecole Superieure du Bois,,47.28368,-1.51472,S,SCH,FR,,52,44,442,44109,0,,25,Europe/Paris,2016-02-18
+7284016,Haute Goulaine TV Mast,Haute Goulaine TV Mast,,47.18691,-1.43578,S,TOWR,FR,,52,44,442,44071,0,,57,Europe/Paris,2016-02-18
+7290081,La Grand Patais,La Grand Patais,,47.37342,-1.46959,P,PPL,FR,,52,44,445,44179,0,,1,Europe/Paris,2019-03-26
+7290119,Parc du grand blottereau,Parc du grand blottereau,,47.2284,-1.50903,L,PRK,FR,,52,,,,0,,14,Europe/Paris,2016-02-18
+7304607,Citea Nantes la Beaujoire,Citea Nantes la Beaujoire,,47.25842,-1.49525,S,HTL,FR,,52,44,442,44109,0,,22,Europe/Paris,2016-12-10
+7506773,Hôtel Novotel Nantes Centre Bord de Loire,Hotel Novotel Nantes Centre Bord de Loire,,47.20647,-1.54808,S,HTL,FR,,52,44,442,44109,0,,10,Europe/Paris,2016-02-18
+7521333,Mairie de Doulon,Mairie de Doulon,,47.22679,-1.51873,S,RSTN,FR,,52,44,442,44109,0,,16,Europe/Paris,2016-02-18
+7535056,Golf Carquefou,Golf Carquefou,,47.2891,-1.4845,S,RECG,FR,,52,44,442,44026,0,,29,Europe/Paris,2016-02-18
+7535059,Golf Nantes Erdre,Golf Nantes Erdre,,47.2618,-1.582,S,RECG,FR,,52,44,442,44109,0,,40,Europe/Paris,2016-02-18
+7535063,Golf Nantes,Golf Nantes,,47.32715,-1.74748,S,RECG,FR,,52,44,445,44217,0,,74,Europe/Paris,2019-03-26
+7535089,Golf de l'Île d'Or,Golf de l'Ile d'Or,,47.32556,-1.32222,S,RECG,FR,,52,44,445,44028,0,,9,Europe/Paris,2019-03-26
+7778638,Basse Lande transmitter,Basse Lande transmitter,,47.17075,-1.69501,S,RUIN,FR,,52,44,442,44024,0,,26,Europe/Paris,2016-02-18
+8286531,Saint-Sébastien Pas Enchantés Railway Station,Saint-Sebastien Pas Enchantes Railway Station,87354589,47.20699,-1.51126,S,RSTN,FR,,52,44,442,44190,0,,16,Europe/Paris,2016-02-18
+8286532,Saint-Sébastien-Frêne-Rond Railway Station,Saint-Sebastien-Frene-Rond Railway Station,87354597,47.19057,-1.49604,S,RSTN,FR,,52,44,442,44190,0,,25,Europe/Paris,2016-02-18
+8286973,La Basse-Indre Saint-Herblain Railway Station,La Basse-Indre Saint-Herblain Railway Station,87481069,47.20428,-1.66105,S,RSTN,FR,,52,44,442,44162,0,,8,Europe/Paris,2016-02-18
+8286974,Thouaré Railway Station,Thouare Railway Station,87481143,47.26512,-1.44093,S,RSTN,FR,,52,44,442,44204,0,,8,Europe/Paris,2016-02-18
+8286975,Mauves sur Loire Railway Station,Mauves sur Loire Railway Station,87481150,47.29281,-1.38928,S,RSTN,FR,,52,44,442,44094,0,,6,Europe/Paris,2016-02-18
+8286976,Le Cellier Railway Station,Le Cellier Railway Station,87481168,47.3131,-1.35116,S,RSTN,FR,,52,44,445,44028,0,,8,Europe/Paris,2019-03-26
+8286978,Oudon Railway Station,Oudon Railway Station,87481184,47.34306,-1.29166,S,RSTN,FR,,52,44,445,44115,0,,9,Europe/Paris,2019-03-26
+8286980,Bouaye Railway Station,Bouaye Railway Station,87481200,47.13778,-1.67982,S,RSTN,FR,,52,44,442,44018,0,,6,Europe/Paris,2016-02-18
+8286981,Port Saint-Père Saint-Mars Railway Station,Port Saint-Pere Saint-Mars Railway Station,87481218,47.11608,-1.74009,S,RSTN,FR,,52,44,442,44133,0,,6,Europe/Paris,2016-02-18
+8286982,Sainte-Pazanne Railway Station,Sainte-Pazanne Railway Station,87481226,47.10508,-1.81431,S,RSTN,FR,,52,44,442,44186,0,,17,Europe/Paris,2016-02-18
+8286983,St-Hilaire-de-Chaléons Railway Station,St-Hilaire-de-Chaleons Railway Station,87481234,47.10569,-1.865,S,RSTN,FR,,52,44,443,44164,0,,13,Europe/Paris,2016-02-18
+8286990,Vertou Railway Station,Vertou Railway Station,87481408,47.18597,-1.47793,S,RSTN,FR,,52,44,442,44215,0,,31,Europe/Paris,2016-02-18
+8286991,La Haie-Fouassière Railway Station,La Haie-Fouassiere Railway Station,87481416,47.16155,-1.39292,S,RSTN,FR,,52,44,442,44070,0,,24,Europe/Paris,2016-02-18
+8286992,Le Pallet Railway Station,Le Pallet Railway Station,87481424,47.14423,-1.34779,S,RSTN,FR,,52,44,442,44117,0,,35,Europe/Paris,2016-02-18
+8286993,Gorges Railway Station,Gorges Railway Station,87481432,47.10779,-1.31374,S,RSTN,FR,,52,44,442,44064,0,,32,Europe/Paris,2016-02-18
+8286994,Clisson Railway Station,Clisson Railway Station,87481440,47.08585,-1.28675,S,RSTN,FR,,52,44,442,44043,0,,42,Europe/Paris,2016-02-18
+8286995,Cugand la Bernardière Railway Station,Cugand la Bernardiere Railway Station,87481457,47.05769,-1.2517,S,RSTN,FR,,52,85,852,85076,0,,49,Europe/Paris,2016-02-18
+8287008,Couéron Railway Station,Coueron Railway Station,87481804,47.22217,-1.72469,S,RSTN,FR,,52,44,442,44047,0,,14,Europe/Paris,2016-02-18
+8287009,St-Étienne-de-Montluc Railway Station,St-Etienne-de-Montluc Railway Station,87481812,47.27546,-1.78718,S,RSTN,FR,,52,44,442,44158,0,,17,Europe/Paris,2016-02-18
+8287010,Cordemais Railway Station,Cordemais Railway Station,87481820,47.30202,-1.84617,S,RSTN,FR,,52,44,442,44045,0,,6,Europe/Paris,2016-02-18
+8292905,Bureau de Poste de Aigrefeuille Sur Maine,Bureau de Poste de Aigrefeuille Sur Maine,,47.07689,-1.40127,S,PO,FR,,52,44,442,44002,0,,46,Europe/Paris,2016-02-18
+8292910,Bureau de Poste de Basse Goulaine,Bureau de Poste de Basse Goulaine,,47.21684,-1.46549,S,PO,FR,,52,44,442,44009,0,,4,Europe/Paris,2016-02-18
+8292913,Bureau de Poste de Le Bignon,Bureau de Poste de Le Bignon,,47.09851,-1.49075,S,PO,FR,,52,44,442,44014,0,,23,Europe/Paris,2016-02-18
+8292915,Bureau de Poste de Bouaye,Bureau de Poste de Bouaye,,47.1424,-1.69235,S,PO,FR,,52,44,442,44018,0,,16,Europe/Paris,2016-02-18
+8292916,Bureau de Poste de Bouguenais Principal,Bureau de Poste de Bouguenais Principal,,47.17933,-1.62062,S,PO,FR,,52,44,442,44020,0,,16,Europe/Paris,2016-02-18
+8292919,Bureau de Poste de Brains,Bureau de Poste de Brains,,47.16909,-1.72199,S,PO,FR,,52,44,442,44024,0,,25,Europe/Paris,2016-02-18
+8292921,Bureau de Poste de Carquefou,Bureau de Poste de Carquefou,,47.29698,-1.49114,S,PO,FR,,52,44,442,44026,0,,34,Europe/Paris,2016-02-18
+8292922,Bureau de Poste de Le Cellier,Bureau de Poste de Le Cellier,,47.31925,-1.34737,S,PO,FR,,52,44,445,44028,0,,60,Europe/Paris,2019-03-26
+8292923,Bureau de Poste de La Chapelle Basse Mer,Bureau de Poste de La Chapelle Basse Mer,,47.27299,-1.33589,S,PO,FR,,52,44,442,44029,0,,50,Europe/Paris,2016-02-18
+8292926,Bureau de Poste de La Chapelle Heulin,Bureau de Poste de La Chapelle Heulin,,47.17641,-1.34028,S,PO,FR,,52,44,442,44032,0,,15,Europe/Paris,2016-02-18
+8292927,Bureau de Poste de La Chapelle Sur Erdre,Bureau de Poste de La Chapelle Sur Erdre,,47.29621,-1.55268,S,PO,FR,,52,44,442,44035,0,,40,Europe/Paris,2016-02-18
+8292929,Bureau de Poste de Chateauthebaud,Bureau de Poste de Chateauthebaud,,47.1238,-1.4202,S,PO,FR,,52,44,442,44037,0,,53,Europe/Paris,2016-02-18
+8292931,Bureau de Poste de Nantes Saint Donatien,Bureau de Poste de Nantes Saint Donatien,,47.22808,-1.54174,S,PO,FR,,52,44,442,44109,0,,27,Europe/Paris,2016-02-18
+8292932,Bureau de Poste de La Chevroliere,Bureau de Poste de La Chevroliere,,47.09213,-1.61208,S,PO,FR,,52,44,442,44041,0,,10,Europe/Paris,2016-02-18
+8292934,Bureau de Poste de Clisson,Bureau de Poste de Clisson,,47.08889,-1.27665,S,PO,FR,,52,44,442,44043,0,,31,Europe/Paris,2016-02-18
+8292935,Bureau de Poste de Cordemais,Bureau de Poste de Cordemais,,47.2918,-1.87693,S,PO,FR,,52,44,442,44045,0,,15,Europe/Paris,2016-02-18
+8292936,Bureau de Poste de Coueron Principal,Bureau de Poste de Coueron Principal,,47.21289,-1.72977,S,PO,FR,,52,44,442,44047,0,,8,Europe/Paris,2016-02-18
+8292937,Bureau de Poste de Couffe,Bureau de Poste de Couffe,,47.39041,-1.29442,S,PO,FR,,52,44,445,44048,0,,17,Europe/Paris,2019-03-26
+8292943,Bureau de Poste de Fay De Bretagne,Bureau de Poste de Fay De Bretagne,,47.41408,-1.79073,S,PO,FR,,52,44,445,44056,0,,48,Europe/Paris,2019-03-26
+8292945,Bureau de Poste de Frossay,Bureau de Poste de Frossay,,47.2433,-1.93506,S,PO,FR,,52,44,443,44061,0,,28,Europe/Paris,2016-02-18
+8292947,Bureau de Poste de Getigne,Bureau de Poste de Getigne,,47.07574,-1.24956,S,PO,FR,,52,44,442,44063,0,,33,Europe/Paris,2016-02-18
+8292948,Bureau de Poste de Gorges,Bureau de Poste de Gorges,,47.10219,-1.30489,S,PO,FR,,52,44,442,44064,0,,30,Europe/Paris,2016-02-18
+8292952,Bureau de Poste de La Haye Fouassiere,Bureau de Poste de La Haye Fouassiere,,47.15631,-1.39955,S,PO,FR,,52,44,442,44070,0,,32,Europe/Paris,2016-02-18
+8292953,Bureau de Poste de Haute Goulaine,Bureau de Poste de Haute Goulaine,,47.19995,-1.431,S,PO,FR,,52,44,442,44071,0,,18,Europe/Paris,2016-02-18
+8292955,Bureau de Poste de Heric,Bureau de Poste de Heric,,47.4166,-1.65416,S,PO,FR,,52,44,445,44073,0,,33,Europe/Paris,2019-03-26
+8292956,Bureau de Poste de Indre,Bureau de Poste de Indre,,47.19891,-1.67181,S,PO,FR,,52,44,442,44074,0,,11,Europe/Paris,2016-02-18
+8292958,Bureau de Poste de Ligne,Bureau de Poste de Ligne,,47.4125,-1.37431,S,PO,FR,,52,44,445,44082,0,,33,Europe/Paris,2019-03-26
+8292959,Bureau de Poste de Le Loroux Bottereau,Bureau de Poste de Le Loroux Bottereau,,47.23883,-1.34844,S,PO,FR,,52,44,442,44084,0,,48,Europe/Paris,2016-02-18
+8292960,Bureau de Poste de Nantes Bourgeonniere,Bureau de Poste de Nantes Bourgeonniere,,47.25335,-1.5594,S,PO,FR,,52,44,442,44109,0,,24,Europe/Paris,2016-02-18
+8292962,Bureau de Poste de Maisdon Sur Sevre,Bureau de Poste de Maisdon Sur Sevre,,47.09906,-1.38523,S,PO,FR,,52,44,442,44088,0,,60,Europe/Paris,2016-02-18
+8292963,Bureau de Poste de Malville,Bureau de Poste de Malville,,47.36008,-1.86238,S,PO,FR,,52,44,443,44089,0,,78,Europe/Paris,2016-02-18
+8292964,Bureau de Poste de Mauves Sur Loire,Bureau de Poste de Mauves Sur Loire,,47.29758,-1.39437,S,PO,FR,,52,44,442,44094,0,,41,Europe/Paris,2016-02-18
+8292969,Bureau de Poste de La Montagne,Bureau de Poste de La Montagne,,47.19003,-1.68418,S,PO,FR,,52,44,442,44101,0,,39,Europe/Paris,2016-02-18
+8292970,Bureau de Poste de Montbert,Bureau de Poste de Montbert,,47.05587,-1.48766,S,PO,FR,,52,44,442,44102,0,,19,Europe/Paris,2016-02-18
+8292973,Bureau de Poste de Nantes Bretagne,Bureau de Poste de Nantes Bretagne,,47.21764,-1.55883,S,PO,FR,,52,44,442,44109,0,,22,Europe/Paris,2016-02-18
+8292974,Bureau de Poste de Nort Sur Erdre,Bureau de Poste de Nort Sur Erdre,,47.4424,-1.49625,S,PO,FR,,52,44,445,44110,0,,6,Europe/Paris,2019-03-26
+8292975,Bureau de Poste de Notre Dame Des Landes,Bureau de Poste de Notre Dame Des Landes,,47.38041,-1.71141,S,PO,FR,,52,44,445,44111,0,,59,Europe/Paris,2019-03-26
+8292977,Bureau de Poste de Orvault,Bureau de Poste de Orvault,,47.25321,-1.59664,S,PO,FR,,52,44,442,44114,0,,50,Europe/Paris,2016-02-18
+8292978,Bureau de Poste de Oudon,Bureau de Poste de Oudon,,47.3474,-1.28418,S,PO,FR,,52,44,445,44115,0,,22,Europe/Paris,2019-03-26
+8292980,Bureau de Poste de Le Pallet,Bureau de Poste de Le Pallet,,47.138,-1.33785,S,PO,FR,,52,44,442,44117,0,,30,Europe/Paris,2016-02-18
+8292981,Bureau de Poste de Le Pellerin,Bureau de Poste de Le Pellerin,,47.198,-1.75198,S,PO,FR,,52,44,442,44120,0,,21,Europe/Paris,2016-02-18
+8292986,Bureau de Poste de Pont St Martin,Bureau de Poste de Pont St Martin,,47.1249,-1.58614,S,PO,FR,,52,44,442,44130,0,,13,Europe/Paris,2016-02-18
+8292989,Bureau de Poste de Port St Pere,Bureau de Poste de Port St Pere,,47.13454,-1.74736,S,PO,FR,,52,44,442,44133,0,,13,Europe/Paris,2016-02-18
+8292991,Bureau de Poste de Reze Principal,Bureau de Poste de Reze Principal,,47.17939,-1.54571,S,PO,FR,,52,44,442,44143,0,,32,Europe/Paris,2016-02-18
+8292993,Bureau de Poste de Rouans,Bureau de Poste de Rouans,,47.18561,-1.8585,S,PO,FR,,52,44,442,44145,0,,5,Europe/Paris,2016-02-18
+8292996,Bureau de Poste de Saint Aignan Grand Lieu,Bureau de Poste de Saint Aignan Grand Lieu,,47.12345,-1.63115,S,PO,FR,,52,44,442,44150,0,,6,Europe/Paris,2016-02-18
+8292999,Bureau de Poste de Corcoue Sur Logne,Bureau de Poste de Corcoue Sur Logne,,46.9661,-1.57641,S,PO,FR,,52,44,442,44156,0,,26,Europe/Paris,2016-02-18
+8293000,Bureau de Poste de Saint Etienne De Mont Luc,Bureau de Poste de Saint Etienne De Mont Luc,,47.27782,-1.78502,S,PO,FR,,52,44,442,44158,0,,20,Europe/Paris,2016-02-18
+8293002,Bureau de Poste de Saint Herblain Principal,Bureau de Poste de Saint Herblain Principal,,47.2183,-1.61384,S,PO,FR,,52,44,442,44162,0,,48,Europe/Paris,2016-02-18
+8293003,Bureau de Poste de Saint Jean De Boiseau,Bureau de Poste de Saint Jean De Boiseau,,47.1945,-1.6999,S,PO,FR,,52,44,442,44166,0,,31,Europe/Paris,2016-02-18
+8293005,Bureau de Poste de Saint Julien De Concelles,Bureau de Poste de Saint Julien De Concelles,,47.25097,-1.38679,S,PO,FR,,52,44,442,44169,0,,12,Europe/Paris,2016-02-18
+8293007,Bureau de Poste de Nantes Decre,Bureau de Poste de Nantes Decre,,47.21586,-1.55441,S,PO,FR,,52,44,442,44109,0,,17,Europe/Paris,2016-02-18
+8293008,Bureau de Poste de Sainte Luce Sur Loire,Bureau de Poste de Sainte Luce Sur Loire,,47.24982,-1.48442,S,PO,FR,,52,44,442,44172,0,,13,Europe/Paris,2016-02-18
+8293012,Bureau de Poste de Saint Mars Du Desert,Bureau de Poste de Saint Mars Du Desert,,47.36426,-1.40539,S,PO,FR,,52,44,445,44179,0,,66,Europe/Paris,2019-03-26
+8293017,Bureau de Poste de Sainte Pazanne,Bureau de Poste de Sainte Pazanne,,47.10449,-1.81191,S,PO,FR,,52,44,442,44186,0,,19,Europe/Paris,2016-02-18
+8293019,Bureau de Poste de Saint Philbert De Grandlieu,Bureau de Poste de Saint Philbert De Grandlieu,,47.03505,-1.63892,S,PO,FR,,52,44,442,44188,0,,3,Europe/Paris,2016-02-18
+8293020,Bureau de Poste de Saint Sebastien Sur Loire,Bureau de Poste de Saint Sebastien Sur Loire,,47.20751,-1.50533,S,PO,FR,,52,44,442,44190,0,,18,Europe/Paris,2016-02-18
+8293023,Bureau de Poste de Sautron,Bureau de Poste de Sautron,,47.26121,-1.66396,S,PO,FR,,52,44,442,44194,0,,64,Europe/Paris,2016-02-18
+8293027,Bureau de Poste de Les Sorinieres,Bureau de Poste de Les Sorinieres,,47.14853,-1.5331,S,PO,FR,,52,44,442,44198,0,,32,Europe/Paris,2016-02-18
+8293029,Bureau de Poste de Suce Sur Erdre,Bureau de Poste de Suce Sur Erdre,,47.3398,-1.52708,S,PO,FR,,52,44,445,44201,0,,10,Europe/Paris,2019-03-26
+8293030,Bureau de Poste de Le Temple De Bretagne,Bureau de Poste de Le Temple De Bretagne,,47.32855,-1.79131,S,PO,FR,,52,44,442,44203,0,,86,Europe/Paris,2016-02-18
+8293031,Bureau de Poste de Thouare Sur Loire,Bureau de Poste de Thouare Sur Loire,,47.26723,-1.4404,S,PO,FR,,52,44,442,44204,0,,13,Europe/Paris,2016-02-18
+8293032,Bureau de Poste de Treillieres,Bureau de Poste de Treillieres,,47.3291,-1.61988,S,PO,FR,,52,44,445,44209,0,,56,Europe/Paris,2019-03-26
+8293035,Bureau de Poste de Vallet,Bureau de Poste de Vallet,,47.1617,-1.26624,S,PO,FR,,52,44,442,44212,0,,56,Europe/Paris,2016-02-18
+8293037,Bureau de Poste de Vertou,Bureau de Poste de Vertou,,47.16806,-1.47133,S,PO,FR,,52,44,442,44215,0,,33,Europe/Paris,2016-02-18
+8293038,Bureau de Poste de Vieillevigne,Bureau de Poste de Vieillevigne,,46.9728,-1.43205,S,PO,FR,,52,44,442,44216,0,,34,Europe/Paris,2016-02-18
+8293039,Bureau de Poste de Vigneux De Bretagne,Bureau de Poste de Vigneux De Bretagne,,47.32672,-1.73606,S,PO,FR,,52,44,445,44217,0,,62,Europe/Paris,2019-03-26
+8293040,Bureau de Poste de Geneston,Bureau de Poste de Geneston,,47.05527,-1.51558,S,PO,FR,,52,44,442,44223,0,,31,Europe/Paris,2016-02-18
+8293041,Bureau de Poste de Nantes Zola,Bureau de Poste de Nantes Zola,,47.21411,-1.58745,S,PO,FR,,52,44,442,44109,0,,38,Europe/Paris,2016-02-18
+8293044,Bureau de Poste de Nantes Copernic,Bureau de Poste de Nantes Copernic,,47.21485,-1.56543,S,PO,FR,,52,44,442,44109,0,,37,Europe/Paris,2016-02-18
+8293045,Bureau de Poste de Reze Chateau,Bureau de Poste de Reze Chateau,,47.18455,-1.5591,S,PO,FR,,52,44,442,44143,0,,25,Europe/Paris,2016-02-18
+8293048,Bureau de Poste de Nantes Jules Verne,Bureau de Poste de Nantes Jules Verne,,47.248,-1.52196,S,PO,FR,,52,44,442,44109,0,,24,Europe/Paris,2016-02-18
+8293049,Bureau de Poste de Nantes Chantenay,Bureau de Poste de Nantes Chantenay,,47.20049,-1.58923,S,PO,FR,,52,44,442,44109,0,,23,Europe/Paris,2016-02-18
+8293050,Bureau de Poste de Nantes Doulon,Bureau de Poste de Nantes Doulon,,47.22597,-1.52953,S,PO,FR,,52,44,442,44109,0,,9,Europe/Paris,2016-02-18
+8293051,Bureau de Poste de Nantes Longchamp,Bureau de Poste de Nantes Longchamp,,47.23585,-1.56784,S,PO,FR,,52,44,442,44109,0,,31,Europe/Paris,2016-02-18
+8293052,Bureau de Poste de Nantes Talensac,Bureau de Poste de Nantes Talensac,,47.22008,-1.55588,S,PO,FR,,52,44,442,44109,0,,11,Europe/Paris,2016-02-18
+8293053,Bureau de Poste de Nantes Rollin,Bureau de Poste de Nantes Rollin,,47.20896,-1.57473,S,PO,FR,,52,44,442,44109,0,,11,Europe/Paris,2016-02-18
+8293054,Bureau de Poste de Nantes Republique,Bureau de Poste de Nantes Republique,,47.20475,-1.55341,S,PO,FR,,52,44,442,44109,0,,10,Europe/Paris,2016-02-18
+8293060,Bureau de Poste de Nantes Chauviniere,Bureau de Poste de Nantes Chauviniere,,47.25373,-1.57473,S,PO,FR,,52,44,442,44109,0,,38,Europe/Paris,2016-02-18
+8293061,Bureau de Poste de Nantes Contrie,Bureau de Poste de Nantes Contrie,,47.2214,-1.59243,S,PO,FR,,52,44,442,44109,0,,41,Europe/Paris,2016-02-18
+8293062,Bureau de Poste de Coueron La Chabossiere,Bureau de Poste de Coueron La Chabossiere,,47.2147,-1.6821,S,PO,FR,,52,44,442,44047,0,,26,Europe/Paris,2016-02-18
+8293063,Bureau de Poste de Nantes Vieux Doulon,Bureau de Poste de Nantes Vieux Doulon,,47.23611,-1.50492,S,PO,FR,,52,44,442,44109,0,,14,Europe/Paris,2016-02-18
+8293065,Bureau de Poste de Vertou Beautour,Bureau de Poste de Vertou Beautour,,47.1839,-1.50564,S,PO,FR,,52,44,442,44215,0,,21,Europe/Paris,2016-02-18
+8293066,Bureau de Poste de Saint Herblain Sillon,Bureau de Poste de Saint Herblain Sillon,,47.2436,-1.6065,S,PO,FR,,52,44,442,44162,0,,52,Europe/Paris,2016-02-18
+8293067,Bureau de Poste de Reze Pont Rousseau,Bureau de Poste de Reze Pont Rousseau,,47.18932,-1.55013,S,PO,FR,,52,44,442,44143,0,,16,Europe/Paris,2016-02-18
+8293068,Bureau de Poste de Nantes Saint Jacques,Bureau de Poste de Nantes Saint Jacques,,47.19408,-1.53125,S,PO,FR,,52,44,442,44109,0,,14,Europe/Paris,2016-02-18
+8293069,Bureau de Poste de Nantes Bellevue,Bureau de Poste de Nantes Bellevue,,47.20916,-1.6109,S,PO,FR,,52,44,442,44162,0,,41,Europe/Paris,2019-03-28
+8293070,Bureau de Poste de Nantes Champ De Mars,Bureau de Poste de Nantes Champ De Mars,,47.21367,-1.54522,S,PO,FR,,52,44,442,44109,0,,9,Europe/Paris,2016-02-18
+8293072,Bureau de Poste de Bouguenais Les Couets,Bureau de Poste de Bouguenais Les Couets,,47.18129,-1.58748,S,PO,FR,,52,44,442,44020,0,,24,Europe/Paris,2016-02-18
+8293074,Bureau de Poste de Orvault Place Jeanne D Arc,Bureau de Poste de Orvault Place Jeanne D Arc,,47.27069,-1.62206,S,PO,FR,,52,44,442,44114,0,,38,Europe/Paris,2016-02-18
+8293075,Bureau de Poste de Nantes Beausejour,Bureau de Poste de Nantes Beausejour,,47.23506,-1.58287,S,PO,FR,,52,44,442,44109,0,,44,Europe/Paris,2016-02-18
+8293076,Bureau de Poste de Nantes Beaulieu,Bureau de Poste de Nantes Beaulieu,,47.20622,-1.53235,S,PO,FR,,52,44,442,44109,0,,13,Europe/Paris,2016-02-18
+8293078,Bureau de Poste de Nantes Eraudiere,Bureau de Poste de Nantes Eraudiere,,47.24175,-1.53247,S,PO,FR,,52,44,442,44109,0,,29,Europe/Paris,2016-02-18
+8293079,Bureau de Poste de Saint Herblain Hotel De Ville,Bureau de Poste de Saint Herblain Hotel De Ville,,47.21135,-1.64939,S,PO,FR,,52,44,442,44162,0,,21,Europe/Paris,2016-02-18
+8293080,Bureau de Poste de Nantes Malakoff,Bureau de Poste de Nantes Malakoff,,47.2144,-1.5274,S,PO,FR,,52,44,442,44109,0,,10,Europe/Paris,2016-02-18
+8293081,Bureau de Poste de Nantes St Joseph De Porterie,Bureau de Poste de Nantes St Joseph De Porterie,,47.26937,-1.5178,S,PO,FR,,52,44,442,44109,0,,25,Europe/Paris,2016-02-18
+8293374,Bureau de Poste de Landemont,Bureau de Poste de Landemont,,47.26592,-1.24272,S,PO,FR,,52,49,492,49069,0,,91,Europe/Paris,2016-12-10
+8297401,Bureau de Poste de Cugand,Bureau de Poste de Cugand,,47.06296,-1.25601,S,PO,FR,,52,85,852,85076,0,,46,Europe/Paris,2016-02-18
+8297447,Bureau de Poste de Saint Hilaire De Loulay,Bureau de Poste de Saint Hilaire De Loulay,,47.00326,-1.33156,S,PO,FR,,52,85,852,85146,0,,46,Europe/Paris,2019-03-28
+8411058,La Sicaudais,La Sicaudais,,47.18715,-1.94724,P,PPL,FR,,52,44,443,44005,0,,27,Europe/Paris,2016-02-18
+8436196,Pont de Cheviré,Pont de Chevire,,47.19288,-1.6136,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436197,Pont Anne-de-Bretagne,Pont Anne-de-Bretagne,,47.20821,-1.5659,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436208,Passerelle Victor-Schœlcher,Passerelle Victor-Schoelcher,,47.20903,-1.56152,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436209,Pont Haudaudine,Pont Haudaudine,,47.20823,-1.55529,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436210,Pont Général-Audibert,Pont General-Audibert,"Pont de la Madeleine,Pont de la Magdeleine",47.20788,-1.54918,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436211,Pont Aristide-Briand,Pont Aristide-Briand,,47.21008,-1.54208,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436212,Pont Willy-Brandt,Pont Willy-Brandt,,47.21165,-1.5359,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436213,Pont Résal,Pont Resal,,47.212,-1.53418,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436214,Pont Éric-Tabarly,Pont Eric-Tabarly,,47.21253,-1.52919,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436215,Pont de la Vendée,Pont de la Vendee,,47.21377,-1.51735,S,BDG,FR,,52,44,442,44109,0,,7,Europe/Paris,2016-02-18
+8436216,Pont Léopold-Sédar-Senghor,Pont Leopold-Sedar-Senghor,,47.20588,-1.5253,S,BDG,FR,,52,44,442,44190,0,,0,Europe/Paris,2016-02-18
+8436217,Pont Georges-Clemenceau,Pont Georges-Clemenceau,,47.20168,-1.53517,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436218,Pont de Pirmil,Pont de Pirmil,,47.1991,-1.54321,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436219,Pont ferroviaire de Pirmil,Pont ferroviaire de Pirmil,Pont de Pornic,47.19818,-1.54972,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436220,Pont des Trois-Continents,Pont des Trois-Continents,,47.19818,-1.56182,S,BDG,FR,,52,44,442,44109,0,,0,Europe/Paris,2016-02-18
+8436221,Ponts de Bellevue,Ponts de Bellevue,,47.23216,-1.47285,S,BDG,FR,,52,44,442,44172,0,,1,Europe/Paris,2019-03-28
+8436222,Ponts de Thouaré,Ponts de Thouare,,47.25785,-1.42784,S,BDG,FR,,52,44,442,44169,0,,1,Europe/Paris,2016-02-18
+8436223,Pont de Mauves,Pont de Mauves,,47.29258,-1.38108,S,BDG,FR,,52,44,442,44029,0,,2,Europe/Paris,2017-05-28
+8436224,Pont de Champtoceaux,Pont de Champtoceaux,,47.34099,-1.27847,S,BDG,FR,,52,44,445,44115,0,,3,Europe/Paris,2019-03-26
+9072702,Château de la Bretonnière,Chateau de la Bretonniere,,47.33442,-1.7474,S,CSTL,FR,,52,44,445,44217,0,30,55,Europe/Paris,2019-03-26
+9172611,Adagio Nantes Centre,Adagio Nantes Centre,,47.21691,-1.54621,S,HTL,FR,,52,44,442,44109,0,,9,Europe/Paris,2016-02-18
+9172749,Appart City Nantes Quais De Loire,Appart City Nantes Quais De Loire,,47.2096,-1.56742,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+9172997,Balladins Nantes Saint Herblain,Balladins Nantes Saint Herblain,,47.22954,-1.6337,S,HTL,FR,,52,44,442,44162,0,,48,Europe/Paris,2016-02-18
+9173038,Best Hotel Nantes   Graslin,Best Hotel Nantes   Graslin,,47.2122,-1.56244,S,HTL,FR,,52,44,442,44109,0,,25,Europe/Paris,2016-02-18
+9173051,Best Western  Plus Le Colisee Hotel & Spa,Best Western  Plus Le Colisee Hotel & Spa,,47.23412,-1.65368,S,HTL,FR,,52,44,442,44162,0,,55,Europe/Paris,2016-02-18
+9173239,Best Western Plus Hotel De La Regate,Best Western Plus Hotel De La Regate,,47.29344,-1.52665,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+9173332,Best Western Villa Saint Antoine,Best Western Villa Saint Antoine,,47.08687,-1.27839,S,HTL,FR,,52,44,442,44043,0,,16,Europe/Paris,2016-02-18
+9173736,Campanile Nantes Centre,Campanile Nantes Centre,,47.19439,-1.52971,S,HTL,FR,,52,44,442,44109,0,,16,Europe/Paris,2016-02-18
+9173744,Campanile Nantes Ouest - Saint Herblain,Campanile Nantes Ouest - Saint Herblain,,47.22656,-1.6301,S,HTL,FR,,52,44,442,44162,0,,43,Europe/Paris,2016-02-18
+9173745,Campanile Nantes Reze,Campanile Nantes Reze,,47.19391,-1.57447,S,HTL,FR,,52,44,442,44143,0,,7,Europe/Paris,2016-02-18
+9174041,City Residence Nantes Beaujoire,City Residence Nantes Beaujoire,,47.2508,-1.50899,S,HTL,FR,,52,44,442,44109,0,,24,Europe/Paris,2016-02-18
+9174128,Comfort Hotel Nantes Astoria,Comfort Hotel Nantes Astoria,,47.21779,-1.54388,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+9177031,Ibis Styles Nantes Centre Place Royale,Ibis Styles Nantes Centre Place Royale,,47.21423,-1.55742,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+9177085,Inter-Hotel Agora,Inter-Hotel Agora,,47.25211,-1.6189,S,HTL,FR,,52,44,442,44114,0,,52,Europe/Paris,2016-02-18
+9177178,Inter-Hotel Du Grand Monarque,Inter-Hotel Du Grand Monarque,,47.22161,-1.54744,S,HTL,FR,,52,44,442,44109,0,,24,Europe/Paris,2016-02-18
+9177258,Inter-Hotel Le Surcouf,Inter-Hotel Le Surcouf,,47.2173,-1.54652,S,HTL,FR,,52,44,442,44109,0,,13,Europe/Paris,2016-02-18
+9177296,Inter-Hotel Novella Nantes Carquefou,Inter-Hotel Novella Nantes Carquefou,,47.26872,-1.48479,S,HTL,FR,,52,44,442,44026,0,,33,Europe/Paris,2016-02-18
+9177352,Kyriad  Nantes Est - Carquefou,Kyriad  Nantes Est - Carquefou,,47.26916,-1.48523,S,HTL,FR,,52,44,442,44026,0,,35,Europe/Paris,2016-02-18
+9177353,Kyriad  Nantes Ouest - Saint Herblain,Kyriad  Nantes Ouest - Saint Herblain,,47.22778,-1.62445,S,HTL,FR,,52,44,442,44162,0,,46,Europe/Paris,2016-02-18
+9177444,Kyriad Nantes Bouaye - Aeroport,Kyriad Nantes Bouaye - Aeroport,,47.14369,-1.66071,S,HTL,FR,,52,44,442,44018,0,,17,Europe/Paris,2016-02-18
+9177962,Mercure Nantes Centre Gare,Mercure Nantes Centre Gare,,47.21614,-1.54398,S,HTL,FR,,52,44,442,44109,0,,8,Europe/Paris,2016-02-18
+9178151,Novotel Nantes Centre Cité Des Congrès,Novotel Nantes Centre Cite Des Congres,,47.2139,-1.54292,S,HTL,FR,,52,44,442,44109,0,,8,Europe/Paris,2016-02-18
+9178224,Park & Suites Confort Carquefou,Park & Suites Confort Carquefou,,47.26892,-1.48496,S,HTL,FR,,52,44,442,44026,0,,35,Europe/Paris,2016-02-18
+9178229,Park And Suites Confort Nantes Saint Herblain,Park And Suites Confort Nantes Saint Herblain,,47.22711,-1.65028,S,HTL,FR,,52,44,442,44162,0,,53,Europe/Paris,2016-02-18
+9178388,Park & Suites Elegance Nantes Atlantis,Park & Suites Elegance Nantes Atlantis,,47.22257,-1.62613,S,HTL,FR,,52,44,442,44162,0,,42,Europe/Paris,2016-02-18
+9178389,Park & Suites Elegance Nantes Hotel,Park & Suites Elegance Nantes Hotel,,47.21516,-1.55221,S,HTL,FR,,52,44,442,44109,0,,16,Europe/Paris,2016-02-18
+9178513,Premiere Classe Nantes Reze,Premiere Classe Nantes Reze,,47.21837,-1.55362,S,HTL,FR,,52,44,442,44109,0,,19,Europe/Paris,2016-02-18
+9178557,Quality Hotel & Suites Nantes,Quality Hotel & Suites Nantes,,47.25225,-1.51182,S,HTL,FR,,52,44,442,44109,0,,23,Europe/Paris,2016-02-18
+9178623,Quintessia & Spa (Ex Domaine D'Orvault),Quintessia & Spa (Ex Domaine D'Orvault),,47.25992,-1.58913,S,HTL,FR,,52,44,442,44114,0,,35,Europe/Paris,2016-02-18
+9178637,Radisson Blu Hotel Nantes,Radisson Blu Hotel Nantes,,47.21749,-1.56283,S,HTL,FR,,52,44,442,44109,0,,29,Europe/Paris,2016-02-18
+9178794,Residence Cerise Nantes Atlantis,Residence Cerise Nantes Atlantis,,47.22709,-1.65097,S,HTL,FR,,52,44,442,44162,0,,49,Europe/Paris,2016-02-18
+9178795,Residence Cerise Nantes La Beaujoire,Residence Cerise Nantes La Beaujoire,,47.25341,-1.52835,S,HTL,FR,,52,44,442,44109,0,,24,Europe/Paris,2016-02-18
+9179084,Séjours & Affaires Nantes Ducs De Bretagne,Sejours & Affaires Nantes Ducs De Bretagne,,47.21382,-1.54551,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+9179085,Sejours & Affaires Nantes La Beaujoire,Sejours & Affaires Nantes La Beaujoire,,47.25798,-1.51517,S,HTL,FR,,52,44,442,44109,0,,31,Europe/Paris,2016-02-18
+9179105,Seven Urban Suites,Seven Urban Suites,,47.20829,-1.53833,S,HTL,FR,,52,44,442,44109,0,,13,Europe/Paris,2016-02-18
+9224792,Inter-Hotel Grand Hotel De Nantes,Inter-Hotel Grand Hotel De Nantes,,47.21262,-1.56024,S,HTL,FR,,52,44,442,44109,0,,20,Europe/Paris,2016-02-18
+9224798,Hotel Graslin,Hotel Graslin,,47.21227,-1.56176,S,HTL,FR,,52,44,442,44109,0,,26,Europe/Paris,2016-02-18
+9259163,Adagio Acces Nantes Viarme,Adagio Acces Nantes Viarme,,47.22308,-1.56266,S,HTL,FR,,52,44,442,44109,0,,34,Europe/Paris,2016-02-18
+9539757,Nuit De Retz Hotel,Nuit De Retz Hotel,,47.14254,-1.75214,S,HTL,FR,,52,44,442,44133,0,,1,Europe/Paris,2016-02-18
+9539775,Citea Nantes Sextant,Citea Nantes Sextant,,47.2067,-1.57929,S,HTL,FR,,52,44,442,44109,0,,23,Europe/Paris,2016-02-18
+9539809,Contact Hotel Terminus,Contact Hotel Terminus,,47.21775,-1.54373,S,HTL,FR,,52,44,442,44109,0,,10,Europe/Paris,2016-02-18
+9539815,Adagio Access Nantes Viarme,Adagio Access Nantes Viarme,,47.22294,-1.56288,S,HTL,FR,,52,44,442,44109,0,,34,Europe/Paris,2016-02-18
+9539821,Premiere Classe Nantes Ouest,Premiere Classe Nantes Ouest,,47.23409,-1.64879,S,HTL,FR,,52,44,442,44162,0,,54,Europe/Paris,2016-02-18
+9539830,Cerise Nantes La Beaujoire (Residence Studinn),Cerise Nantes La Beaujoire (Residence Studinn),,47.25348,-1.52881,S,HTL,FR,,52,44,442,44109,0,,25,Europe/Paris,2016-02-18
+9539867,Brit Hotel Alantel,Brit Hotel Alantel,,47.29924,-1.77637,S,HTL,FR,,52,44,442,44158,0,,74,Europe/Paris,2016-02-18
+10110273,Hotel Duquesne,Hotel Duquesne,,47.21867,-1.55673,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+10110274,Hotel Des 3 Marchands,Hotel Des 3 Marchands,,47.21851,-1.55624,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+10110277,Hotel Belfort,Hotel Belfort,,47.21112,-1.54463,S,HTL,FR,,52,44,442,44109,0,,9,Europe/Paris,2016-02-18
+10111590,Urbanstyle Graslin,Urbanstyle Graslin,,47.21224,-1.56184,S,HTL,FR,,52,44,442,44109,0,,26,Europe/Paris,2016-02-18
+10112804,Kyriad Nantes Sud Bouaye Aeroport,Kyriad Nantes Sud Bouaye Aeroport,,47.143,-1.662,S,HTL,FR,,52,44,442,44018,0,,17,Europe/Paris,2016-02-18
+10112829,Campanile Nantes Est Saint Sebastien Sur Loire,Campanile Nantes Est Saint Sebastien Sur Loire,,47.21197,-1.4865,S,HTL,FR,,52,44,442,44190,0,,7,Europe/Paris,2016-02-18
+10117423,Seven Urban Suites Nantes Cite Des Congres,Seven Urban Suites Nantes Cite Des Congres,,47.2077,-1.53981,S,HTL,FR,,52,44,442,44109,0,,7,Europe/Paris,2016-02-18
+10117424,Hotel Jules Verne Nantes Prochainement All Seasons,Hotel Jules Verne Nantes Prochainement All Seasons,,47.21455,-1.5576,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+10118622,Residence De L'ocean La Tranche Sur Mer,Residence De L'ocean La Tranche Sur Mer,,47.20252,-1.54299,S,HTL,FR,,52,44,442,44109,0,,10,Europe/Paris,2016-02-18
+10125021,Quality Hotel Et Suites Nantes,Quality Hotel Et Suites Nantes,,47.25369,-1.51355,S,HTL,FR,,52,44,442,44109,0,,30,Europe/Paris,2016-02-18
+10125023,Le Grand Hotel De Nantes,Le Grand Hotel De Nantes,,47.21266,-1.56021,S,HTL,FR,,52,44,442,44109,0,,20,Europe/Paris,2016-02-18
+10127364,Residhome Nantes Berges De La Loire,Residhome Nantes Berges De La Loire,,47.21223,-1.53816,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+10154841,Citea Residentiel Nantes La Beaujoire,Citea Residentiel Nantes La Beaujoire,,47.26034,-1.49657,S,HTL,FR,,52,44,442,44109,0,,25,Europe/Paris,2016-02-18
+10173531,Nantes Sud Bouaye ARoport,Nantes Sud Bouaye ARoport,,47.143,-1.662,S,HTL,FR,,52,44,442,44018,0,,17,Europe/Paris,2016-02-18
+10173546,Nantes Est Sainte Luce Sur Loire,Nantes Est Sainte Luce Sur Loire,,47.262,-1.494,S,HTL,FR,,52,44,442,44172,0,,19,Europe/Paris,2016-02-18
+10173560,Nantes Est Saint SBastien Sur Loire,Nantes Est Saint SBastien Sur Loire,,47.212,-1.487,S,HTL,FR,,52,44,442,44190,0,,7,Europe/Paris,2016-02-18
+10173584,Nantes Centre Saint Jacques,Nantes Centre Saint Jacques,,47.196,-1.531,S,HTL,FR,,52,44,442,44109,0,,14,Europe/Paris,2016-02-18
+10174391,Mercure Nantes Centre Gd Hotel,Mercure Nantes Centre Gd Hotel,,47.21445,-1.55706,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+10174531,Arcantis Hotel Le Jules Verne,Arcantis Hotel Le Jules Verne,,47.21409,-1.55723,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+10175485,Campanile Nantes Centre St Jac,Campanile Nantes Centre St Jac,,47.19617,-1.53097,S,HTL,FR,,52,44,442,44109,0,,14,Europe/Paris,2016-02-18
+10234497,Univea Suites Nantes La Beaujoire,Univea Suites Nantes La Beaujoire,,47.25995,-1.49819,S,HTL,FR,,52,44,442,44109,0,,23,Europe/Paris,2016-02-18
+10246254,Atlantys Hatel,Atlantys Hatel,,47.22797,-1.63271,S,HTL,FR,,52,44,442,44162,0,,47,Europe/Paris,2016-02-18
+10277071,Campanile Nantes Ouest Rl,Campanile Nantes Ouest Rl,,47.22656,-1.6301,S,HTL,FR,,52,44,442,44162,0,,43,Europe/Paris,2016-02-18
+10278540,Sajours and Affaires Nantes Ducs de Bretagne,Sajours and Affaires Nantes Ducs de Bretagne,,47.21382,-1.54551,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+10281142,Adagio Access Nantes La Beaujoire,Adagio Access Nantes La Beaujoire,,47.21944,-1.56158,S,HTL,FR,,52,44,442,44109,0,,33,Europe/Paris,2016-02-18
+10281143,Appart City Nantes Le Viarme,Appart City Nantes Le Viarme,,47.21944,-1.56158,S,HTL,FR,,52,44,442,44109,0,,33,Europe/Paris,2016-02-18
+10281170,Escale Oceania Nantes Bouguenais Hotel,Escale Oceania Nantes Bouguenais Hotel,,47.1729,-1.6189,S,HTL,FR,,52,44,442,44020,0,,19,Europe/Paris,2016-02-18
+10281590,Appart City Nantes Quai de La Loire,Appart City Nantes Quai de La Loire,,47.21944,-1.56158,S,HTL,FR,,52,44,442,44109,0,,33,Europe/Paris,2016-02-18
+10281591,Appart City Nantes Cite Des Congres,Appart City Nantes Cite Des Congres,,47.21944,-1.56158,S,HTL,FR,,52,44,442,44109,0,,33,Europe/Paris,2016-02-18
+10281898,Premiere Classe Nantes St Herblain,Premiere Classe Nantes St Herblain,,47.21179,-1.65403,S,HTL,FR,,52,44,442,44162,0,,21,Europe/Paris,2016-02-18
+10282271,Quality Suites Nantes Atlantique,Quality Suites Nantes Atlantique,,47.21944,-1.56158,S,HTL,FR,,52,44,442,44109,0,,33,Europe/Paris,2016-02-18
+10283545,Quality and Suites Nantes Atlantique,Quality and Suites Nantes Atlantique,,47.25133,-1.51004,S,HTL,FR,,52,44,442,44109,0,,22,Europe/Paris,2016-02-18
+10297823,Quick Palace Nantes,Quick Palace Nantes,,47.25305,-1.51285,S,HTL,FR,,52,44,442,44109,0,,29,Europe/Paris,2016-02-18
+10297825,Logis Beaujoire Hôtel,Logis Beaujoire Hotel,,47.25773,-1.52928,S,HTL,FR,,52,44,442,44109,0,,21,Europe/Paris,2016-02-18
+10297826,Inn Nantes Centre,Inn Nantes Centre,,47.20701,-1.54845,S,HTL,FR,,52,44,442,44109,0,,10,Europe/Paris,2016-02-18
+10297827,Hôtel Saint Patrick,Hotel Saint Patrick,,47.21496,-1.55748,S,HTL,FR,,52,44,442,44109,0,,19,Europe/Paris,2016-02-18
+10297829,Hôtel Renova,Hotel Renova,,47.21488,-1.5553,S,HTL,FR,,52,44,442,44109,0,,17,Europe/Paris,2016-02-18
+10297831,Hôtel Le Cambronne,Hotel Le Cambronne,,47.21189,-1.56168,S,HTL,FR,,52,44,442,44109,0,,17,Europe/Paris,2016-02-18
+10297833,Hôtel La Pérouse,Hotel La Perouse,,47.21668,-1.55648,S,HTL,FR,,52,44,442,44109,0,,10,Europe/Paris,2016-02-18
+10297835,Hotel Saint Yves,Hotel Saint Yves,,47.22628,-1.54329,S,HTL,FR,,52,44,442,44109,0,,26,Europe/Paris,2016-02-18
+10297836,Hotel Saint Daniel,Hotel Saint Daniel,,47.2149,-1.55404,S,HTL,FR,,52,44,442,44109,0,,18,Europe/Paris,2016-02-18
+10297838,Hotel Du Tourisme,Hotel Du Tourisme,,47.21736,-1.55673,S,HTL,FR,,52,44,442,44109,0,,10,Europe/Paris,2016-02-18
+10297839,Hotel de La Gare de Nantes Citotel,Hotel de La Gare de Nantes Citotel,,47.21771,-1.54395,S,HTL,FR,,52,44,442,44109,0,,12,Europe/Paris,2016-02-18
+10297840,Hotel Chateaubriand,Hotel Chateaubriand,,47.22199,-1.55469,S,HTL,FR,,52,44,442,44109,0,,11,Europe/Paris,2016-02-18
+10297841,Des Trois Marchands,Des Trois Marchands,,47.21839,-1.55605,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+10297842,Coeur de Loire,Coeur de Loire,,47.22841,-1.56344,S,HTL,FR,,52,44,442,44109,0,,18,Europe/Paris,2016-02-18
+10297844,Citotel Pommeraye,Citotel Pommeraye,,47.21406,-1.56024,S,HTL,FR,,52,44,442,44109,0,,27,Europe/Paris,2016-02-18
+10297845,Brit Hotel Belfort,Brit Hotel Belfort,,47.21123,-1.54459,S,HTL,FR,,52,44,442,44109,0,,9,Europe/Paris,2016-02-18
+10297847,Apts Adagio Access Nantes Sextant,Apts Adagio Access Nantes Sextant,,47.20669,-1.57929,S,HTL,FR,,52,44,442,44109,0,,23,Europe/Paris,2016-02-18
+10297848,Apts Adagio Access Nantes La Beaujoire,Apts Adagio Access Nantes La Beaujoire,,47.2514,-1.53154,S,HTL,FR,,52,44,442,44109,0,,33,Europe/Paris,2016-02-18
+10297849,Appartcity Nantes Quais de Loire,Appartcity Nantes Quais de Loire,,47.20962,-1.56746,S,HTL,FR,,52,44,442,44109,0,,15,Europe/Paris,2016-02-18
+10297850,Abat Jour,Abat Jour,,47.22179,-1.54854,S,HTL,FR,,52,44,442,44109,0,,23,Europe/Paris,2016-02-18
+10342677,Novotel Nantes Cite Des Congre,Novotel Nantes Cite Des Congre,,47.214,-1.543,S,HTL,FR,,52,44,442,44109,0,,8,Europe/Paris,2016-02-18
+10344045,Appartcity Nantes Quai de Loir,Appartcity Nantes Quai de Loir,,47.20939,-1.56803,S,HTL,FR,,52,44,442,44109,0,,10,Europe/Paris,2016-02-18
+10345124,Hotel Seven Urban Nantes Centre,Hotel Seven Urban Nantes Centre,,47.20775,-1.53972,S,HTL,FR,,52,44,442,44109,0,,7,Europe/Paris,2016-02-18
+11048613,Abbaye de Buzay,Abbaye de Buzay,,47.20731,-1.82678,S,RUIN,FR,,52,44,442,44145,0,,5,Europe/Paris,2016-02-18
+11048617,La pètorie,La petorie,,47.30644,-1.42623,P,PPL,FR,,52,44,442,44026,0,73,66,Europe/Paris,2016-02-18
+11205233,Abbaye de Villeneuve,Abbaye de Villeneuve,,47.12336,-1.53392,S,HSTS,FR,,52,44,442,44198,0,,10,Europe/Paris,2019-03-28
+11279879,Park And Suites Nantes Centre,Park And Suites Nantes Centre,,47.21515,-1.55221,S,HTL,FR,,52,44,442,44109,0,0,16,Europe/Paris,2016-10-13
+11279881,Park And Suites Nantes Ouest Saint Herblain,Park And Suites Nantes Ouest Saint Herblain,,47.22086,-1.62767,S,HTL,FR,,52,44,442,44162,0,0,36,Europe/Paris,2016-10-13
+11280028,Residhome Nantes Les Berges De La Loire,Residhome Nantes Les Berges De La Loire,,47.21214,-1.53824,S,HTL,FR,,52,44,442,44109,0,0,12,Europe/Paris,2016-10-13
+11876726,Nantes,Nantes,,47.19618,-1.58904,L,PRT,FR,,52,44,442,44109,0,,6,Europe/Paris,2020-10-31
+11906047,Jardin des Plantes,Jardin des Plantes,,47.21958,-1.54277,L,PRK,FR,,52,44,442,44109,0,,13,Europe/Paris,2018-08-03
+11906048,Parc de Procé,Parc de Proce,,47.22437,-1.58238,L,PRK,FR,,52,44,442,44109,0,,21,Europe/Paris,2018-08-03
+11906049,Parc du Crapa,Parc du Crapa,,47.21252,-1.52012,L,PRK,FR,,52,44,442,44109,0,,8,Europe/Paris,2018-08-03
+11906050,Machines de l'île,Machines de l'ile,,47.20557,-1.56451,S,MUS,FR,,52,44,442,44109,0,,11,Europe/Paris,2018-08-03
+11906053,Marché de Talensac,Marche de Talensac,,47.22126,-1.55783,S,MKT,FR,,52,44,442,44109,0,,21,Europe/Paris,2018-08-03
+12060744,Babinière Railway Station,Babiniere Railway Station,87590349,47.25802,-1.54548,S,RSTN,FR,,52,44,442,44035,0,,19,Europe/Paris,2019-07-10
+12123737,Cathédrale Saint-Pierre-et-Saint-Paul,Cathedrale Saint-Pierre-et-Saint-Paul,,47.21851,-1.55061,S,CH,FR,,52,44,442,44109,0,,27,Europe/Paris,2020-05-13
+12123740,Musée de l'imprimerie,Musee de l'imprimerie,,47.21085,-1.56211,S,MUS,FR,,52,44,442,44109,0,,14,Europe/Paris,2020-02-06
+12156387,château de Clermont-sur-Loire,chateau de Clermont-sur-Loire,,47.32515,-1.33368,S,CSTL,FR,,52,44,445,44028,0,,71,Europe/Paris,2020-04-20
+12253514,Eglise Saint-Croix,Eglise Saint-Croix,,47.21528,-1.55417,S,RLG,FR,,52,44,442,44109,0,,18,Europe/Paris,2021-06-29
+12305881,Boire Courant,Boire Courant,Boire Courant,47.24551,-1.43482,P,PPL,FR,,52,44,442,44169,0,,6,Europe/Paris,2021-09-09
+12305882,La Madeleine,La Madeleine,La Madeleine,47.277,-1.48435,P,PPL,FR,,52,44,442,44026,0,,39,Europe/Paris,2021-09-09
+12305883,Le Housseau,Le Housseau,Le Housseau,47.28332,-1.49646,P,PPL,FR,,52,44,442,44026,0,,22,Europe/Paris,2021-09-09
+12305884,Gesvrine,Gesvrine,Gesvrine,47.26789,-1.55093,P,PPL,FR,,52,44,442,44035,0,,20,Europe/Paris,2021-09-09
+12305885,La Gergauderie,La Gergauderie,La Gergauderie,47.40469,-1.7965,P,PPL,FR,,52,44,445,44056,0,,62,Europe/Paris,2021-09-09
+12305887,Le Pé Bardou,Le Pe Bardou,"Le Pe Bardou,Le Pé Bardou",47.22724,-1.31321,P,PPL,FR,,52,44,442,44084,0,,70,Europe/Paris,2021-09-09
+12305888,La Brébionnière,La Brebionniere,"La Brebionniere,La Brébionnière",47.10712,-1.27437,P,PPL,FR,,52,44,442,44043,0,,36,Europe/Paris,2021-09-09
+12305889,Bas Briacé,Bas Briace,"Bas Briace,Bas Briacé",47.19572,-1.34565,P,PPL,FR,,52,44,442,44079,0,,7,Europe/Paris,2021-09-09
+12305890,La Cognardière,La Cognardiere,"La Cognardiere,La Cognardière",47.1552,-1.36426,P,PPL,FR,,52,44,442,44117,0,,33,Europe/Paris,2021-09-09
+12305891,La Croix Moriceau,La Croix Moriceau,La Croix Moriceau,47.15741,-1.38229,P,PPL,FR,,52,44,442,44070,0,,35,Europe/Paris,2021-09-09
+12305892,La Cornillère,La Cornillere,"La Cornillere,La Cornillère",47.16519,-1.42302,P,PPL,FR,,52,44,442,44070,0,,31,Europe/Paris,2021-09-09
+12305893,Pé de Vignard,Pe de Vignard,"Pe de Vignard,Pé de Vignard",47.14097,-1.34443,P,PPL,FR,,52,44,442,44117,0,,28,Europe/Paris,2021-09-09
+12305894,Le Pé de Sèvre,Le Pe de Sevre,"Le Pe de Sevre,Le Pé de Sèvre",47.14156,-1.36832,P,PPL,FR,,52,44,442,44117,0,,29,Europe/Paris,2021-09-09
+12305895,La Hautière,La Hautiere,"La Hautiere,La Hautière",47.13909,-1.39563,P,PPL,FR,,52,44,442,44159,0,,30,Europe/Paris,2021-09-09
+12305896,La Bourchinière,La Bourchiniere,"La Bourchiniere,La Bourchinière",47.15194,-1.42954,P,PPL,FR,,52,44,442,44159,0,,28,Europe/Paris,2021-09-09
+12305897,Le Chêne,Le Chene,"Le Chene,Le Chêne",47.16567,-1.48501,P,PPL,FR,,52,44,442,44215,0,,15,Europe/Paris,2021-09-09
+12305898,La Neustrie,La Neustrie,La Neustrie,47.17587,-1.59167,P,PPL,FR,,52,44,442,44020,0,,25,Europe/Paris,2021-09-09
+12305899,Le Champ Siôme,Le Champ Siome,"Le Champ Siome,Le Champ Siôme",47.1487,-1.55435,P,PPL,FR,,52,44,442,44130,0,,24,Europe/Paris,2021-09-09
+12305900,Viais,Viais,Viais,47.11939,-1.53771,P,PPL,FR,,52,44,442,44130,0,,17,Europe/Paris,2021-09-09
+12305901,Pont James,Pont James,Pont James,47.01433,-1.57036,P,PPL,FR,,52,44,442,44155,0,,18,Europe/Paris,2021-09-09
+12305902,Bellevue,Bellevue,Bellevue,47.21106,-1.61782,P,PPL,FR,,52,44,442,44162,0,,37,Europe/Paris,2021-09-09
+12305903,La Croix Jeannette,La Croix Jeannette,La Croix Jeannette,47.17262,-1.62421,P,PPL,FR,,52,44,442,44020,0,,18,Europe/Paris,2021-09-09
+12305904,Beauvoir,Beauvoir,Beauvoir,47.18023,-1.62841,P,PPL,FR,,52,44,442,44020,0,,20,Europe/Paris,2021-09-09
+12305905,Boiseau,Boiseau,Boiseau,47.19393,-1.69706,P,PPL,FR,,52,44,442,44166,0,,24,Europe/Paris,2021-09-09
+12306350,La Poterie,La Poterie,La Poterie,47.10809,-1.43823,P,PPL,FR,,52,44,442,44037,0,,38,Europe/Paris,2021-09-09
+12308468,La Gulolière,La Guloliere,"La Guloliere,La Gulolière",47.31508,-1.30205,P,PPL,FR,,52,49,492,49069,0,,62,Europe/Paris,2021-09-10
+12308489,Le Barbotin,Le Barbotin,Le Barbotin,47.28026,-1.17341,P,PPL,FR,,52,49,492,49069,0,,103,Europe/Paris,2021-09-10
+12308503,Le Doré,Le Dore,"Le Dore,Le Doré",47.22816,-1.18041,P,PPL,FR,,52,49,492,49218,0,,92,Europe/Paris,2021-09-10
+12310600,Fradet,Fradet,Fradet,47.0669,-1.24064,P,PPL,FR,,52,85,852,85076,0,,36,Europe/Paris,2021-09-11
+12310601,Antières,Antieres,"Antieres,Antières",47.06571,-1.24486,P,PPL,FR,,52,85,852,85076,0,,34,Europe/Paris,2021-09-11
+12310607,Le Poiron Badonneau,Le Poiron Badonneau,Le Poiron Badonneau,47.03088,-1.3214,P,PPL,FR,,52,85,852,85146,0,,43,Europe/Paris,2021-09-11
+12310608,La Rétoublière,La Retoubliere,"La Retoubliere,La Rétoublière",47.02576,-1.32074,P,PPL,FR,,52,85,852,85146,0,,49,Europe/Paris,2021-09-11
+12310612,L'Avenir,L'Avenir,L'Avenir,47.00631,-1.33369,P,PPL,FR,,52,85,852,85146,0,,46,Europe/Paris,2021-09-11
+12310613,Le Pré Gestin,Le Pre Gestin,"Le Pre Gestin,Le Pré Gestin",47.00132,-1.32616,P,PPL,FR,,52,85,852,85146,0,,43,Europe/Paris,2021-09-11
+12310616,Landefrère,Landefrere,"Landefrere,Landefrère",46.97992,-1.49902,P,PPL,FR,,52,85,852,85262,0,,30,Europe/Paris,2021-09-11
+12312919,La Bourgonnière,La Bourgonniere,"La Bourgonniere,La Bourgonnière",47.43714,-1.32667,P,PPL,FR,,52,44,445,44107,0,,34,Europe/Paris,2021-09-11
+12312920,Les Mazeries,Les Mazeries,Les Mazeries,47.38738,-1.3104,P,PPL,FR,,52,44,445,44048,0,,43,Europe/Paris,2021-09-11
+12312921,La Mabonnière,La Mabonniere,"La Mabonniere,La Mabonnière",47.3582,-1.28171,P,PPL,FR,,52,44,445,44115,0,,70,Europe/Paris,2021-09-11
+12312922,La Branchère,La Branchere,"La Branchere,La Branchère",47.34702,-1.32768,P,PPL,FR,,52,44,445,44028,0,,68,Europe/Paris,2021-09-11
+12312923,L'Épine,L'Epine,"L'Epine,L'Épine",47.29027,-1.34518,P,PPL,FR,,52,44,442,44029,0,,18,Europe/Paris,2021-09-11
+12312933,La Volerie,La Volerie,La Volerie,47.4645,-1.41175,P,PPL,FR,,52,44,445,44205,0,,36,Europe/Paris,2021-09-11
+12312934,Les Basloirs,Les Basloirs,Les Basloirs,47.34508,-1.40647,P,PPL,FR,,52,44,445,44179,0,,69,Europe/Paris,2021-09-11
+12312935,La Simonnière,La Simonniere,"La Simonniere,La Simonnière",47.31892,-1.38989,P,PPL,FR,,52,44,445,44028,0,,76,Europe/Paris,2021-09-11
+12312936,Le Guineau,Le Guineau,Le Guineau,47.26841,-1.35675,P,PPL,FR,,52,44,442,44029,0,,16,Europe/Paris,2021-09-11
+12312937,La Pierre Percée,La Pierre Percee,"La Pierre Percee,La Pierre Percée",47.28153,-1.38531,P,PPL,FR,,52,44,442,44029,0,,7,Europe/Paris,2021-09-11
+12312938,Saint-Simon,Saint-Simon,Saint-Simon,47.29035,-1.36951,P,PPL,FR,,52,44,442,44029,0,,7,Europe/Paris,2021-09-11
+12312939,Saint-Barthélemy,Saint-Barthelemy,"Saint-Barthelemy,Saint-Barthélemy",47.26032,-1.36058,P,PPL,FR,,52,44,442,44169,0,,11,Europe/Paris,2021-09-11
+12312940,La Verrie,La Verrie,La Verrie,47.24341,-1.38688,P,PPL,FR,,52,44,442,44169,0,,14,Europe/Paris,2021-09-11
+12312941,Cahérault,Caherault,"Caherault,Cahérault",47.24255,-1.41585,P,PPL,FR,,52,44,442,44169,0,,7,Europe/Paris,2021-09-11
+12312942,La Durandière,La Durandiere,"La Durandiere,La Durandière",47.23516,-1.36248,P,PPL,FR,,52,44,442,44084,0,,13,Europe/Paris,2021-09-11
+12312943,Saint-Georges,Saint-Georges,Saint-Georges,47.44003,-1.48971,P,PPL,FR,,52,44,445,44110,0,,16,Europe/Paris,2021-09-11
+12312944,Les Monceaux,Les Monceaux,Les Monceaux,47.31108,-1.50832,P,PPL,FR,,52,44,442,44026,0,,25,Europe/Paris,2021-09-11
+12312945,Le Charbonneau,Le Charbonneau,Le Charbonneau,47.3017,-1.48921,P,PPL,FR,,52,44,442,44026,0,,12,Europe/Paris,2021-09-11
+12312946,La Hulonnière,La Hulonniere,"La Hulonniere,La Hulonnière",47.27012,-1.44546,P,PPL,FR,,52,44,442,44204,0,,25,Europe/Paris,2021-09-11
+12312947,Le Linot,Le Linot,Le Linot,47.24809,-1.47455,P,PPL,FR,,52,44,442,44172,0,,7,Europe/Paris,2021-09-11
+12312948,Les Vallées,Les Vallees,"Les Vallees,Les Vallées",47.22743,-1.46143,P,PPL,FR,,52,44,442,44009,0,,6,Europe/Paris,2021-09-11
+12312949,Le Grand Blottereau,Le Grand Blottereau,Le Grand Blottereau,47.22732,-1.50818,P,PPL,FR,,52,44,442,44109,0,,11,Europe/Paris,2021-09-11
+12312951,Le Brossais,Le Brossais,Le Brossais,47.37423,-1.61487,P,PPL,FR,,52,44,445,44066,0,,40,Europe/Paris,2021-09-11
+12312952,Les Chênaies,Les Chenaies,"Les Chenaies,Les Chênaies",47.36891,-1.5843,P,PPL,FR,,52,44,445,44066,0,,36,Europe/Paris,2021-09-11
+12312953,La Gergaudière,La Gergaudiere,"La Gergaudiere,La Gergaudière",47.29083,-1.58361,P,PPL,FR,,52,44,442,44035,0,,34,Europe/Paris,2021-09-11
+12312954,Le Bois Raguenet,Le Bois Raguenet,Le Bois Raguenet,47.26963,-1.59596,P,PPL,FR,,52,44,442,44114,0,,51,Europe/Paris,2021-09-11
+12312955,Le Grand Clos,Le Grand Clos,Le Grand Clos,47.24525,-1.52958,P,PPL,FR,,52,44,442,44109,0,,31,Europe/Paris,2021-09-11
+12312956,La Jonelière,La Joneliere,"La Joneliere,La Jonelière",47.2551,-1.54716,P,PPL,FR,,52,44,442,44109,0,,6,Europe/Paris,2021-09-11
+12312957,La Beaujoire,La Beaujoire,La Beaujoire,47.25851,-1.52637,P,PPL,FR,,52,44,442,44109,0,,19,Europe/Paris,2021-09-11
+12312958,Le Petit Chantilly,Le Petit Chantilly,Le Petit Chantilly,47.25068,-1.59919,P,PPL,FR,,52,44,442,44114,0,,52,Europe/Paris,2021-09-11
+12312959,Les Dervallières,Les Dervallieres,"Les Dervallieres,Les Dervallières",47.22542,-1.5937,P,PPL,FR,,52,44,442,44109,0,,15,Europe/Paris,2021-09-11
+12312961,La Gréhandière,La Grehandiere,"La Grehandiere,La Gréhandière",47.32658,-1.64284,P,PPL,FR,,52,44,445,44209,0,,31,Europe/Paris,2021-09-11
+12312962,Muzon,Muzon,Muzon,47.33145,-1.66846,P,PPL,FR,,52,44,445,44209,0,,55,Europe/Paris,2021-09-11
+12312963,Le Buron,Le Buron,Le Buron,47.2944,-1.69359,P,PPL,FR,,52,44,445,44217,0,,58,Europe/Paris,2021-09-11
+12312964,La Bugallière,La Bugalliere,"La Bugalliere,La Bugallière",47.26097,-1.63377,P,PPL,FR,,52,44,442,44114,0,,48,Europe/Paris,2021-09-11
+12312965,Le Plessis,Le Plessis,Le Plessis,47.2565,-1.66359,P,PPL,FR,,52,44,442,44194,0,,48,Europe/Paris,2021-09-11
+12312966,Les Hauts de Loire,Les Hauts de Loire,Les Hauts de Loire,47.25802,-1.67471,P,PPL,FR,,52,44,442,44194,0,,51,Europe/Paris,2021-09-11
+12312967,La Bretonnière,La Bretonniere,"La Bretonniere,La Bretonnière",47.26837,-1.67258,P,PPL,FR,,52,44,442,44194,0,,42,Europe/Paris,2021-09-11
+12312968,La Bastille,La Bastille,La Bastille,47.25832,-1.67917,P,PPL,FR,,52,44,442,44194,0,,53,Europe/Paris,2021-09-11
+12312969,La Bergerie,La Bergerie,La Bergerie,47.2354,-1.63225,P,PPL,FR,,52,44,442,44162,0,,51,Europe/Paris,2021-09-11
+12312970,La Bazillère,La Bazillere,"La Bazillere,La Bazillère",47.22618,-1.69304,P,PPL,FR,,52,44,442,44047,0,,19,Europe/Paris,2021-09-11
+12312971,La Sinière,La Siniere,"La Siniere,La Sinière",47.22423,-1.67637,P,PPL,FR,,52,44,442,44047,0,,36,Europe/Paris,2021-09-11
+12312972,La Primais,La Primais,La Primais,47.41143,-1.72357,P,PPL,FR,,52,44,445,44111,0,,32,Europe/Paris,2021-09-11
+12312973,La Troche,La Troche,La Troche,47.39032,-1.73622,P,PPL,FR,,52,44,445,44111,0,,40,Europe/Paris,2021-09-11
+12312974,La Buchère,La Buchere,"La Buchere,La Buchère",47.38357,-1.73306,P,PPL,FR,,52,44,445,44111,0,,50,Europe/Paris,2021-09-11
+12312975,La Primaudière,La Primaudiere,"La Primaudiere,La Primaudière",47.37926,-1.71447,P,PPL,FR,,52,44,445,44111,0,,54,Europe/Paris,2021-09-11
+12312976,La Babinière,La Babiniere,"La Babiniere,La Babinière",47.2939,-1.72383,P,PPL,FR,,52,44,445,44217,0,,77,Europe/Paris,2021-09-11
+12312977,La Blandinais,La Blandinais,La Blandinais,47.28504,-1.76172,P,PPL,FR,,52,44,442,44158,0,,79,Europe/Paris,2021-09-11
+12312978,La Rouillonnais,La Rouillonnais,La Rouillonnais,47.26516,-1.76368,P,PPL,FR,,52,44,442,44158,0,,15,Europe/Paris,2021-09-11
+12312979,L'Étang Bernard,L'Etang Bernard,"L'Etang Bernard,L'Étang Bernard",47.24036,-1.74982,P,PPL,FR,,52,44,442,44158,0,,11,Europe/Paris,2021-09-11
+12312981,La Colle,La Colle,La Colle,47.35548,-1.86319,P,PPL,FR,,52,44,443,44089,0,,83,Europe/Paris,2021-09-11
+12313073,Les Courrères,Les Courreres,"Les Courreres,Les Courrères",47.19545,-1.24195,P,PPL,FR,,52,44,442,44212,0,,88,Europe/Paris,2021-09-11
+12313074,La Chalousière,La Chalousiere,"La Chalousiere,La Chalousière",47.16055,-1.22252,P,PPL,FR,,52,44,442,44212,0,,84,Europe/Paris,2021-09-11
+12313075,Les Corbeillières,Les Corbeillieres,"Les Corbeillieres,Les Corbeillières",47.14393,-1.22791,P,PPL,FR,,52,44,442,44212,0,,63,Europe/Paris,2021-09-11
+12313076,Recouvrance,Recouvrance,Recouvrance,47.07574,-1.24147,P,PPL,FR,,52,44,442,44063,0,,44,Europe/Paris,2021-09-11
+12313077,L'Ânerie,L'Anerie,"L'Anerie,L'Ânerie",47.06767,-1.22574,P,PPL,FR,,52,44,442,44063,0,,56,Europe/Paris,2021-09-11
+12313080,La Pétinière,La Petiniere,"La Petiniere,La Pétinière",47.18127,-1.27225,P,PPL,FR,,52,44,442,44212,0,,63,Europe/Paris,2021-09-11
+12313081,La Rinière,La Riniere,"La Riniere,La Rinière",47.20935,-1.27489,P,PPL,FR,,52,44,442,44079,0,,86,Europe/Paris,2021-09-11
+12313082,Les Laures,Les Laures,Les Laures,47.18072,-1.29961,P,PPL,FR,,52,44,442,44212,0,,42,Europe/Paris,2021-09-11
+12313083,La Gobinière,La Gobiniere,"La Gobiniere,La Gobinière",47.18383,-1.31945,P,PPL,FR,,52,44,442,44212,0,,15,Europe/Paris,2021-09-11
+12313084,La Bretonnière,La Bretonniere,"La Bretonniere,La Bretonnière",47.20101,-1.31388,P,PPL,FR,,52,44,442,44079,0,,34,Europe/Paris,2021-09-11
+12313085,Les Dorices,Les Dorices,Les Dorices,47.17216,-1.26224,P,PPL,FR,,52,44,442,44212,0,,80,Europe/Paris,2021-09-11
+12313086,La Nouillère,La Nouillere,"La Nouillere,La Nouillère",47.16082,-1.28323,P,PPL,FR,,52,44,442,44212,0,,49,Europe/Paris,2021-09-11
+12313087,La Ménardière,La Menardiere,"La Menardiere,La Ménardière",47.16068,-1.32002,P,PPL,FR,,52,44,442,44212,0,,31,Europe/Paris,2021-09-11
+12313088,La Haute Recivière,La Haute Reciviere,"La Haute Reciviere,La Haute Recivière",47.12199,-1.26221,P,PPL,FR,,52,44,442,44108,0,,39,Europe/Paris,2021-09-11
+12313089,La Rouaudière,La Rouaudiere,"La Rouaudiere,La Rouaudière",47.13129,-1.2957,P,PPL,FR,,52,44,442,44108,0,,22,Europe/Paris,2021-09-11
+12313090,La Massonnière,La Massonniere,"La Massonniere,La Massonnière",47.14571,-1.30918,P,PPL,FR,,52,44,442,44212,0,,36,Europe/Paris,2021-09-11
+12313091,La Morandière,La Morandiere,"La Morandiere,La Morandière",47.13049,-1.31121,P,PPL,FR,,52,44,442,44108,0,,28,Europe/Paris,2021-09-11
+12313092,Les Forges,Les Forges,Les Forges,47.11064,-1.28263,P,PPL,FR,,52,44,442,44064,0,,31,Europe/Paris,2021-09-11
+12313093,Le Magasin,Le Magasin,Le Magasin,47.11399,-1.29256,P,PPL,FR,,52,44,442,44064,0,,45,Europe/Paris,2021-09-11
+12313094,La Brie,La Brie,La Brie,47.10782,-1.33341,P,PPL,FR,,52,44,442,44064,0,,45,Europe/Paris,2021-09-11
+12313095,La Grande Galussière,La Grande Galussiere,"La Grande Galussiere,La Grande Galussière",47.09571,-1.30814,P,PPL,FR,,52,44,442,44064,0,,39,Europe/Paris,2021-09-11
+12313096,La Trinité,La Trinite,"La Trinite,La Trinité",47.08869,-1.27755,P,PPL,FR,,52,44,442,44043,0,,27,Europe/Paris,2021-09-11
+12313097,La Malonnière,La Malonniere,"La Malonniere,La Malonnière",47.22024,-1.39595,P,PPL,FR,,52,44,442,44084,0,,11,Europe/Paris,2021-09-11
+12313098,Embreil,Embreil,Embreil,47.22104,-1.43276,P,PPL,FR,,52,44,442,44169,0,,11,Europe/Paris,2021-09-11
+12313099,La Verdonnière,La Verdonniere,"La Verdonniere,La Verdonnière",47.19905,-1.38698,P,PPL,FR,,52,44,442,44071,0,,10,Europe/Paris,2021-09-11
+12313100,Basse Canterie,Basse Canterie,Basse Canterie,47.17883,-1.42784,P,PPL,FR,,52,44,442,44215,0,,31,Europe/Paris,2021-09-11
+12313101,La Brillaudière,La Brillaudiere,"La Brillaudiere,La Brillaudière",47.17652,-1.41084,P,PPL,FR,,52,44,442,44070,0,,28,Europe/Paris,2021-09-11
+12313102,Le Pâtis Vinet,Le Patis Vinet,"Le Patis Vinet,Le Pâtis Vinet",47.18067,-1.42169,P,PPL,FR,,52,44,442,44215,0,,39,Europe/Paris,2021-09-11
+12313103,Saint-Martin,Saint-Martin,Saint-Martin,47.19041,-1.4226,P,PPL,FR,,52,44,442,44071,0,,32,Europe/Paris,2021-09-11
+12313104,La Roseraie,La Roseraie,La Roseraie,47.1757,-1.36946,P,PPL,FR,,52,44,442,44032,0,,7,Europe/Paris,2021-09-11
+12313105,Le Paradis,Le Paradis,Le Paradis,47.17417,-1.39058,P,PPL,FR,,52,44,442,44070,0,,10,Europe/Paris,2021-09-11
+12313106,La Verrie,La Verrie,La Verrie,47.17296,-1.42546,P,PPL,FR,,52,44,442,44215,0,,26,Europe/Paris,2021-09-11
+12313107,Sainte-Germaine,Sainte-Germaine,Sainte-Germaine,47.16201,-1.4272,P,PPL,FR,,52,44,442,44070,0,,10,Europe/Paris,2021-09-11
+12313108,La Caillaudière,La Caillaudiere,"La Caillaudiere,La Caillaudière",47.16911,-1.41456,P,PPL,FR,,52,44,442,44070,0,,30,Europe/Paris,2021-09-11
+12313109,La Gare,La Gare,La Gare,47.16213,-1.39256,P,PPL,FR,,52,44,442,44070,0,,22,Europe/Paris,2021-09-11
+12313110,La Pétière,La Petiere,"La Petiere,La Pétière",47.15097,-1.41075,P,PPL,FR,,52,44,442,44159,0,,37,Europe/Paris,2021-09-11
+12313111,La Févrie,La Fevrie,"La Fevrie,La Févrie",47.1408,-1.38263,P,PPL,FR,,52,44,442,44088,0,,33,Europe/Paris,2021-09-11
+12313112,La Rebourgère,La Rebourgere,"La Rebourgere,La Rebourgère",47.12522,-1.37518,P,PPL,FR,,52,44,442,44088,0,,37,Europe/Paris,2021-09-11
+12313113,La Halopière,La Halopiere,"La Halopiere,La Halopière",47.13243,-1.37224,P,PPL,FR,,52,44,442,44100,0,,41,Europe/Paris,2021-09-11
+12313114,La Minière,La Miniere,"La Miniere,La Minière",47.12067,-1.35099,P,PPL,FR,,52,44,442,44100,0,,41,Europe/Paris,2021-09-11
+12313115,La Bretonnière,La Bretonniere,"La Bretonniere,La Bretonnière",47.12309,-1.4044,P,PPL,FR,,52,44,442,44088,0,,57,Europe/Paris,2021-09-11
+12313116,La Métairie,La Metairie,"La Metairie,La Métairie",47.1433,-1.40422,P,PPL,FR,,52,44,442,44159,0,,42,Europe/Paris,2021-09-11
+12313117,La Bigotière,La Bigotiere,"La Bigotiere,La Bigotière",47.11543,-1.37678,P,PPL,FR,,52,44,442,44088,0,,51,Europe/Paris,2021-09-11
+12313118,Les Hauts Mortiers,Les Hauts Mortiers,Les Hauts Mortiers,47.10096,-1.34602,P,PPL,FR,,52,44,442,44064,0,,41,Europe/Paris,2021-09-11
+12313119,Le Pay,Le Pay,Le Pay,47.09725,-1.36478,P,PPL,FR,,52,44,442,44173,0,,56,Europe/Paris,2021-09-11
+12313120,La Trélitière,La Trelitiere,"La Trelitiere,La Trélitière",47.08854,-1.4041,P,PPL,FR,,52,44,442,44002,0,,36,Europe/Paris,2021-09-11
+12313121,Le Mortier Mainguet,Le Mortier Mainguet,Le Mortier Mainguet,47.0821,-1.34676,P,PPL,FR,,52,44,442,44173,0,,31,Europe/Paris,2021-09-11
+12313122,Le Frêne,Le Frene,"Le Frene,Le Frêne",47.07703,-1.36623,P,PPL,FR,,52,44,442,44173,0,,42,Europe/Paris,2021-09-11
+12313123,Le Champ du Pont,Le Champ du Pont,Le Champ du Pont,47.05763,-1.37365,P,PPL,FR,,52,44,442,44142,0,,30,Europe/Paris,2021-09-11
+12313124,La Bonnaudière,La Bonnaudiere,"La Bonnaudiere,La Bonnaudière",47.21399,-1.43368,P,PPL,FR,,52,44,442,44071,0,,6,Europe/Paris,2021-09-11
+12313125,La Rivière,La Riviere,"La Riviere,La Rivière",47.21437,-1.4759,P,PPL,FR,,52,44,442,44009,0,,8,Europe/Paris,2021-09-11
+12313126,La Fontaine,La Fontaine,La Fontaine,47.20286,-1.49408,P,PPL,FR,,52,44,442,44190,0,,18,Europe/Paris,2021-09-11
+12313127,La Chevrue,La Chevrue,La Chevrue,47.17881,-1.43389,P,PPL,FR,,52,44,442,44215,0,,33,Europe/Paris,2021-09-11
+12313128,La Louée,La Louee,"La Louee,La Louée",47.18421,-1.43235,P,PPL,FR,,52,44,442,44071,0,,57,Europe/Paris,2021-09-11
+12313129,Le Portereau des Landes,Le Portereau des Landes,Le Portereau des Landes,47.19439,-1.47674,P,PPL,FR,,52,44,442,44190,0,,25,Europe/Paris,2021-09-11
+12313130,La Gare,La Gare,La Gare,47.18697,-1.47746,P,PPL,FR,,52,44,442,44215,0,,30,Europe/Paris,2021-09-11
+12313131,La Frémondière,La Fremondiere,"La Fremondiere,La Frémondière",47.1975,-1.43984,P,PPL,FR,,52,44,442,44071,0,,31,Europe/Paris,2021-09-11
+12313132,Les Mortiers,Les Mortiers,Les Mortiers,47.17961,-1.44419,P,PPL,FR,,52,44,442,44215,0,,29,Europe/Paris,2021-09-11
+12313133,La Grammoire,La Grammoire,La Grammoire,47.18302,-1.47141,P,PPL,FR,,52,44,442,44215,0,,22,Europe/Paris,2021-09-11
+12313134,La Ville Au Blanc,La Ville Au Blanc,La Ville Au Blanc,47.18182,-1.45415,P,PPL,FR,,52,44,442,44215,0,,23,Europe/Paris,2021-09-11
+12313135,La Profondine,La Profondine,La Profondine,47.19302,-1.49041,P,PPL,FR,,52,44,442,44190,0,,25,Europe/Paris,2021-09-11
+12313136,Beautour,Beautour,Beautour,47.17763,-1.50496,P,PPL,FR,,52,44,442,44215,0,,23,Europe/Paris,2021-09-11
+12313137,La Denillère,La Denillere,"La Denillere,La Denillère",47.16546,-1.43399,P,PPL,FR,,52,44,442,44215,0,,26,Europe/Paris,2021-09-11
+12313138,La Massonnière,La Massonniere,"La Massonniere,La Massonnière",47.17002,-1.44426,P,PPL,FR,,52,44,442,44215,0,,33,Europe/Paris,2021-09-11
+12313139,La Billardière,La Billardiere,"La Billardiere,La Billardière",47.17375,-1.4553,P,PPL,FR,,52,44,442,44215,0,,28,Europe/Paris,2021-09-11
+12313140,La Grande Noë,La Grande Noe,"La Grande Noe,La Grande Noë",47.16338,-1.45213,P,PPL,FR,,52,44,442,44215,0,,36,Europe/Paris,2021-09-11
+12313141,La Bouteillerie,La Bouteillerie,La Bouteillerie,47.16276,-1.44166,P,PPL,FR,,52,44,442,44215,0,,34,Europe/Paris,2021-09-11
+12313142,Portillon,Portillon,Portillon,47.14958,-1.46759,P,PPL,FR,,52,44,442,44215,0,,20,Europe/Paris,2021-09-11
+12313143,La Ville Henri,La Ville Henri,La Ville Henri,47.16162,-1.43775,P,PPL,FR,,52,44,442,44215,0,,36,Europe/Paris,2021-09-11
+12313144,La Mortalière,La Mortaliere,"La Mortaliere,La Mortalière",47.17058,-1.46378,P,PPL,FR,,52,44,442,44215,0,,35,Europe/Paris,2021-09-11
+12313145,La Grassinière,La Grassiniere,"La Grassiniere,La Grassinière",47.16609,-1.50791,P,PPL,FR,,52,44,442,44215,0,,25,Europe/Paris,2021-09-11
+12313146,La Barbinière,La Barbiniere,"La Barbiniere,La Barbinière",47.16135,-1.48144,P,PPL,FR,,52,44,442,44215,0,,15,Europe/Paris,2021-09-11
+12313147,Le Moulinier,Le Moulinier,Le Moulinier,47.13831,-1.43279,P,PPL,FR,,52,44,442,44037,0,,38,Europe/Paris,2021-09-11
+12313148,La Jarrie,La Jarrie,La Jarrie,47.05665,-1.47702,P,PPL,FR,,52,44,442,44102,0,,22,Europe/Paris,2021-09-11
+12313149,La Gétière,La Getiere,"La Getiere,La Gétière",47.0028,-1.46123,P,PPL,FR,,52,44,442,44127,0,,34,Europe/Paris,2021-09-11
+12313150,La Mauvillonnière,La Mauvillonniere,"La Mauvillonniere,La Mauvillonnière",47.02212,-1.45573,P,PPL,FR,,52,44,442,44127,0,,18,Europe/Paris,2021-09-11
+12313151,Le Barbin,Le Barbin,Le Barbin,46.97146,-1.42457,P,PPL,FR,,52,44,442,44216,0,,42,Europe/Paris,2021-09-11
+12313154,Beaulieu,Beaulieu,Beaulieu,47.20902,-1.53299,P,PPL,FR,,52,44,442,44109,0,,7,Europe/Paris,2021-09-11
+12313155,La Rousselière,La Rousseliere,"La Rousseliere,La Rousselière",47.17591,-1.51873,P,PPL,FR,,52,44,442,44215,0,,19,Europe/Paris,2021-09-11
+12313156,La Houssais,La Houssais,La Houssais,47.17349,-1.55562,P,PPL,FR,,52,44,442,44143,0,,39,Europe/Paris,2021-09-11
+12313157,Sèvres,Sevres,"Sevres,Sèvres",47.18583,-1.52756,P,PPL,FR,,52,44,442,44109,0,,15,Europe/Paris,2021-09-11
+12313158,La Blordière,La Blordiere,"La Blordiere,La Blordière",47.18026,-1.53688,P,PPL,FR,,52,44,442,44143,0,,25,Europe/Paris,2021-09-11
+12313159,Les Landes,Les Landes,Les Landes,47.17331,-1.58438,P,PPL,FR,,52,44,442,44020,0,,30,Europe/Paris,2021-09-11
+12313160,La Trocardière,La Trocardiere,"La Trocardiere,La Trocardière",47.17986,-1.56957,P,PPL,FR,,52,44,442,44143,0,,23,Europe/Paris,2021-09-11
+12313161,Ragon,Ragon,Ragon,47.1667,-1.54188,P,PPL,FR,,52,44,442,44143,0,,39,Europe/Paris,2021-09-11
+12313162,La Bauche Tue-Loup,La Bauche Tue-Loup,La Bauche Tue-Loup,47.13909,-1.55071,P,PPL,FR,,52,44,442,44130,0,,21,Europe/Paris,2021-09-11
+12313163,La Bourie,La Bourie,La Bourie,47.13231,-1.58295,P,PPL,FR,,52,44,442,44130,0,,12,Europe/Paris,2021-09-11
+12313164,La Benêtière,La Benetiere,"La Benetiere,La Benêtière",47.11194,-1.53348,P,PPL,FR,,52,44,442,44130,0,,14,Europe/Paris,2021-09-11
+12313165,Guénégaud,Guenegaud,"Guenegaud,Guénégaud",47.08949,-1.52429,P,PPL,FR,,52,44,442,44014,0,,21,Europe/Paris,2021-09-11
+12313166,Marbœuf,Marboeuf,"Marboeuf,Marbœuf",47.06553,-1.52261,P,PPL,FR,,52,44,442,44223,0,,27,Europe/Paris,2021-09-11
+12313167,Favet,Favet,Favet,46.96017,-1.57402,P,PPL,FR,,52,44,442,44156,0,,47,Europe/Paris,2021-09-11
+12313169,La Bourgonnière,La Bourgonniere,"La Bourgonniere,La Bourgonnière",47.20601,-1.65716,P,PPL,FR,,52,44,442,44162,0,,17,Europe/Paris,2021-09-11
+12313170,Beauregard,Beauregard,Beauregard,47.20876,-1.6615,P,PPL,FR,,52,44,442,44162,0,,26,Europe/Paris,2021-09-11
+12313171,La Bouguinière,La Bouguiniere,"La Bouguiniere,La Bouguinière",47.1731,-1.63411,P,PPL,FR,,52,44,442,44020,0,,24,Europe/Paris,2021-09-11
+12313172,Les Coteaux,Les Coteaux,Les Coteaux,47.18313,-1.66854,P,PPL,FR,,52,44,442,44020,0,,36,Europe/Paris,2021-09-11
+12313173,Roche Ballue,Roche Ballue,Roche Ballue,47.18732,-1.66751,P,PPL,FR,,52,44,442,44101,0,,10,Europe/Paris,2021-09-11
+12313174,Les Bauches du Désert,Les Bauches du Desert,"Les Bauches du Desert,Les Bauches du Désert",47.15913,-1.6479,P,PPL,FR,,52,44,442,44020,0,,23,Europe/Paris,2021-09-11
+12313175,Les Épinais,Les Epinais,"Les Epinais,Les Épinais",47.13631,-1.6076,P,PPL,FR,,52,44,442,44150,0,,17,Europe/Paris,2021-09-11
+12313176,Tréjet,Trejet,"Trejet,Tréjet",47.11243,-1.60671,P,PPL,FR,,52,44,442,44041,0,,7,Europe/Paris,2021-09-11
+12313177,L'Halbrandière,L'Halbrandiere,"L'Halbrandiere,L'Halbrandière",47.12071,-1.6153,P,PPL,FR,,52,44,442,44150,0,,8,Europe/Paris,2021-09-11
+12313178,La Grande Ville,La Grande Ville,La Grande Ville,47.08439,-1.60539,P,PPL,FR,,52,44,442,44041,0,,12,Europe/Paris,2021-09-11
+12313179,La Chaussée,La Chaussee,"La Chaussee,La Chaussée",47.09938,-1.61013,P,PPL,FR,,52,44,442,44041,0,,7,Europe/Paris,2021-09-11
+12313180,Passay,Passay,Passay,47.09648,-1.63582,P,PPL,FR,,52,44,442,44041,0,,6,Europe/Paris,2021-09-11
+12313181,La Barbatière,La Barbatiere,"La Barbatiere,La Barbatière",47.02535,-1.59382,P,PPL,FR,,52,44,442,44155,0,,5,Europe/Paris,2021-09-11
+12313182,La Touche Monnet,La Touche Monnet,La Touche Monnet,46.99023,-1.61458,P,PPL,FR,,52,44,442,44083,0,,34,Europe/Paris,2021-09-11
+12313183,La Bénate,La Benate,"La Benate,La Bénate",46.95501,-1.60494,P,PPL,FR,,52,44,442,44156,0,,52,Europe/Paris,2021-09-11
+12313187,La Noë,La Noe,"La Noe,La Noë",47.19517,-1.712,P,PPL,FR,,52,44,442,44166,0,,20,Europe/Paris,2021-09-11
+12313188,Le Tertre du Buchelier,Le Tertre du Buchelier,Le Tertre du Buchelier,47.21564,-1.73286,P,PPL,FR,,52,44,442,44047,0,,25,Europe/Paris,2021-09-11
+12313189,La Jariais,La Jariais,La Jariais,47.21218,-1.71648,P,PPL,FR,,52,44,442,44047,0,,28,Europe/Paris,2021-09-11
+12313190,Les Ardillets,Les Ardillets,Les Ardillets,47.21346,-1.71628,P,PPL,FR,,52,44,442,44047,0,,29,Europe/Paris,2021-09-11
+12313191,La Métairie,La Metairie,"La Metairie,La Métairie",47.2165,-1.69962,P,PPL,FR,,52,44,442,44047,0,,28,Europe/Paris,2021-09-11
+12313192,Les Sables Rouges,Les Sables Rouges,Les Sables Rouges,47.18565,-1.69389,P,PPL,FR,,52,44,442,44166,0,,27,Europe/Paris,2021-09-11
+12313193,La Gautronnière,La Gautronniere,"La Gautronniere,La Gautronnière",47.17065,-1.73681,P,PPL,FR,,52,44,442,44024,0,,16,Europe/Paris,2021-09-11
+12313194,Le Landas,Le Landas,Le Landas,47.19243,-1.7216,P,PPL,FR,,52,44,442,44166,0,,23,Europe/Paris,2021-09-11
+12313195,La Barbotinière,La Barbotiniere,"La Barbotiniere,La Barbotinière",47.16788,-1.74801,P,PPL,FR,,52,44,442,44024,0,,9,Europe/Paris,2021-09-11
+12313196,La Joussinière,La Joussiniere,"La Joussiniere,La Joussinière",47.17145,-1.74731,P,PPL,FR,,52,44,442,44024,0,,19,Europe/Paris,2021-09-11
+12313197,Le Grand Pêle,Le Grand Pele,"Le Grand Pele,Le Grand Pêle",47.15694,-1.73547,P,PPL,FR,,52,44,442,44133,0,,18,Europe/Paris,2021-09-11
+12313198,La Sohérie,La Soherie,"La Soherie,La Sohérie",47.02959,-1.6989,P,PPL,FR,,52,44,442,44188,0,,41,Europe/Paris,2021-09-11
+12313199,Le Breuil,Le Breuil,Le Breuil,46.99816,-1.69084,P,PPL,FR,,52,44,442,44090,0,,32,Europe/Paris,2021-09-11
+12313201,Launay,Launay,Launay,47.19763,-1.82823,P,PPL,FR,,52,44,442,44145,0,,16,Europe/Paris,2021-09-11
+12313202,Messan,Messan,Messan,47.1923,-1.85302,P,PPL,FR,,52,44,442,44145,0,,4,Europe/Paris,2021-09-11
+12313203,La Raffinière,La Raffiniere,"La Raffiniere,La Raffinière",47.1933,-1.84135,P,PPL,FR,,52,44,442,44145,0,,6,Europe/Paris,2021-09-11
+12313204,La Tancherie,La Tancherie,La Tancherie,47.17911,-1.80065,P,PPL,FR,,52,44,442,44039,0,,11,Europe/Paris,2021-09-11
+12313205,Pilon,Pilon,Pilon,47.17335,-1.78749,P,PPL,FR,,52,44,442,44039,0,,12,Europe/Paris,2021-09-11
+12313206,Le Pont Béranger,Le Pont Beranger,"Le Pont Beranger,Le Pont Béranger",47.1291,-1.83241,P,PPL,FR,,52,44,443,44164,0,,10,Europe/Paris,2021-09-11
+12323951,Bellevue,Bellevue,Bellevue,47.23632,-1.47336,P,PPL,FR,,52,44,442,44172,0,,6,Europe/Paris,2021-09-11
+12358518,Abbaye de Sainte-Radegonde,Abbaye de Sainte-Radegonde,,47.2598,-1.27483,S,HSTS,FR,,52,44,442,44084,0,,71,Europe/Paris,2021-10-15
+12492926,Archives départementales de la Loire-Atlantique,Archives departementales de la Loire-Atlantique,,47.22486,-1.55755,S,ARCHV,FR,,52,44,442,44109,0,,16,Europe/Paris,2022-07-25
+12494116,Graslin,Graslin,,47.21375,-1.56331,P,PPLX,FR,,52,44,442,44109,0,,6,Europe/Paris,2022-09-21
+12719961,Artothèque de Nantes,Artotheque de Nantes,"Le Ring Artotheque de Nantes,Le Ring Artothèque de Nantes",47.21121,-1.5623,S,LIBR,FR,,52,44,442,44109,0,,6,Europe/Paris,2026-03-21
+12746923,École des Beaux-Arts de Nantes Saint-Nazaire,Ecole des Beaux-Arts de Nantes Saint-Nazaire,"Art Delivery (artotheque),Art Delivery (artothèque)",47.20654,-1.55998,S,UNIV,FR,,52,44,442,44109,0,,5,Europe/Paris,2024-03-07
+12750476,Observatoire des Sciences de l'Univers Nantes Atlantique,Observatoire des Sciences de l'Univers Nantes Atlantique,"Nantes Observatory,Osuna",47.23881,-1.55563,S,OBS,FR,,52,44,442,44109,0,,14,Europe/Paris,2024-04-16
+13192380,Musée Jules-Verne,Musee Jules-Verne,,47.20177,-1.57739,S,MUS,FR,,52,44,442,44109,0,,5,Europe/Paris,2025-01-28
+13236900,Boulevard Le Corbusier,Boulevard Le Corbusier,,47.18889,-1.5712,R,ST,FR,,52,44,442,44143,0,,21,Europe/Paris,2025-03-05
+13592130,PARC Artothèque de Nantes (Fermée),PARC Artotheque de Nantes (Fermee),,47.21439,-1.56269,S,MUS,FR,,52,44,442,44109,0,,6,Europe/Paris,2026-03-12

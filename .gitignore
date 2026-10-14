@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# PyCharm / IntelliJ
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Large original GeoNames files
+#Dataset/CSV/allCountries.csv
+#Dataset/Raw/allCountries.txt
