@@ -1,0 +1,26 @@
+
+PREFIX gn:  <https://www.geonames.org/ontology#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+CONSTRUCT {
+?uri a gn:GeonamesFeature ;
+gn:geonamesID ?id ;
+gn:name ?name_v2;
+gn:lat ?lat; 
+gn:long ?long;
+gn:featureClass ?fclasse;
+gn:featureCode ?fcode;
+gn:countryCode ?ccode;
+gn:population ?pop .
+}
+WHERE {
+BIND (URI(CONCAT("https://sws.geonames.org/", STR(?geonameid), "/")) AS ?uri) 
+BIND (STRDT(STR(?geonameid), xsd:integer) AS ?id) 
+BIND (STR(?name) AS ?name_v2)
+BIND (STRDT(STR(?latitude), xsd:decimal) AS ?lat)
+BIND (STRDT(STR(?longitude), xsd:decimal) AS ?long)
+BIND (URI(CONCAT("https://www.geonames.org/ontology#", STR(?feature_class))) AS ?fclasse)
+BIND (URI(CONCAT("https://www.geonames.org/ontology#", STR(?feature_class), ".", STR(?feature_code))) AS ?fcode)
+BIND (STR(?country_code) AS ?ccode)
+BIND (STRDT(STR(?population), xsd:integer) AS ?pop)
+}

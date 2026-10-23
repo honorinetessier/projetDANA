@@ -1,0 +1,43 @@
+
+PREFIX gn:  <https://www.geonames.org/ontology#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX schema: <https://schema.org/>
+
+CONSTRUCT {
+?uri a gn:GeonamesFeature ;
+gn:geonamesID ?id ;
+gn:name ?name_v2;
+skos:altLabel ?ascii; 
+#gn:ascii pas défini donc j'ai pris le prédicat skos:altLabel 
+gn:lat ?lat; 
+gn:long ?long;
+gn:featureClass ?fclasse;
+gn:featureCode ?fcode;
+gn:countryCode ?ccode;
+gn:population ?pop;
+schema:elevation ?elev; 
+#gn:elevation pas défini donc schema:elevation
+schema:timeZone ?tz. 
+#gn:timezone pas défini donc schema:timeZone
+}
+WHERE {
+BIND (URI(CONCAT("https://sws.geonames.org/", STR(?geonameid), "/")) AS ?uri) 
+#permet de définir une entité geoname, en cliquant dessus on voit l'entité dans geonames 
+BIND (STRDT(STR(?geonameid), xsd:integer) AS ?id) 
+BIND (STR(?name) AS ?name_v2)
+BIND (STR(?asciiname) AS ?ascii) 
+BIND (STRDT(STR(?latitude), xsd:decimal) AS ?lat)
+BIND (STRDT(STR(?longitude), xsd:decimal) AS ?long)
+BIND (URI(CONCAT("https://www.geonames.org/ontology#", STR(?feature_class))) AS ?fclasse)
+BIND (URI(CONCAT("https://www.geonames.org/ontology#", STR(?feature_class), ".", STR(?feature_code))) AS ?fcode)
+BIND (STR(?country_code) AS ?ccode)
+BIND (STRDT(STR(?population), xsd:integer) AS ?pop)
+BIND (IF(BOUND(?elevation) && STR(?elevation) != "", STRDT(STR(?elevation), xsd:decimal), ?nothing) AS ?elev)
+#on vérifie que elevation est défini et que ce n'est pas la chaine vide, si c'est la cas on lui donne une variable dite non lié 
+BIND (STR(?timezone) AS ?tz)
+
+#1 tarql crée une variable ?nomcolonne pour chaque attribut de la colonne
+#2 dans le WHERE convertit et attribue les bons noms aux variables, ?longitude -> ?long et devient un decimal
+#3 dans le CONSTRUCT tarql construit les triplets
+}
