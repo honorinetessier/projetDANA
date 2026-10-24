@@ -3,6 +3,7 @@ PREFIX gn:  <https://www.geonames.org/ontology#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX schema: <https://schema.org/>
+PREFIX dbo:    <http://dbpedia.org/ontology/>
 
 CONSTRUCT {
 ?uri a gn:GeonamesFeature ;
@@ -18,7 +19,7 @@ gn:countryCode ?ccode;
 gn:population ?pop;
 schema:elevation ?elev; 
 #gn:elevation pas défini donc schema:elevation
-schema:timeZone ?tz. 
+dbo:timeZone ?tz. 
 #gn:timezone pas défini donc schema:timeZone
 }
 WHERE {
