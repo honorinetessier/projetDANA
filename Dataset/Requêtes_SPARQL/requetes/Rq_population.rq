@@ -1,0 +1,14 @@
+#Les 10 localités les plus peuplées
+
+PREFIX gn: <https://www.geonames.org/ontology#>
+
+SELECT ?f ?nom ?pop
+WHERE {
+  ?f a gn:GeonamesFeature ;
+     gn:name ?nom ;
+     gn:featureCode gn:P.PPL ;
+     gn:population ?pop .
+  FILTER(?pop > 0)
+}
+ORDER BY DESC(?pop)
+LIMIT 10

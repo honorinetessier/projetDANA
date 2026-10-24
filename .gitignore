@@ -10,4 +10,4 @@ __pycache__/
 
 # Large original GeoNames files
 #Dataset/CSV/allCountries.csv
-#Dataset/Raw/allCountries.txt
+#Dataset/Raw/allCountries.txtDataset/apache-jena-fuseki-*/
