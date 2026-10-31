@@ -1,0 +1,103 @@
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix gn: <https://www.geonames.org/ontology#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <https://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<https://github.com/honorinetessier/projetDANA/tree/main/Dataset>
+
+    a void:Dataset ;
+
+    dcterms:title "GeoNames France Dataset" ;
+
+    dcterms:description
+        "A semantic RDF representation of GeoNames geographical features in France." ;
+
+    dcterms:source <https://www.geonames.org/> ;
+
+    void:uriSpace "https://sws.geonames.org/" ;
+
+    void:sparqlEndpoint <http://localhost:3030/GeoName/sparql> ;
+
+    void:triples 1928353 ;
+
+    void:entities 174749 ;
+
+    void:classes 1 ;
+
+    void:properties 12 ;
+
+    void:distinctSubjects 174749 ;
+
+    void:distinctObjects 606446 ;
+
+    void:vocabulary
+        <https://www.geonames.org/ontology#> ,
+        <http://www.w3.org/2004/02/skos/core#> ,
+        <https://schema.org/> ;
+
+    void:classPartition [
+        void:class gn:GeonamesFeature ;
+        void:entities 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property rdf:type ;
+        void:triples 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property skos:altLabel ;
+        void:triples 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property gn:countryCode ;
+        void:triples 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property gn:featureClass ;
+        void:triples 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property gn:featureCode ;
+        void:triples 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property gn:geonamesID ;
+        void:triples 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property gn:lat ;
+        void:triples 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property gn:long ;
+        void:triples 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property gn:name ;
+        void:triples 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property gn:population ;
+        void:triples 174749
+    ] ;
+
+    void:propertyPartition [
+        void:property schema:timeZone ;
+        void:triples 174657
+    ] ;
+
+    void:propertyPartition [
+        void:property schema:elevation ;
+        void:triples 6206
+    ] .
