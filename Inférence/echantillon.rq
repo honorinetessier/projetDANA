@@ -1,0 +1,6 @@
+PREFIX gn: <https://www.geonames.org/ontology#>
+CONSTRUCT { ?f ?p ?o }
+WHERE {
+  ?f a gn:GeonamesFeature ; gn:lat ?lat ; gn:long ?long ; ?p ?o .
+  FILTER(?lat > 46.9 && ?lat < 47.6 && ?long > -2.2 && ?long < -0.9)
+}

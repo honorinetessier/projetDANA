@@ -1,0 +1,2 @@
+﻿PREFIX gn: <https://www.geonames.org/ontology#>
+SELECT (COUNT(?x) AS ?n) WHERE { ?x a gn:Feature }

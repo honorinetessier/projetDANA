@@ -1,0 +1,9 @@
+#les villes de plus de 100 000 habitants
+
+PREFIX gn: <https://www.geonames.org/ontology#>
+
+CONSTRUCT { ?f gn:name ?nom ; gn:population ?pop }
+WHERE {
+  ?f gn:featureCode gn:P.PPL ; gn:name ?nom ; gn:population ?pop .
+  FILTER(?pop > 100000)
+}

@@ -1,0 +1,14 @@
+
+#Hôtels autour de Nantes
+
+PREFIX gn: <https://www.geonames.org/ontology#>
+
+SELECT ?f ?nom ?lat ?long
+WHERE {
+  ?f gn:featureCode gn:S.HTL ;
+     gn:name ?nom ;
+     gn:lat ?lat ;
+     gn:long ?long .
+  FILTER(?lat > 47.15 && ?lat < 47.30 && ?long > -1.70 && ?long < -1.45)
+}
+ORDER BY ?nom

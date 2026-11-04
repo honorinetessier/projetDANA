@@ -1,0 +1,4 @@
+﻿SELECT ?classe (COUNT(?x) AS ?n) WHERE {
+  VALUES ?classe { <http://schema.org/City> <http://schema.org/Mountain> <http://rdf.insee.fr/geo/Commune> <http://dbpedia.org/ontology/Airport> }
+  ?x a ?classe
+} GROUP BY ?classe

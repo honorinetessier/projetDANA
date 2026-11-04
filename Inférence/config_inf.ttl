@@ -1,0 +1,28 @@
+@prefix :       <#> .
+@prefix fuseki: <http://jena.apache.org/fuseki#> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ja:     <http://jena.hpl.hp.com/2005/11/Assembler#> .
+
+:serviceInf a fuseki:Service ;
+    fuseki:name "GeonamesInf" ;
+    fuseki:endpoint [ fuseki:operation fuseki:query ; fuseki:name "query" ] ;
+    fuseki:dataset :datasetInf .
+
+:serviceBase a fuseki:Service ;
+    fuseki:name "GeonamesBase" ;
+    fuseki:endpoint [ fuseki:operation fuseki:query ; fuseki:name "query" ] ;
+    fuseki:dataset :datasetBase .
+
+:datasetInf  a ja:RDFDataset ; ja:defaultGraph :modelInf .
+:datasetBase a ja:RDFDataset ; ja:defaultGraph :modelBase .
+
+:modelInf a ja:InfModel ;
+    ja:baseModel :modelBase ;
+    ja:reasoner [ ja:reasonerURL <http://jena.hpl.hp.com/2003/OWLMicroFBRuleReasoner> ] .
+
+:modelBase a ja:MemoryModel ;
+    ja:content [ ja:externalContent <file:///C:/Users/yasmine/Documents/WebSemantique/Projet/Partie_3/ontology_v3.3.rdf> ] ;
+    ja:content [ ja:externalContent <file:///C:/Users/yasmine/Documents/WebSemantique/Projet/Partie_3/mappings_https.rdf> ] ;
+    ja:content [ ja:externalContent <file:///C:/Users/yasmine/Documents/WebSemantique/Projet/Partie_3/echantillon.nt> ] .
+
+

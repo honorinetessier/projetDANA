@@ -1,0 +1,5 @@
+﻿PREFIX gn: <https://www.geonames.org/ontology#>
+SELECT ?type WHERE {
+  { SELECT ?x WHERE { ?x gn:featureCode gn:S.HTL } LIMIT 1 }
+  ?x a ?type
+}

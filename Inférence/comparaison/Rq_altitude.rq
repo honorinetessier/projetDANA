@@ -1,0 +1,14 @@
+#Sommets de plus de 3 000 m
+
+PREFIX gn:     <https://www.geonames.org/ontology#>
+PREFIX schema: <https://schema.org/>
+
+SELECT ?f ?nom ?alt
+WHERE {
+  ?f gn:featureCode gn:T.PK ;
+     gn:name ?nom ;
+     schema:elevation ?alt .
+  FILTER(?alt > 3000)
+}
+ORDER BY DESC(?alt)
+LIMIT 20
