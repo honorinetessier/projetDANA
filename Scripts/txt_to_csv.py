@@ -3,9 +3,6 @@ import csv
 input_file = "../Raw/allCountries.txt"
 output_file = "../CSV/allCountries.csv"
 
-#input_file = "../Raw/cities1000.txt"
-#output_file = "../CSV/cities1000.csv"
-
 columns = [
     "geonameid ",
     "name",
@@ -49,3 +46,7 @@ with open(output_file, "r", encoding="utf-8") as file:
 
     print("Number of columns:", len(header))
     print("Columns:", header)
+
+
+
+    

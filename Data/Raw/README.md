@@ -1,3 +1,49 @@
+# Raw Data
+
+This directory contains the original source data used for the project.
+
+## Source
+
+The project uses geographic data from **GeoNames**, with a focus on geographic features located in France.
+
+The raw GeoNames files are used as the starting point for the data preparation and RDF transformation pipeline.
+
+## Data Preparation
+
+The raw data is first converted and filtered using the Python scripts located in:
+
+```text
+Scripts/
+```
+
+The main processing steps include:
+
+```text
+Raw GeoNames data
+        ↓
+Text to CSV conversion
+        ↓
+Filtering
+        ↓
+Data cleaning
+        ↓
+Processed dataset
+```
+
+The resulting files are stored in:
+
+```text
+Data/Processed/
+```
+
+## Repository
+
+The complete raw dataset is not stored directly in the repository because of its size.
+
+The source information and instructions required to obtain and prepare the data are documented here so that the processing workflow can be reproduced.
+
+
+
 
 Readme for GeoNames Gazetteer extract files
 

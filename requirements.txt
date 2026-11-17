@@ -1,0 +1,17 @@
+# Python dependencies for the Semantic Web / GeoNames project
+
+# Data processing and cleaning
+pandas
+numpy
+
+# HTTP requests and data retrieval
+requests
+
+# RDF / Semantic Web
+rdflib
+SPARQLWrapper
+TARQL
+Apache Jena / Fuseki
+Java
+GeoNames dataset
+RDFS/OWL inference tools

@@ -1,6 +1,4 @@
 import csv
-from pathlib import Path
-
 
 # Project folders
 input_file = "../CSV/allCountries.csv"
